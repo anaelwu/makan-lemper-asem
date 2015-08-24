@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:icon="@drawable/ic_refresh_black"
+        android:title="@string/iapps__refresh"
+        app:showAsAction="always"/>
+
+</menu><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/refresh_black.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/menu/refresh_black.xml -->

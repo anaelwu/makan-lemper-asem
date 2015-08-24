@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Product Details -->
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="added_to_wishlist">Added to Wishlist</string>
+    <string name="info">Info</string>
+    <string name="weight">Berat</string>
+    <string name="ingredients">Bahan Dasar</string>
+    <string name="how_to_use">Cara Pemakaian</string>
+
+</resources>

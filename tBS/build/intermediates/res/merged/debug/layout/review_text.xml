@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tab_active" >
+
+    <RelativeLayout
+        android:id="@+id/rlComment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="@dimen/margin_small"
+        android:paddingLeft="@dimen/margin_med"
+        android:paddingRight="@dimen/margin_med"
+        android:paddingTop="@dimen/margin_small" >
+
+        <ImageButton
+            android:id="@+id/btnSend"
+            style="@style/imgBtn"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_send" />
+
+        <EditText
+            android:id="@+id/edt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/btnSend"
+            android:layout_alignParentLeft="true"
+            android:layout_alignTop="@+id/btnSend"
+            android:layout_toLeftOf="@+id/btnSend"
+            android:background="@drawable/edt_green"
+            android:ems="10"
+            android:hint="@string/share_experience"
+            android:textColor="@color/tbs_gray" >
+        </EditText>
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/review_text.xml -->

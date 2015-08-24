@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="AppCompatResource" severity="ignore" />
+    <issue id="ClickableViewAccessibility" severity="ignore" />
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="DefaultLocale" severity="ignore" />
+    <issue id="DisableBaselineAlignment" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="NewApi" severity="ignore" />
+    <issue id="ResAuto">
+        <ignore path="res/layout/actionbar.xml" />
+    </issue>
+    <issue id="ResourceAsColor" severity="ignore" />
+    <issue id="RtlEnabled" severity="ignore" />
+    <issue id="RtlHardcoded" severity="ignore" />
+    <issue id="RtlSymmetry" severity="ignore" />
+    <issue id="ScrollViewSize" severity="ignore" />
+    <issue id="TypographyDashes" severity="ignore" />
+    <issue id="Typos" severity="ignore" />
+    <issue id="UseCompoundDrawables" severity="ignore" />
+    <issue id="UselessParent" severity="ignore" />
+</lint>

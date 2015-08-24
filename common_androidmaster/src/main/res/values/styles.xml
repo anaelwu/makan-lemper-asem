@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <!--
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+       
+    </style>
+    -->
+
+
+    <!-- Application theme. -->
+    <!--
+    <style name="AppTheme" parent="AppBaseTheme">
+        All customizations that are NOT specific to a particular API-level can go here.
+    </style>
+    -->
+
+
+    <!-- ANIMATION -->
+    <style name="dialog_animation_fade">
+        <item name="android:windowEnterAnimation">@anim/fadein</item>
+        <item name="android:windowExitAnimation">@anim/fadeout</item>
+    </style>
+
+    <!-- ImageButton -->
+    <style name="imgBtn" parent="android:Widget.ImageButton">
+        <item name="android:background">@drawable/bg_selectable</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_width">@dimen/min_size</item>
+        <item name="android:layout_height">@dimen/min_size</item>
+    </style>
+
+    <style name="btn" parent="android:Widget.Holo.Light.Button">
+        <item name="android:minHeight">@dimen/min_size_small</item>
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="btn_blue_fb" parent="btn">
+        <item name="android:background">@drawable/btn_blue_xml</item>
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="btn_white" parent="btn">
+        <item name="android:background">@drawable/btn_white_xml</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="btn_transparent" parent="btn">
+        <item name="android:background">@drawable/bg_selectable</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:paddingLeft">@dimen/margin_small</item>
+        <item name="android:paddingRight">@dimen/margin_small</item>
+    </style>
+    <!-- ListView -->
+    <style name="lv">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:listSelector">@drawable/bg_selectable</item>
+    </style>
+
+    <style name="edt_light">
+        <item name="floating_edit_text_color">@color/Gray</item>
+        <item name="floating_edit_text_highlighted_color">@color/LightGrey</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:tint">@color/Gray</item>
+        <item name="android:textCursorDrawable" tools:targetApi="12">@null</item>
+        <item name="android:textColorHint">@color/Gray</item>
+    </style>
+
+    <!-- RadioButton -->
+    <!-- Radio Button -->
+    <style name="radio_white" parent="android:Theme.Holo.Light">
+        <item name="android:listChoiceIndicatorSingle">@drawable/radio_white</item>
+    </style>
+
+</resources>

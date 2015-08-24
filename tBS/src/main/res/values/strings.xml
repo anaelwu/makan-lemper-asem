@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Keys -->
+    <string name="google_api_key">AIzaSyBp7GvCbNrjHki-2XYLDKqwK687IHf3xcc</string>
+    <string name="fb_app_id">690211001100836</string>
+
+    <!-- Default Strings -->
+    <string name="app_name">The Body Shop Indonesia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TBS Details -->
+    <string name="con_phone_1">+62 21 1500 827</string>
+    <string name="con_phone_2">+62 21 748 666 88</string>
+    <string name="con_email">care@thebodyshop.co.id</string>
+    <string name="con_opening">Senin - Jumat : 09.00-21.00\nSabtu : 09.00-18.00</string>
+
+    <!-- Menu -->
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="view_profile">View Profile</string>
+    <string name="save">Save</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="delete">Delete</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+
+    <!-- Home -->
+    <string name="profile_white">Profile</string>
+    <string name="home">Home</string>
+    <string name="campaign">Special Offers</string>
+    <string name="product_category">Product Category</string>
+    <string name="product">Products</string>
+    <string name="location">Location</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="rewards">Rewards</string>
+    <string name="scan_product">Scan Product</string>
+    <string name="store_locators">Store Locators</string>
+    <string name="news">News</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="logout">Logout</string>
+    <string name="back_to_login">Back to Login Page</string>
+    <string name="connect">Connect with Us</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="skip_login"><u>Just take me inside</u></string>
+    <string name="login_fb">Login with Facebook</string>
+    <string name="or">Or</string>
+    <string name="or_caps">OR</string>
+    <string name="tbs">The Body Shop</string>
+    <string name="sign_up">Join Us Now</string>
+    <string name="submit">Submit</string>
+    <string name="prelogin_title">Do You Have\nTBS Account?</string>
+    <string name="login_card">Sign in with\nTheBodyShop Card</string>
+    <string name="member_login">Member Login</string>
+    <string name="tbs_card_number">TheBodyShop Card Number</string>
+    <string name="cant_login">Can\'t login?</string>
+    <string name="help_title">What is Card Number?</string>
+    <string name="help_desc">TheBodyShop Card Number can \nbe located at the back of your \nTheBodyShop Card.\nYou need to input your Card \nNumber, in order to get the benefits.\nIf you lost your card, \nplease don’t hesitate to contact us.</string>
+
+    <!-- Alert -->
+    <string name="campaign_level">This campaign requires at least level $1</string>
+    <string name="profile_saved">Profile saved!</string>
+    <string name="exit_message">Exit application?</string>
+    <string name="no_reviews">No reviews</string>
+    <string name="review_submit">Thank you for sharing your experience! Your review will appear shortly after we do some approvals.</string>
+    <string name="success_remove">Product removed</string>
+    <string name="success_wish">Added to wishlist</string>
+    <string name="no_wish">You don\'t have any wishlist</string>
+    <string name="please_login">Please login</string>
+    <string name="review_empty">Review can\'t be empty</string>
+
+    <!-- Profile -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone No.</string>
+    <string name="dob">Date of Birth</string>
+    <string name="click_vcard">Click to See\nVirtual Card</string>
+    <string name="past_transactions">Purchase History</string>
+    <string name="link_fb">Link with Facebook</string>
+    <string name="details">Details</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="scan_me">Scan Me!</string>
+    <string name="accept_tnc">Accept T&amp;C</string>
+    <string name="extension">+62</string>
+    <string name="transaction_remarks">*Displays 20 last transactions within 2 years</string>
+
+    <!-- Rewards -->
+    <string name="member_upgrade_rewards">Member Upgrade Rewards</string>
+    <string name="welcome_book">Welcome Book</string>
+    <string name="birthday_gift">Birthday Gift</string>
+    <string name="redeem_point">Redeem Points</string>
+    <string name="view_rewards_catalog">View Rewards Catalog</string>
+    <string name="state_fan_req">LYB Fan\nRewards</string>
+    <string name="state_club_req">LYB Club\nRewards</string>
+
+    <!-- Scan -->
+    <string name="scan_title">Scan Our product Barcode\nto See More Information</string>
+    <string name="scan_notice">Move your device so that the barcode\nis in the viewer and hold still</string>
+    <string name="enter_product_code">Enter Product Code</string>
+
+    <!-- Store -->
+    <string name="get_directions">Get Directions</string>
+
+    <!-- Wishlist -->
+    <string name="buy">Buy</string>
+
+    <!-- Socmed -->
+    <string name="were_on">We\'re on ..</string>
+
+    <!-- Contact Us -->
+    <string name="customer_care">Customer Care</string>
+    <string name="email_us">Email Us</string>
+    <string name="name">Name</string>
+    <string name="chat">Talk to Us</string>
+    <string name="comment">Your comments..</string>
+    <string name="live_chat">Online Chat</string>
+
+    <!-- Products -->
+    <string name="share_experience">Share your experience</string>
+    <string name="bath_body_care">Bath &amp; Body Care</string>
+    <string name="skincare">Skincare</string>
+    <string name="makeup">Make-up</string>
+    <string name="gift">Gifts</string>
+    <string name="fragrance">Fragrance</string>
+    <string name="handcare">Handcare</string>
+    <string name="mens">Mens</string>
+    <string name="shop_range">Shop by Range</string>
+
+    <!-- Product Details -->
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="added_to_wishlist">Added to Wishlist</string>
+    <string name="info">Info</string>
+    <string name="weight">Weight</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="how_to_use">How To Use</string>
+    <string name="variants">Variants</string>
+
+    <!-- Link -->
+    <string name="link_lyb_title">Do you have these cards?</string>
+    <string name="link_lyb_notice">If yes, please enter your Card Number to enjoy the benefits</string>
+    <string name="link_lyb_dont_have">No, I don\'t have</string>
+    <string name="your_card_number">Your Card Number</string>
+    <string name="maybe_next_time">Maybe next time</string>
+    <string name="link_fb_desc">Your account is not linked with Facebook. Please click the button below to get easy login access.</string>
+
+    <!-- Title -->
+    <string name="title_update_profile">Update Profile</string>
+    <string name="signup">Sign Up</string>
+    <string name="rewards_catalog">Rewards Catalog</string>
+
+    <!-- Font -->
+    <string name="font_button">myriad_pro.ttf</string>
+    <string name="font_default">Roboto-Regular.ttf</string>
+    <string name="font_default_bold">Roboto-Bold.ttf</string>
+    <string name="font_title">KnockoutHTF48Featherweight.ttf</string>
+
+    <!-- Alert -->
+    <string name="alert_login_error_title">Sorry!</string>
+    <string name="alert_login_error">The credentials you entered is not valid. Please contact our customer service if you have any difficulties.</string>
+    <string name="try_again">Try Again</string>
+    <string name="ask_us">Ask Us</string>
+
+    <!-- Rewards Details -->
+    <string name="rewards_details_upgrade_title">Syarat dan Ketentuan Love Your Body&#8482; Fan</string>
+    <string name="rewards_details_upgrade_desc">- Anda akan mendapatkan keanggotaan Love Your Body&#8482;  Fan jika Anda sudah menjadi anggota Love Your Body&#8482;  Club dan melakukan pembelanjaan minimal Rp 3.000.000 dalam jangka waktu 1 (satu) tahun.\n\n- Keanggotaan Love Your Body&#8482;  Fan  Anda akan mengalami penurunan kembali menjadi Love Your Body&#8482;  Club apabila pembelanjaan Anda dalam 1 (satu) tahun kurang dari Rp 3.000.000.\n\n- Poin akan secara otomatis hangus jika kartu habis masa berlakunya.  Pastikan Anda melakukan transaksi sekurang-kurangnya 1 (satu) kali dalam 1 (satu) tahun.\n\n- Keanggotaan Love Your Body&#8482;  Fan hanya bisa digunakan oleh satu orang yang namanya tercantum di kartu. \n\n- Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Poin berlaku 2 (dua) tahun terhitung sejak poin dikeluarkan. Pastikan Anda melakukan penukaran poin sebelum masa berlaku poin habis.\n\n- Jika kartu hilang, Anda bisa mendapatkan kartu keanggotaan kembali dengan biaya penggantian kartu sebesar Rp 50.000 atau dengan melakukan pembelian minimum Rp 250.000.\n\n- Untuk menikmati keistimewaan Love Your Body&#8482; Fan,  tunjukkan kartu setiap kali Anda melakukan transaksi. \n\n- Program ini berlaku di toko-toko The Body Shop® seluruh Indonesia.\n\n- The Body Shop® Indonesia berhak untuk mengubah syarat dan ketentuan program ini sewaktu-waktu tanpa pemberitahuan sebelumnya.</string>
+    <string name="rewards_details_book_title">WELCOME TO LOVE YOUR BODY&#8482; CLUB</string>
+    <string name="rewards_details_book_desc">Selamat datang di The Body Shop®. Kami percaya bahwa meluangkan sedikit waktu untuk memanjakan tubuh dan jiwa sangat penting untuk kehidupan Anda. Kami ingin membantu Anda mewujudkan filosofi unik ini melalui program Love Your Body&#8482;.\n\nREAL TREATS, REAL BENEFITS!\n\n- Point rewards untuk ditukarkan dengan produk favorit atau diskon pembayaran. \n* 1 Poin = Rp 25.000 untuk Love Your Body&#8482; Club\n* 1 Poin = Rp 17.000 untuk Love Your Body&#8482; Fan\n- Penawaran eksklusif khusus member sepanjang tahun.\n\n- Informasi terkini mengenai program The Body Shop®.\n\n- Undangan untuk menghadiri berbagai acara eksklusif khusus member.\n\n- Bring Back Our Bottles. Kembalikan kemasan kosong The Body Shop® Anda dan dapatkan bonus 1 poin per 1 kemasan.\n\n- Special Birthday Treat dengan menunjukkan SMS ulang tahun dari kami di bulan ulang tahun Anda, berlaku untuk satu kali penggunaan. \n\n- Beauty Class Program (jadwal dapat dikonfirmasikan ke gerai The Body Shop® terdekat).\n\nSyarat dan Ketentuan Love Your Body&#8482; Club\n\n- Keanggotaan Love Your Body&#8482; hanya bisa digunakan oleh satu orang yang namanya tercantum di kartu sesuai dengan tanda pengenal (KTP/SIM). \n\n- Anda akan mendapatkan 1 (satu) poin setiap melakukan pembelian senilai Rp 25.000 di toko The Body Shop Indonesia. Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Poin akan secara otomatis hangus jika kartu habis masa berlakunya. Pastikan Anda melakukan transaksi sekurang-kurangnya 1 (satu) kali dalam 12 (dua belas) bulan.\n\n- Poin berlaku 2 (dua) tahun terhitung sejak poin dikeluarkan. Pastikan Anda melakukan penukaran poin sebelum masa berlaku habis.\n\n- Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Jika kartu hilang, Anda bisa mendapatkan kartu keanggotaan kembali dengan membayar Rp 50.000 atau dengan melakukan pembelian minimum Rp 250.000.\n\n- Untuk menikmati keistimewaan anggota Love Your Body&#8482;, tunjukkan kartu setiap kali Anda melakukan transaksi.\n\n- Program ini berlaku di toko-toko The Body Shop® yang berada di seluruh Indonesia.\n\n- The Body Shop® Indonesia berhak untuk mengubah syarat dan ketentuan program ini sewaktu-waktu tanpa pemberitahuan</string>
+    <string name="rewards_details_bday_title">Birthday Treat</string>
+    <string name="rewards_details_bday_desc">Syarat dan Ketentuan:\n\n1.	Birthday discount untuk Love Your Body&#8482; Club dan Love Your Body&#8482; Fan hanya bisa digunakan 1X (satu kali) di bulan ulang tahun.\n\n2.	Bithday gift hanya diberikan kepada member Love Your Body&#8482; Fan dan hanya bisa diberikan 1X (satu kali) di bulan ulang tahun.\n\n3.	Pengambilan birthday gift (khusus Love Your Body&#8482; Fan) dan penggunaan birthday discount harus selalu menunjukkan tanda pengenal dan kartu member.\n\n4.	Syarat dan ketentuan dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu.</string>
+    <string name="rewards_details_redeem_title">Love Your Body&#8482; Redemption</string>
+    <string name="rewards_details_redeem_desc"><b>Pengumpulan Poin:</b> \n1.	Untuk Love Your Body&#8482; Club, setiap berbelanja sebesar Rp 25.000, Anda akan mendapatkan 1 poin.\n\n2.	Untuk Love Your Body&#8482; Fan, setiap berbelanja sebesar Rp 17.000, Anda akan mendapatkan 1 poin.\n\n3.	Poin tidak dapat dibeli atau ditransfer dan hanya bisa didapat di seluruh gerai The Body Shop® di Indonesia.\n\n4.	Pastikan Anda melakukan transaksi minimal 1 (satu) kali dalam 12 (dua belas) bulan karena poin akan hangus jika habis masa berlakunya. \n5.	Pastikan Anda melakukan penukaran poin dalam waktu tidak lebih dari 2 (dua) tahun terhitung sejak poin dikeluarkan.\n\n6.	Tunjukan kartu saat Anda berbelanja untuk memperbarui jumlah poin yang Anda dapat di sistem kami.\n\n\n<b>Penukaran Poin:</b>\n1.	Pastikan poin Anda cukup untuk mendapatkan hadiah yang diinginkan.\n\n2.	Konfirmasikan hadiah yang akan ditukar karena poin yang sudah berkurang tidak dapat dikembalikan.\n\n3.	Ketersediaan produk tergantung dari persediaan di toko\n4.	Syarat dan ketentuan dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu.</string>
+
+</resources>

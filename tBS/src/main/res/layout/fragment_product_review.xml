@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tab_active" >
+
+    <ListView
+        android:id="@+id/lv"
+        style="@style/lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnComment"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:clipToPadding="false"
+        android:divider="@color/transparent"
+        android:listSelector="@color/transparent"
+        android:paddingBottom="@dimen/margin_med"
+        android:paddingTop="@dimen/margin_med"
+        android:scrollbars="none" >
+    </ListView>
+
+    <Button
+        android:id="@+id/btnComment"
+        style="@style/btn_gray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/margin_med"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/margin_med"
+        android:text="@string/share_experience" />
+
+    <com.iapps.libs.views.LoadingCompound
+        android:id="@+id/ld"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/lv"
+        android:background="@drawable/tab_active"
+        android:visibility="visible" >
+    </com.iapps.libs.views.LoadingCompound>
+
+</RelativeLayout>

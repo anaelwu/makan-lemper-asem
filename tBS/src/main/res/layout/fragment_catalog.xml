@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?android:attr/actionBarSize"
+    android:background="@color/White" >
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <GridView
+            android:id="@+id/gv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:background="@color/gray_light"
+            android:clipToPadding="false"
+            android:horizontalSpacing="@dimen/margin_med"
+            android:numColumns="2"
+            android:paddingBottom="@dimen/margin_med"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/margin_med"
+            android:scrollbarStyle="outsideOverlay"
+            android:scrollbars="none"
+            android:verticalSpacing="@dimen/margin_med" >
+        </GridView>
+
+        <com.iapps.libs.views.LoadingCompound
+            android:id="@+id/ld"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/White"
+            android:visibility="visible" >
+        </com.iapps.libs.views.LoadingCompound>
+    </RelativeLayout>
+
+</android.support.v4.widget.SwipeRefreshLayout>

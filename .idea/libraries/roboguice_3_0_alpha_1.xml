@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="roboguice-3.0-alpha-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/actionbar4guice/libs/roboguice-3.0-alpha-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tbs_base_color">#3e6326</color>
+    <color name="gray_transparent">#90696969</color>
+    <color name="white_transparent">#99FFFFFF</color>
+    <color name="gray_light">#EEEEEE</color>
+    <color name="tbs_pink">#e10785</color>
+    <color name="tbs_stamp">#003423</color>
+    <color name="tbs_white_toolbar">#f8f8f8</color>
+    <color name="tbs_gray">#555555</color>
+
+    <!-- Home -->
+    <color name="bg_programs">#6fc6b5</color>
+    <color name="bg_rewards">#b5e0f8</color>
+    <color name="bg_wishlist">#fcbb42</color>
+    <color name="bg_products">#e44162</color>
+    <color name="bg_scan">#3e8095</color>
+    <color name="bg_store">#961b1e</color>
+    <color name="bg_connect">#5a99b0</color>
+    <color name="bg_contact">#cccb31</color>
+    <color name="bg_programs_pressed">#599E91</color>
+    <color name="bg_rewards_pressed">#91B3C6</color>
+    <color name="bg_wishlist_pressed">#CA9635</color>
+    <color name="bg_products_pressed">#B6344E</color>
+    <color name="bg_scan_pressed">#326677</color>
+    <color name="bg_store_pressed">#781618</color>
+    <color name="bg_connect_pressed">#487A8D</color>
+    <color name="bg_contact_pressed">#A3A227</color>
+    <color name="bg_news">#8dc63f</color>
+    <color name="bg_news_pressed">#76a635</color>
+
+    <!-- Rewards -->
+    <color name="bg_rewards_member">#b5e0f8</color>
+    <color name="bg_rewards_book">#e44162</color>
+    <color name="bg_rewards_bday">#fcbb42</color>
+    <color name="bg_rewards_redeem">#961b1e</color>
+    <color name="bg_rewards_member_pressed">#95b8cc</color>
+    <color name="bg_rewards_book_pressed">#bc3651</color>
+    <color name="bg_rewards_bday_pressed">#d09a36</color>
+    <color name="bg_rewards_redeem_pressed">#7c1619</color>
+
+    <!-- Floating Action Button -->
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <!-- Vcard -->
+    <color name="vcard_gray">#828387</color>
+
+</resources>

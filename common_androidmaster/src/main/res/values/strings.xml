@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">iapps_libs</string>
+    <string name="iapps__yes">Yes</string>
+    <string name="iapps__no">No</string>
+    <string name="iapps__more">More</string>
+    <string name="iapps__done">Done</string>
+    <string name="iapps__cancel">Cancel</string>
+    <string name="iapps__required_field">Please provide:</string>
+    <string name="iapps__loading">Loading&#8230;</string>
+    <string name="iapps__show_more">Show More</string>
+    <string name="iapps__no_more">No More Result</string>
+    <string name="iapps__minute">Minute</string>
+    <string name="iapps__minutes">Minutes</string>
+    <string name="iapps__hour">Hour</string>
+    <string name="iapps__hours">Hours</string>
+    <string name="iapps__day">Day</string>
+    <string name="iapps__days">Days</string>
+    <string name="iapps__open_in_browser">Browser</string>
+    <string name="iapps__refresh">Refresh</string>
+    <string name="loader_reload">Reload</string>
+    <string name="font_normal">RobotoCondensed-Regular.ttf</string>
+    <string name="font_italic">RobotoCondensed-Italic.ttf</string>
+    <string name="font_bold_italic">RobotoCondensed-BoldItalic.ttf</string>
+    <string name="font_bold">RobotoCondensed-Bold.ttf</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="update_success">Update success</string>
+
+    <!-- Alert -->
+    <string name="alert_no_phone">No phone number detected</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="iapps__retry">Retry</string>
+    <string name="iapps__network_error">Connection error. Please try again later</string>
+    <string name="iapps__no_internet">No Internet connection</string>
+    <string name="iapps__unknown_response">Unknown response from server. Please try again later</string>
+    <string name="iapps__conn_timeout">We are experiencing high traffic. Sorry for the inconvenience, we should be back in few minutes</string>
+    <string name="iapps__conn_fail">Failed to connect to server</string>
+
+    <!-- Menu -->
+    <string name="profile_white">Profile</string>
+    <string name="done">Done</string>
+    <string name="share">Share</string>
+
+    <!-- Debug -->
+    <string name="hardcode">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper eros eget mauris viverra, vehicula tristique urna sollicitudin. Morbi iaculis gravida erat sed tincidunt. Morbi aliquet aliquam mauris mattis pharetra. Nulla id porta dui. Mauris at tempor orci. Etiam sit amet dui erat. In tincidunt consequat nisl, ac placerat lacus porta et. Nam lorem erat, vulputate vitae mauris id, ullamcorper facilisis erat. Sed rhoncus semper lobortis. Nunc tristique molestie magna in sagittis. Proin mauris tellus, sagittis sed faucibus id, accumsan nec neque. Etiam suscipit quam ac lectus feugiat dictum id at orci. Cras in condimentum mi, id viverra dolor. Maecenas lacinia lacus eu libero volutpat eleifend. Aliquam accumsan enim purus, vitae mattis purus convallis quis.
+
+Pellentesque mollis vestibulum commodo. Mauris eget placerat tortor. Donec eget magna dolor. Fusce purus enim, rhoncus turpis et, posuere placerat felis. Nulla id dui non ex sodales mollis. Aliquam sed vestibulum augue. Vestibulum sapien justo, placerat ut metus at, rhoncus pretium orci. Proin et ligula nibh. Pellentesque augue purus, interdum ut velit a, fermentum aliquet magna. Maecenas consectetur diam ipsum, at euismod velit pellentesque at. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+Quisque blandit, ante volutpat ullamcorper efficitur, tellus mi lacinia nisi, et sollicitudin nibh lectus a nisi. Integer et mollis orci, at maximus ipsum. Maecenas condimentum arcu non vestibulum convallis. Nullam ac arcu eros. Aliquam imperdiet nisi eget leo eleifend tincidunt. Etiam ut ultricies quam. Curabitur a nulla eros. Cras tincidunt, risus ut semper bibendum, nibh libero semper neque, sit amet tincidunt lectus mi sit amet ex.
+
+Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci non pellentesque. Quisque nec imperdiet erat. Aenean dolor lectus, iaculis non hendrerit quis, ultrices ac libero. Ut sodales mollis metus a malesuada. Mauris id sem sodales, finibus lectus eget, tempus magna. Vivamus vehicula ut lorem ac sollicitudin. In eu erat pellentesque, consequat ipsum imperdiet, porta mauris. Donec in elit euismod, sollicitudin metus a, dignissim purus. Mauris non magna suscipit, suscipit ante quis, posuere mi.</string>
+
+</resources>

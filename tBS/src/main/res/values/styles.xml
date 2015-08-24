@@ -1,0 +1,234 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ACTION BAR -->
+    <style name="CustomActionBarTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/tbs_gray</item>
+        <item name="colorPrimaryDark">@color/Black</item>
+        <item name="colorAccent">@color/Black</item>
+        <item name="drawerArrowStyle">@style/MyDrawerArrowToggle</item>
+    </style>
+
+    <style name="MyDrawerArrowToggle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/tbs_base_color</item>
+    </style>
+
+    <!-- BUTTON -->
+    <style name="imgBtn" parent="android:Widget.ImageButton">
+        <item name="android:background">@drawable/bg_selectable</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_width">@dimen/min_size</item>
+        <item name="android:layout_height">@dimen/min_size</item>
+    </style>
+
+    <style name="btn" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/btn_green_xml</item>
+        <item name="android:minHeight">@dimen/btn_color_height</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="fontPath">@string/font_button</item>
+    </style>
+
+    <style name="btn_blue" parent="btn">
+        <item name="android:background">@drawable/btn_blue_xml</item>
+        <item name="android:minHeight">@dimen/min_size</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="btn_blue_fb" parent="btn">
+        <item name="android:background">@drawable/btn_blue_xml</item>
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="btn_white" parent="btn">
+        <item name="android:background">@drawable/btn_white_xml</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="btn_gray" parent="btn">
+        <item name="android:background">@drawable/btn_gray_xml</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="btn_transparent" parent="btn">
+        <item name="android:background">@drawable/bg_selectable</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <!-- TEXT -->
+    <style name="text" parent="android:Widget.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="fontPath">@string/font_default</item>
+    </style>
+
+    <style name="textGreen" parent="text">
+        <item name="android:textColor">@color/tbs_base_color</item>
+    </style>
+
+    <style name="textBold" parent="text">
+        <item name="android:textStyle">bold</item>
+        <item name="fontPath">@string/font_default_bold</item>
+    </style>
+
+    <style name="textBoldGreen" parent="textBold">
+        <item name="android:textColor">@color/tbs_base_color</item>
+    </style>
+
+    <style name="textLight" parent="text">
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="textBlue" parent="text">
+        <item name="android:textColor">@color/Blue</item>
+    </style>
+
+    <style name="textGray" parent="text">
+        <item name="android:textColor">@color/Gray</item>
+    </style>
+
+    <style name="textBoldLight" parent="textBold">
+        <item name="android:textColor">@color/White</item>
+        <item name="fontPath">@string/font_default_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Text Large -->
+    <style name="textLarge" parent="android:Widget.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="textLargeLight" parent="textLarge">
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="textLargeGreen" parent="textLarge">
+        <item name="android:textColor">@color/tbs_base_color</item>
+    </style>
+
+    <style name="textLargeLightBold" parent="textLargeLight">
+        <item name="fontPath">@string/font_default_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textLargeBold" parent="textLargeLightBold">
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="textLargeBoldGreen" parent="textLargeLightBold">
+        <item name="android:textColor">@color/tbs_base_color</item>
+    </style>
+
+    <style name="textLargeBoldPink" parent="textLargeLightBold">
+        <item name="android:textColor">@color/tbs_pink</item>
+    </style>
+
+    <!-- Text XLarge -->
+    <style name="textXLarge" parent="text">
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="textXLargeLight" parent="textXLarge">
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="textXLargeBold" parent="textXLarge">
+        <item name="fontPath">@string/font_default_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textXLargeBoldGreen" parent="textXLargeBold">
+        <item name="android:textColor">@color/tbs_base_color</item>
+    </style>
+
+    <style name="textXLargeBoldLight" parent="textXLargeBold">
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="textXLargeBoldPink" parent="textXLargeBold">
+        <item name="android:textColor">@color/tbs_pink</item>
+        <item name="fontPath">@string/font_title</item>
+        <item name="android:textSize">45sp</item>
+    </style>
+
+    <!-- Text Small -->
+    <style name="textSmall" parent="android:Widget.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="textSmallLight" parent="textSmall">
+        <item name="android:textColor">@color/White</item>
+    </style>
+
+    <style name="textTitleLight" parent="textLargeLight">
+        <item name="android:fontFamily">@string/font_default_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Tab -->
+    <style name="Tabtbs">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:background">@drawable/tbs_tab_indicator_holo</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+
+    <style name="TabTexttbs">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxWidth">180dip</item>
+    </style>
+
+    <!-- Progress Bar -->
+    <!-- <style name="ProgressBarTbs" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/tbs_progress_horizontal_holo_light</item>
+        <item name="android:indeterminateDrawable">@drawable/tbs_progress_indeterminate_horizontal_holo_light</item>
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+    </style> -->
+
+    <!-- Edit Text -->
+    <style name="tbsEdt">
+        <item name="floating_edit_text_color">@color/Gray</item>
+        <item name="floating_edit_text_highlighted_color">@color/tbs_base_color</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:tint">@color/tbs_base_color</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textColorHint">@color/Gray</item>
+    </style>
+
+    <style name="tbsEdt_light">
+        <item name="floating_edit_text_color">@color/Gray</item>
+        <item name="floating_edit_text_highlighted_color">@color/LightGrey</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:tint">@color/Gray</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textColorHint">@color/Gray</item>
+    </style>
+
+    <style name="edt_light" parent="android:Theme.Holo.Light">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:tint">@color/LightGrey</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:background">@drawable/edt_green</item>
+    </style>
+
+    <!-- ListView -->
+    <style name="lv">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:listSelector">@drawable/bg_selectable</item>
+        <item name="android:footerDividersEnabled">false</item>
+    </style>
+
+</resources>
