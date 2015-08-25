@@ -19,7 +19,7 @@
             android:layout_alignParentTop="true"
             android:background="@color/gray_light"
             android:clipToPadding="false"
-            android:horizontalSpacing="@dimen/margin_med"
+            android:horizontalSpacing="@dimen/margin_small"
             android:numColumns="2"
             android:paddingBottom="@dimen/margin_med"
             android:paddingLeft="@dimen/activity_horizontal_margin"
@@ -27,7 +27,7 @@
             android:paddingTop="@dimen/margin_med"
             android:scrollbarStyle="outsideOverlay"
             android:scrollbars="none"
-            android:verticalSpacing="@dimen/margin_med" >
+            android:verticalSpacing="@dimen/margin_small" >
         </GridView>
 
         <com.iapps.libs.views.LoadingCompound

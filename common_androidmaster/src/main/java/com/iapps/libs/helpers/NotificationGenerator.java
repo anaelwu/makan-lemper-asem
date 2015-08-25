@@ -14,12 +14,12 @@ import com.iapps.common_library.R;
 import org.joda.time.DateTime;
 
 public abstract class NotificationGenerator {
-    Context  ctx;
-    Class<?> cls;
+    private Context ctx;
+    private Intent  intent;
 
-    public NotificationGenerator(Context ctx, Class<?> cls) {
+    public NotificationGenerator(Context ctx, Intent intent) {
         this.ctx = ctx;
-        this.cls = cls;
+        this.intent = intent;
     }
 
     @SuppressWarnings("deprecation")
@@ -28,8 +28,6 @@ public abstract class NotificationGenerator {
                 .getSystemService(Context.NOTIFICATION_SERVICE);
         int          currentapiVersion = android.os.Build.VERSION.SDK_INT;
         Notification notification      = null;
-
-        Intent intent = new Intent(ctx, cls);
         PendingIntent contentIntent = PendingIntent.getActivity(ctx, 0,
                                                                 intent, 0);
 
@@ -54,7 +52,7 @@ public abstract class NotificationGenerator {
             }
 
             if (doVibrate()) {
-                builder.setVibrate(new long[]{1000,1000});
+                builder.setVibrate(new long[]{1000, 1000});
             }
 
             notification = builder.build();

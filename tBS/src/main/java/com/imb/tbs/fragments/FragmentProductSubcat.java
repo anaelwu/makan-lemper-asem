@@ -1,8 +1,5 @@
 package com.imb.tbs.fragments;
 
-import java.util.ArrayList;
-
-import roboguice.inject.InjectView;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.widget.SearchView;
@@ -23,6 +20,11 @@ import com.imb.tbs.helpers.Constants;
 import com.imb.tbs.helpers.Helper;
 import com.imb.tbs.helpers.Keys;
 import com.imb.tbs.objects.BeanProduct;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+
+import roboguice.inject.InjectView;
 
 public class FragmentProductSubcat
 	extends BaseFragmentTbs implements OnGroupClickListener,
@@ -77,7 +79,6 @@ public class FragmentProductSubcat
 		return true;
 	}
 
-	@SuppressWarnings("unchecked")
 	private void initList() {
 		adapter = new AdapterProductSubcat(getActivity()).setData((ArrayList<BeanProduct>) beanCategory.getChildList());
 		lv.setAdapter(adapter);

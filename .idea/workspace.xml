@@ -9,7 +9,209 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="403b1f36-6327-4d15-926c-06cbd8dc57ce" name="Default" comment="" />
+    <list default="true" id="403b1f36-6327-4d15-926c-06cbd8dc57ce" name="Default" comment="cardview">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityLogin$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/gcm/MyGcmListenerService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/gcm/MyGcmListenerService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyGcmListenerService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyInstanceIDListenerService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/RegistrationIntentService.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityHome$1.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityHome$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityHome.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityHome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityLogin.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/activities/ActivityLogin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterCampaign.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterCampaign.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterCatalog$ViewHolder.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterCatalog$ViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterCatalog.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterCatalog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterDrawer.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterDrawer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterHome.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterHome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterProductCat.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterProductCat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterProductDetails.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterProductDetails.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterReview.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterReview.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterRewardsCatalog.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterRewardsCatalog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterSplash.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterSplash.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterStore.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterStore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterTnc.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterTnc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterTransactions.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterTransactions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterWishlist.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/adapters/AdapterWishlist.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/BaseActivityTbs$2.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/BaseActivityTbs$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/BaseActivityTbs$3.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/BaseActivityTbs$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/BaseActivityTbs.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/BaseActivityTbs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/Constants.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/Constants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/Converter.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/Converter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentContact.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentContact.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$1.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$2.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$3.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$4.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentHome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentNews$1.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentNews$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentNews.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentNews.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentProductItem.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentProductItem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentProductSubcat.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentProductSubcat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$1.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$2.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$3.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$4.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$GetAsync.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash$GetAsync.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/fragments/FragmentSplash.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/views/ImageViewLoader$1.class" afterPath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/views/ImageViewLoader$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/views/ImageViewLoader$ListenerClick.class" afterPath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/views/ImageViewLoader$ListenerClick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/views/ImageViewLoader.class" afterPath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/views/ImageViewLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/Keys.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/Keys.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/helpers/NotificationGenerator.class" afterPath="$PROJECT_DIR$/common_androidmaster/build/intermediates/classes/release/com/iapps/libs/helpers/NotificationGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/gcm/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/gcm/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/maps/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/maps/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/nirhart/parallaxscroll/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/nirhart/parallaxscroll/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$attr.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$bool.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$bool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/gcm/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/gcm/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/maps/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/maps/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$color.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$dimen.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$drawable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$id.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$integer.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$layout.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$menu.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$plurals.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$plurals.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$raw.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$string.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$style.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/doomonafireball/betterpickers/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/facebook/android/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/fourmob/datetimepicker/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/gc/materialdesign/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/gcm/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/gcm/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/maps/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/google/android/gms/maps/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/iapps/common_library/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/kmshack/newsstand/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/material/widget/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/nirhart/parallaxscroll/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/nirhart/parallaxscroll/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/verano/actionbar4guice/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/welcu/android/zxingfragmentlib/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$styleable.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/uk/co/chrisjenx/calligraphy/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$xml.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/UIHelper.class" afterPath="$PROJECT_DIR$/tBS/build/intermediates/classes/debug/com/imb/tbs/helpers/UIHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/pre-dexed/debug/classes-21bf654b3cfaa77d9f5e73c5ebf2bef740622791.jar" afterPath="$PROJECT_DIR$/tBS/build/intermediates/pre-dexed/debug/classes-21bf654b3cfaa77d9f5e73c5ebf2bef740622791.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/tBS/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/common_androidmaster/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/build/outputs/aar/common_androidmaster-release.aar" afterPath="$PROJECT_DIR$/common_androidmaster/build/outputs/aar/common_androidmaster-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parallaxHeaderView/build/outputs/aar/parallaxHeaderView-release.aar" afterPath="$PROJECT_DIR$/parallaxHeaderView/build/outputs/aar/parallaxHeaderView-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/tBS/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/outputs/apk/tBS-debug-unaligned.apk" afterPath="$PROJECT_DIR$/tBS/build/outputs/apk/tBS-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/outputs/apk/tBS-debug.apk" afterPath="$PROJECT_DIR$/tBS/build/outputs/apk/tBS-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityHome.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityHome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityLogin.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityLogin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterCatalog.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterCatalog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterReview.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterReview.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parallaxHeaderView/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/parallaxHeaderView/build/intermediates/bundles/release/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parallaxHeaderView/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/parallaxHeaderView/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parallaxHeaderView/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/parallaxHeaderView/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/AndroidManifest.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/aapt/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Constants.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Converter.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Converter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentHome.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentHome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentNews.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentNews.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductSubcat.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductSubcat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentSplash.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentSplash.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/views/ImageViewLoader.java" afterPath="$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/views/ImageViewLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Keys.java" afterPath="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Keys.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/NotificationGenerator.java" afterPath="$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/NotificationGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/doomonafireball/betterpickers/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/doomonafireball/betterpickers/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/facebook/android/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/facebook/android/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/fourmob/datetimepicker/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/fourmob/datetimepicker/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/gc/materialdesign/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/gc/materialdesign/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/google/android/gms/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/google/android/gms/gcm/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/google/android/gms/gcm/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/google/android/gms/maps/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/google/android/gms/maps/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/iapps/common_library/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/iapps/common_library/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/imb/tbs/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/imb/tbs/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/kmshack/newsstand/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/kmshack/newsstand/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/material/widget/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/material/widget/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/nirhart/parallaxscroll/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/nirhart/parallaxscroll/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/verano/actionbar4guice/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/verano/actionbar4guice/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/welcu/android/zxingfragmentlib/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/com/welcu/android/zxingfragmentlib/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/uk/co/chrisjenx/calligraphy/R.java" afterPath="$PROJECT_DIR$/tBS/build/generated/source/r/debug/uk/co/chrisjenx/calligraphy/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/tBS/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build.gradle" afterPath="$PROJECT_DIR$/tBS/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/cell_campaign.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/cell_campaign.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/res/layout/cell_campaign.xml" afterPath="$PROJECT_DIR$/tBS/src/main/res/layout/cell_campaign.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/cell_catalog.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/cell_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/res/layout/cell_catalog.xml" afterPath="$PROJECT_DIR$/tBS/src/main/res/layout/cell_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/cell_rewards_catalog.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/cell_rewards_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/res/layout/cell_rewards_catalog.xml" afterPath="$PROJECT_DIR$/tBS/src/main/res/layout/cell_rewards_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/fragment_catalog.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/layout/fragment_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/src/main/res/layout/fragment_catalog.xml" afterPath="$PROJECT_DIR$/tBS/src/main/res/layout/fragment_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/tBS/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/tBS.iml" afterPath="$PROJECT_DIR$/tBS/tBS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/tBS/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TBS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,108 +240,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BaseActivityTbs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java">
+      <file leaf-file-name="FragmentProductList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
-              <folding>
-                <element signature="e#1913#2595#0" expanded="true" />
-                <element signature="e#2594#2595#0" expanded="true" />
-                <element signature="e#4741#4742#0" expanded="true" />
-                <element signature="e#4821#4822#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Api.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Api.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="82" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="82" />
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyGcmListenerService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyGcmListenerService.java">
+      <file leaf-file-name="fragment_catalog.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/fragment_catalog.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="72" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
+            <state vertical-scroll-proportion="-5.172414">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding>
-                <element signature="e#2488#2489#0" expanded="true" />
-                <element signature="e#2534#2535#0" expanded="true" />
-                <element signature="e#2590#2591#0" expanded="true" />
-                <element signature="e#2651#2652#0" expanded="true" />
-                <element signature="e#2714#2715#0" expanded="true" />
-                <element signature="e#2781#2782#0" expanded="true" />
+                <element signature="e#913#934#0" expanded="true" />
+                <element signature="e#1338#1359#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NotificationGenerator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/NotificationGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32968238">
-              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
-              <folding>
-                <element signature="e#2497#2498#0" expanded="true" />
-                <element signature="e#2542#2543#0" expanded="true" />
-                <element signature="e#2575#2576#0" expanded="true" />
-                <element signature="e#2620#2621#0" expanded="true" />
-                <element signature="e#2685#2686#0" expanded="true" />
-                <element signature="e#2734#2735#0" expanded="true" />
-                <element signature="e#2760#2761#0" expanded="true" />
-                <element signature="e#2784#2785#0" expanded="true" />
-                <element signature="e#2818#2819#0" expanded="true" />
-                <element signature="e#2845#2846#0" expanded="true" />
-                <element signature="e#2877#2878#0" expanded="true" />
-                <element signature="e#2904#2905#0" expanded="true" />
-              </folding>
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tBS/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.333334">
-              <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ActivityHome.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ActivityHome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityHome.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6283186">
+              <caret line="324" column="33" selection-start-line="324" selection-start-column="33" selection-end-line="324" selection-end-column="33" />
+              <folding>
+                <element signature="e#12310#12331#0" expanded="true" />
+                <element signature="e#12333#12500#0" expanded="true" />
+                <element signature="e#12499#12500#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cell_campaign.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/cell_campaign.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.448276">
+              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+              <folding>
+                <element signature="e#285#320#0" expanded="true" />
+                <element signature="e#346#381#0" expanded="true" />
+                <element signature="e#405#424#0" expanded="true" />
+                <element signature="e#1678#1697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterCatalog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterCatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Preference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Preference.java">
+      <file leaf-file-name="cell_catalog.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/cell_catalog.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            <state vertical-scroll-proportion="-7.7586207">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -151,6 +329,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -844,6 +1025,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preDexRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:cardview-v7:23.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportCardviewV72300Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.android.gms:play-services-gcm:7.8.0" />
@@ -6974,6 +7160,11 @@
                 <option name="name" value="prepareComAndroidSupportAppcompatV72300Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:cardview-v7:23.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/tBS" />
+                <option name="name" value="prepareComAndroidSupportCardviewV72300Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:support-v4:23.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/tBS" />
                 <option name="name" value="prepareComAndroidSupportSupportV42300Library" />
@@ -7704,7 +7895,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="21605532498000" />
+        <entry key="$PROJECT_DIR$" value="21605649969000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -8914,6 +9105,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/extras/google/m2repository/com/google/android/gms/play-services-gcm/7.8.0/play-services-gcm-7.8.0.aar" />
+                            <option value="$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/cardview-v7/23.0.0/cardview-v7-23.0.0.aar" />
                             <option value="$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/extras/google/m2repository/com/google/android/gms/play-services-base/7.8.0/play-services-base-7.8.0.aar" />
                             <option value="$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/23.0.0/support-v4-23.0.0.aar" />
                             <option value="$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar" />
@@ -9141,14 +9333,11 @@
       <list>
         <option value="$PROJECT_DIR$/materialWidget/build/intermediates/manifests/tmp/manifestMerger3545231846489505172.xml" />
         <option value="$PROJECT_DIR$/tBS/src/main/res/layout/fragment_vcard_member.xml" />
-        <option value="$PROJECT_DIR$/parallaxHeaderView/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Constants.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/GCMManager.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/MyGcmListenerService.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/RegistrationIntentService.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyInstanceIDListenerService.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/RegistrationIntentService.java" />
-        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityLogin.java" />
         <option value="$PROJECT_DIR$/betterPicker/build.gradle" />
         <option value="$PROJECT_DIR$/bolts/build.gradle" />
         <option value="$PROJECT_DIR$/calligraphy/build.gradle" />
@@ -9163,15 +9352,32 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v23/values-v23.xml" />
         <option value="$PROJECT_DIR$/common_androidmaster/build.gradle" />
-        <option value="$PROJECT_DIR$/tBS/build.gradle" />
-        <option value="$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Preference.java" />
-        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Keys.java" />
-        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Api.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Helper.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java" />
+        <option value="$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/views/ImageViewLoader.java" />
         <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyGcmListenerService.java" />
         <option value="$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/NotificationGenerator.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Keys.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/GcmListener.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentSplash.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/parallaxHeaderView/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityLogin.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductSubcat.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Converter.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Constants.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentNews.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterReview.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentHome.java" />
+        <option value="$PROJECT_DIR$/tBS/build.gradle" />
+        <option value="$PROJECT_DIR$/tBS/src/main/res/layout/cell_rewards_catalog.xml" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterCatalog.java" />
+        <option value="$PROJECT_DIR$/tBS/src/main/res/layout/cell_catalog.xml" />
+        <option value="$PROJECT_DIR$/tBS/src/main/res/layout/fragment_catalog.xml" />
+        <option value="$PROJECT_DIR$/tBS/src/main/res/layout/cell_campaign.xml" />
+        <option value="$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityHome.java" />
       </list>
     </option>
   </component>
@@ -9189,10 +9395,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -9213,7 +9418,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -9236,7 +9441,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -9244,83 +9448,24 @@
               <option name="myItemId" value="TBS" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tbs" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tBS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tbs" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gcm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Documents/adt-bundle-mac-x86_64-20140702/sdk" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="tBS" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../AndroidStudio" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="LGD8551a0c401f" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.102:5555" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
@@ -9533,15 +9678,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.5324814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.5323102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.399361" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20616366" sideWeight="0.5021299" order="0" side_tool="true" content_ui="tabs" />
@@ -9549,19 +9694,19 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.20607029" sideWeight="0.4978701" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.5282714" sideWeight="0.4978701" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32960597" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32960597" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16453674" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4227902" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16397415" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.42245558" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.50106496" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -9578,317 +9723,51 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cardview" />
+    <option name="LAST_COMMIT_MESSAGE" value="cardview" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/RegistrationIntentService.java</url>
+          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/GcmRegistration.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyGcmListenerService.java</url>
-          <line>32</line>
+          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/GcmListener.java</url>
+          <line>37</line>
           <properties />
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java</url>
-          <line>129</line>
+          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Converter.java</url>
+          <line>268</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductCategory.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common_androidmaster/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/RegistrationIntentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#848#849#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyInstanceIDListenerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="29" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/RegistrationIntentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#848#849#0" expanded="false" />
-            <element signature="e#874#875#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/import-summary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50442475">
-          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actionbar4guice/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v23/values-v23.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/values-v11/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/fragment_vcard_member.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.206896">
-          <caret line="117" column="47" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parallaxHeaderView/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#372#390#0" expanded="false" />
-            <element signature="e#525#543#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2464403">
-          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18072289">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/23.0.0/support-v4-23.0.0-sources.jar!/android/support/v4/content/LocalBroadcastManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5815991">
-          <caret line="132" column="16" selection-start-line="132" selection-start-column="16" selection-end-line="132" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/betterPicker/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.111111">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bolts/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2222223">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calligraphy/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.222222">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datetimepicker/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11851016">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facebookSDK/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11851016">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/materialDesign/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11851016">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/materialWidget/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.050790068">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parallaxHeaderView/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11851016">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parallaxScroll/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11851016">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zxing/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1523702">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actionbar4guice/src/main/java/com/verano/actionbar4guice/activity/RoboActionBarActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actionbar4guice/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42288557">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v23/values-v23.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/drawable/ic_lyb.png">
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v23/values-v23.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027322404">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_androidmaster/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7263682">
-          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5472637">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../adt-bundle-mac-x86_64-20140702/sdk/sources/android-23/android/content/ContextWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33296824">
-          <caret line="579" column="25" selection-start-line="579" selection-start-column="25" selection-end-line="579" selection-end-column="25" />
-          <folding>
-            <element signature="e#16695#16696#0" expanded="false" />
-            <element signature="e#16745#16746#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar!/com/google/android/gms/iid/InstanceID.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.101580136">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/RegistrationIntentService.java">
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/GcmRegistration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
@@ -9896,26 +9775,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyInstanceIDListenerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Preference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.2464403">
           <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -9936,27 +9799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Keys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8357065">
-          <caret line="123" column="59" selection-start-line="123" selection-start-column="59" selection-end-line="123" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
-          <folding>
-            <element signature="e#1913#2595#0" expanded="true" />
-            <element signature="e#2594#2595#0" expanded="true" />
-            <element signature="e#4741#4742#0" expanded="true" />
-            <element signature="e#4821#4822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/BaseUIHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09857612">
@@ -9973,16 +9815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tBS/src/main/res/values-in/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -9993,8 +9825,225 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tBS/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.333334">
+        <state vertical-scroll-proportion="0.5586907">
           <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/BaseActivityTbs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+          <folding>
+            <element signature="e#4699#4700#0" expanded="false" />
+            <element signature="e#4779#4780#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/GcmInstanceId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29572836">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Keys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="126" column="65" selection-start-line="126" selection-start-column="65" selection-end-line="126" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentPrelogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/NotificationGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/GcmListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#969#970#0" expanded="false" />
+            <element signature="e#1626#1627#0" expanded="false" />
+            <element signature="e#1699#1700#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/aapt/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.546875">
+          <caret line="21" column="76" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.390625">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parallaxHeaderView/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27929902">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parallaxHeaderView/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parallaxScroll/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#1751#1752#0" expanded="false" />
+            <element signature="e#1839#1840#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+            <element signature="e#2495#2496#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/objects/SimpleBeanParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21358159">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/objects/BeanProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.065717414">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductSubcat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20353982">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="e#1277#1278#0" expanded="false" />
+            <element signature="e#1316#1317#0" expanded="false" />
+            <element signature="e#1653#1654#0" expanded="false" />
+            <element signature="e#1680#1681#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="96" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="287" column="47" selection-start-line="287" selection-start-column="46" selection-end-line="287" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46548674">
+          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductReview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/views/ImageViewLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0761062">
+          <caret line="202" column="5" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+          <folding>
+            <element signature="e#3431#3432#0" expanded="true" />
+            <element signature="e#3481#3482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterReview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.925926">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -10002,51 +10051,159 @@
     <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/helpers/Api.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="82" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="82" />
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentSplash.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <caret line="236" column="57" selection-start-line="236" selection-start-column="57" selection-end-line="236" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/gcm/MyGcmListenerService.java">
+    <entry file="file://$PROJECT_DIR$/tBS/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="72" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentRewardsCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterRewardsCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/cell_rewards_catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterCampaign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/adapters/AdapterCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/drawable/bg_selectable_white.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/drawable/bg_rounded_white_transparent.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/drawable/selectable_background_tbs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/fragments/FragmentProductList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/cell_catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7586207">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/cell_campaign.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.448276">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
           <folding>
-            <element signature="e#2488#2489#0" expanded="true" />
-            <element signature="e#2534#2535#0" expanded="true" />
-            <element signature="e#2590#2591#0" expanded="true" />
-            <element signature="e#2651#2652#0" expanded="true" />
-            <element signature="e#2714#2715#0" expanded="true" />
-            <element signature="e#2781#2782#0" expanded="true" />
+            <element signature="e#285#320#0" expanded="true" />
+            <element signature="e#346#381#0" expanded="true" />
+            <element signature="e#405#424#0" expanded="true" />
+            <element signature="e#1678#1697#0" expanded="true" />
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common_androidmaster/src/main/java/com/iapps/libs/helpers/NotificationGenerator.java">
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/res/layout/fragment_catalog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32968238">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        <state vertical-scroll-proportion="-5.172414">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding>
-            <element signature="e#2497#2498#0" expanded="true" />
-            <element signature="e#2542#2543#0" expanded="true" />
-            <element signature="e#2575#2576#0" expanded="true" />
-            <element signature="e#2620#2621#0" expanded="true" />
-            <element signature="e#2685#2686#0" expanded="true" />
-            <element signature="e#2734#2735#0" expanded="true" />
-            <element signature="e#2760#2761#0" expanded="true" />
-            <element signature="e#2784#2785#0" expanded="true" />
-            <element signature="e#2818#2819#0" expanded="true" />
-            <element signature="e#2845#2846#0" expanded="true" />
-            <element signature="e#2877#2878#0" expanded="true" />
-            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="e#913#934#0" expanded="true" />
+            <element signature="e#1338#1359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tBS/src/main/java/com/imb/tbs/activities/ActivityHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6283186">
+          <caret line="324" column="33" selection-start-line="324" selection-start-column="33" selection-end-line="324" selection-end-column="33" />
+          <folding>
+            <element signature="e#12310#12331#0" expanded="true" />
+            <element signature="e#12333#12500#0" expanded="true" />
+            <element signature="e#12499#12500#0" expanded="true" />
           </folding>
         </state>
       </provider>

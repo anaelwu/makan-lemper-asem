@@ -9,7 +9,7 @@ public class Constants
 	// ================================================================================
 	public static final String	LOG						= "TBS";
 	public static final boolean	IS_DEBUGGING			= true;
-	public static final String	VERSION					= "18 Aug '15 - Version 2";
+	public static final String	VERSION					= "24 Aug '15 - Version 3";
 
 	// ================================================================================
 	// Pagination Stuff

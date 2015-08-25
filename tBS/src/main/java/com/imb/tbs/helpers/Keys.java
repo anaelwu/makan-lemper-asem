@@ -123,5 +123,6 @@ public class Keys
     public static final String PUSH_DEVICE          = "device_id";
     public static final String PUSH_TYPE            = "type";
     public static final String PUSH_ACC             = "acc_id";
-
+    public static final String PUSH_TITLE           = "message";
+    public static final String PUSH_CONTENT         = "subtitle";
 }

@@ -95,14 +95,14 @@
         </receiver>
 
         <service
-            android:name="com.imb.tbs.gcm.MyGcmListenerService"
+            android:name="com.imb.tbs.gcm.GcmListener"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
             </intent-filter>
         </service>
         <service
-            android:name="com.imb.tbs.gcm.MyInstanceIDListenerService"
+            android:name="com.imb.tbs.gcm.GcmInstanceId"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.google.android.gms.iid.InstanceID" />
@@ -113,11 +113,6 @@
             android:name="com.kmshack.newsstand.MainActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

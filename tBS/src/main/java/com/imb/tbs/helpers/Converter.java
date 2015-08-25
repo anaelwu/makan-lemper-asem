@@ -1,14 +1,5 @@
 package com.imb.tbs.helpers;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Iterator;
-
-import org.joda.time.DateTime;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import com.imb.tbs.objects.BeanCampaign;
 import com.imb.tbs.objects.BeanCarousel;
 import com.imb.tbs.objects.BeanProduct;
@@ -21,6 +12,16 @@ import com.imb.tbs.objects.BeanStc;
 import com.imb.tbs.objects.BeanStore;
 import com.imb.tbs.objects.BeanTransactions;
 import com.imb.tbs.objects.BeanWish;
+
+import org.joda.time.DateTime;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Iterator;
 
 public class Converter {
 
@@ -301,11 +302,11 @@ public class Converter {
 						al3.add(bean3);
 					}
 
-					bean2.setChildList(al3);
+					bean2.setChildList(Converter.sort(al3));
 					al2.add(bean2);
 				}
 
-				bean.setChildList(al2);
+				bean.setChildList(Converter.sort(al2));
 				al.add(bean);
 			}
 		}
@@ -313,7 +314,20 @@ public class Converter {
 			e.printStackTrace();
 		}
 
+		return Converter.sort(al);
+	}
+
+	public static ArrayList<BeanProduct> sort(ArrayList<BeanProduct> al) {
+		Collections.sort(al, new CustomComparator());
+
 		return al;
+	}
+
+	public static class CustomComparator implements Comparator<BeanProduct> {
+		@Override
+		public int compare(BeanProduct o1, BeanProduct o2) {
+			return o1.getOrder() - o2.getOrder();
+		}
 	}
 
 	public static ArrayList<BeanProductDetails> toProductList(String text) {

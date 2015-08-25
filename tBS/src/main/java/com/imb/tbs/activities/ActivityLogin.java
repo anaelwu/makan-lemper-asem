@@ -1,9 +1,7 @@
 package com.imb.tbs.activities;
 
-import android.content.BroadcastReceiver;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.CountDownTimer;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
@@ -12,7 +10,6 @@ import com.iapps.libs.views.ImageViewLoader;
 import com.imb.tbs.R;
 import com.imb.tbs.fragments.FragmentPrelogin;
 import com.imb.tbs.fragments.FragmentSplash;
-import com.imb.tbs.fragments.FragmentTnc;
 import com.imb.tbs.helpers.BaseActivityTbs;
 import com.imb.tbs.helpers.Constants;
 import com.imb.tbs.helpers.Helper;
@@ -24,11 +21,11 @@ import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 public class ActivityLogin
         extends BaseActivityTbs {
     @InjectView(R.id.imgBg)
-    private ImageViewLoader   imgBg;
+    private ImageViewLoader imgBg;
     @InjectView(R.id.toolbar)
-    private Toolbar           toolbar;
+    private Toolbar         toolbar;
     @InjectView(R.id.toolbarBg)
-    public  View              toolbarBg;
+    public  View            toolbarBg;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,29 +41,14 @@ public class ActivityLogin
         imgBg.loadImage(R.drawable.background);
 
         setContainerId(R.id.fl);
-        if (getIntent().getExtras() != null
-                && getIntent().getExtras().getBoolean(Preference.IS_LOGGED_IN))
-            setFragment(new FragmentPrelogin());
-        else
+        if (getIntent().getExtras() != null && getIntent().getExtras().getBoolean(Preference.IS_LOGGED_IN)){
+                setFragment(new FragmentPrelogin());
+        } else
             setFragment(new FragmentSplash());
 
         Log.d(Constants.LOG, Helper.getHashKey(this));
     }
 
-    public void showSplash() {
-        setFragment(new FragmentSplash());
-        new CountDownTimer(Constants.TIMER_SPLASH * 1000, 1000) {
-            @Override
-            public void onTick(long millisUntilFinished) {
-            }
-
-            @Override
-            public void onFinish() {
-                clearFragment();
-                setFragment(new FragmentTnc());
-            }
-        }.start();
-    }
 
     public boolean isLoggedIn() {
         return !Preference.getInstance(this).getBoolean(Preference.IS_LOGGED_IN);

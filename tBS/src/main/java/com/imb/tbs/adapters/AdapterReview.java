@@ -1,7 +1,5 @@
 package com.imb.tbs.adapters;
 
-import java.util.ArrayList;
-
 import android.content.Context;
 import android.view.ContextThemeWrapper;
 import android.view.LayoutInflater;
@@ -14,6 +12,8 @@ import com.iapps.libs.objects.SimpleBean;
 import com.iapps.libs.views.ImageViewLoader;
 import com.imb.tbs.R;
 import com.imb.tbs.objects.BeanReview;
+
+import java.util.ArrayList;
 
 @SuppressWarnings("rawtypes")
 public class AdapterReview extends ArrayAdapter {
@@ -78,7 +78,12 @@ public class AdapterReview extends ArrayAdapter {
 		BeanReview bean = (BeanReview) getItem(position);
 
 		holder.tvComment.setText(bean.getComment());
-		holder.img.loadImage(bean.getImgUrl(), true);
-		holder.img.setImageOverlay(0);
+
+//		if(!Helper.isEmpty(bean.getImgUrl())) {
+			holder.img.loadImage(bean.getImgUrl(), true);
+			holder.img.setImageOverlay(0);
+//		}else{
+//			holder.img.loadImage(R.drawable.ic_person, true);
+//		}
 	}
 }

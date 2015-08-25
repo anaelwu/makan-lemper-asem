@@ -20,7 +20,7 @@ import com.iapps.libs.generics.GenericActivity;
 import com.iapps.libs.helpers.HTTPAsyncTask;
 import com.iapps.libs.objects.Response;
 import com.imb.tbs.R;
-import com.imb.tbs.gcm.RegistrationIntentService;
+import com.imb.tbs.gcm.GcmRegistration;
 import com.imb.tbs.objects.BeanProfile;
 
 import java.io.IOException;
@@ -42,7 +42,7 @@ public class BaseActivityTbs
         super.onResume();
         LocalBroadcastManager.getInstance(this).registerReceiver(mRegistrationBroadcastReceiver,
                                                                  new IntentFilter(
-                                                                         RegistrationIntentService.REGISTRATION_COMPLETE));
+                                                                         GcmRegistration.REGISTRATION_COMPLETE));
     }
 
     @Override
@@ -58,7 +58,7 @@ public class BaseActivityTbs
                 SharedPreferences sharedPreferences =
                         PreferenceManager.getDefaultSharedPreferences(context);
                 boolean sentToken = sharedPreferences
-                        .getBoolean(RegistrationIntentService.SENT_TOKEN_TO_SERVER, false);
+                        .getBoolean(GcmRegistration.SENT_TOKEN_TO_SERVER, false);
                 if (sentToken) {
                     Toast.makeText(BaseActivityTbs.this, "sent", Toast.LENGTH_SHORT).show();
                 } else {
@@ -68,11 +68,9 @@ public class BaseActivityTbs
         };
         if (checkPlayServices()) {
             // Start IntentService to getToken this application with GCM.
-            Intent intent = new Intent(this, RegistrationIntentService.class);
+            Intent intent = new Intent(this, GcmRegistration.class);
             startService(intent);
         }
-
-
     }
 
     private boolean checkPlayServices() {
