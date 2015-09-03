@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@drawable/home_9_pressed" android:state_pressed="true"></item>
-    <item android:drawable="@drawable/home_9"></item>
-
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/home_9_xml.xml -->

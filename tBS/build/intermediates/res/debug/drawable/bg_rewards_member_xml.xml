@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@color/bg_rewards_member_pressed" android:state_pressed="true"></item>
-    <item android:drawable="@drawable/home_5"></item>
-
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_member_xml.xml -->

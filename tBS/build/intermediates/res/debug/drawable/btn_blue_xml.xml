@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@drawable/bg_btn_blue_pressed" android:state_pressed="true"></item>
-    <item android:drawable="@drawable/bg_btn_blue"></item>
-
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_blue_xml.xml -->

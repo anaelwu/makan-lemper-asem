@@ -1,18 +1,11 @@
 package com.imb.tbs.fragments;
 
-import org.joda.time.DateTime;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import roboguice.inject.InjectView;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 
 import com.doomonafireball.betterpickers.numberpicker.NumberPickerDialogFragment.PinPickerDialogHandler;
-import com.fourmob.datetimepicker.date.DatePickerDialog;
-import com.fourmob.datetimepicker.date.DatePickerDialog.OnDateSetListener;
 import com.imb.tbs.R;
 import com.imb.tbs.activities.ActivityLogin;
 import com.imb.tbs.helpers.Api;
@@ -26,9 +19,13 @@ import com.imb.tbs.helpers.Preference;
 import com.imb.tbs.objects.BeanProfile;
 import com.material.widget.FloatingEditText;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import roboguice.inject.InjectView;
+
 public class FragmentLogin
-	extends BaseFragmentTbs implements PinPickerDialogHandler,
-		OnDateSetListener {
+	extends BaseFragmentTbs implements PinPickerDialogHandler {
 	@InjectView(R.id.btnLogin)
 	private Button				btnLogin;
 	@InjectView(R.id.btnHelp)
@@ -40,7 +37,7 @@ public class FragmentLogin
 	@InjectView(R.id.edtDob)
 	private FloatingEditText	edtDob;
 
-	private DatePickerDialog	picker;
+//	private DatePickerDialog	picker;
 
 	public static final int		TAG_LOGIN	= 1, TAG_HELP = 2, TAG_CONTACT = 3, TAG_CARD = 4,
 											TAG_DOB = 5;
@@ -106,14 +103,7 @@ public class FragmentLogin
 			break;
 
 		case TAG_DOB:
-			DateTime dt = DateTime.now();
-			picker = DatePickerDialog.newInstance(FragmentLogin.this, dt.getYear(),
-					dt.getMonthOfYear() - 1,
-					dt.getDayOfMonth());
-			picker.setDateRange(dt.getYear() - 100, dt.getMonthOfYear(),
-					dt.getDayOfMonth(),
-					dt.getYear(), dt.getMonthOfYear() - 1, dt.getDayOfMonth());
-			picker.show(getChildFragmentManager(), Constants.KEY_DATETIMEPICKER);
+			Helper.datePicker(edtDob);
 			break;
 
 		case TAG_CONTACT:
@@ -126,12 +116,6 @@ public class FragmentLogin
 			break;
 
 		}
-	}
-
-	@Override
-	public void onDateSet(DatePickerDialog datePickerDialog, int year, int month, int day) {
-		DateTime dt = DateTime.now().withYear(year).withMonthOfYear(month + 1).withDayOfMonth(day);
-		edtDob.setText(dt.toString(Constants.DATE_MDY));
 	}
 
 	@Override

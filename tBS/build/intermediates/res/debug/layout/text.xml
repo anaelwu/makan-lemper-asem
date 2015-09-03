@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/text"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content" />
-<!-- From: file:/Volumes/Data/Android/TBS-as/materialDesign/src/main/res/layout/text.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/layout/text.xml -->

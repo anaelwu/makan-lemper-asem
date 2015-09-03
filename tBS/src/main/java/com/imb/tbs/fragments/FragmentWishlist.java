@@ -1,11 +1,5 @@
 package com.imb.tbs.fragments;
 
-import java.util.ArrayList;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import roboguice.inject.InjectView;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v4.widget.SwipeRefreshLayout.OnRefreshListener;
@@ -29,167 +23,166 @@ import com.imb.tbs.helpers.Helper;
 import com.imb.tbs.helpers.Keys;
 import com.imb.tbs.objects.BeanWish;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+
+import roboguice.inject.InjectView;
+
 public class FragmentWishlist
-	extends BaseFragmentTbs implements OnRefreshListener {
+        extends BaseFragmentTbs implements OnRefreshListener {
+    @InjectView(R.id.lv)
+    private ListView           lv;
+    @InjectView(R.id.ld)
+    private LoadingCompound    ld;
+    @InjectView(R.id.sr)
+    private SwipeRefreshLayout sr;
+    private ArrayList<BeanWish> alWish = new ArrayList<BeanWish>();
+    private AdapterWishlist adapter;
+    private Menu            menu;
 
-	@InjectView(R.id.lv)
-	private ListView			lv;
-	@InjectView(R.id.ld)
-	private LoadingCompound		ld;
-	@InjectView(R.id.sr)
-	private SwipeRefreshLayout	sr;
+    @Override
+    public int setLayout() {
+        return R.layout.fragment_wishlist;
+    }
 
-	private ArrayList<BeanWish>	alWish	= new ArrayList<BeanWish>();
-	private AdapterWishlist		adapter;
-	private Menu				menu;
+    @Override
+    public void setView(View view, Bundle savedInstanceState) {
+        setTitle(R.string.wishlist);
 
-	@Override
-	public int setLayout() {
-		return R.layout.fragment_wishlist;
-	}
+        adapter = new AdapterWishlist(getActivity(), alWish) {
+            @Override
+            public void remove(int pos) {
+                delete(pos);
+            }
 
-	@Override
-	public void setView(View view, Bundle savedInstanceState) {
-		setTitle(R.string.wishlist);
+        };
+        adapter.setListenerBuy(this);
+        lv.setAdapter(adapter);
+        lv.setOnItemClickListener(this);
 
-		adapter = new AdapterWishlist(getActivity(), alWish) {
+        Helper.setRefreshColor(sr);
+        sr.setOnRefreshListener(this);
 
-			@Override
-			public void remove(int pos) {
-				delete(pos);
-			}
+        load();
+    }
 
-		};
-		adapter.setListenerBuy(this);
-		lv.setAdapter(adapter);
-		lv.setOnItemClickListener(this);
+    // ================================================================================
+    // Menu
+    // ================================================================================
+    @Override
+    public int setMenuLayout() {
+        return R.menu.remove;
+    }
 
-		Helper.setRefreshColor(sr);
-		sr.setOnRefreshListener(this);
+    @Override
+    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+        super.onCreateOptionsMenu(menu, inflater);
+        this.menu = menu;
+        setMenuIcon();
+    }
 
-		if (!alWish.isEmpty())
-			ld.hide();
-		else
-			load();
-	}
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.menu_remove:
+                adapter.setRemoveMode(!adapter.getRemoveMode());
+                setMenuIcon();
+                break;
+        }
 
-	// ================================================================================
-	// Menu
-	// ================================================================================
-	@Override
-	public int setMenuLayout() {
-		return R.menu.remove;
-	}
+        return super.onOptionsItemSelected(item);
+    }
 
-	@Override
-	public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-		super.onCreateOptionsMenu(menu, inflater);
-		this.menu = menu;
-		setMenuIcon();
-	}
+    public void setMenuIcon() {
+        MenuItem item = menu.getItem(0);
 
-	@Override
-	public boolean onOptionsItemSelected(MenuItem item) {
-		switch (item.getItemId()) {
-		case R.id.menu_remove:
-			adapter.setRemoveMode(!adapter.getRemoveMode());
-			setMenuIcon();
-			break;
-		}
+        if (adapter.getRemoveMode())
+            item.setIcon(R.drawable.ic_done);
+        else
+            item.setIcon(R.drawable.ic_trash);
+    }
 
-		return super.onOptionsItemSelected(item);
-	}
+    // ================================================================================
+    // Listener
+    // ================================================================================
+    @Override
+    public void onClick(View v) {
+        super.onClick(v);
 
-	public void setMenuIcon() {
-		MenuItem item = menu.getItem(0);
+        int      position = (Integer) v.getTag();
+        BeanWish bean     = alWish.get(position);
 
-		if (adapter.getRemoveMode())
-			item.setIcon(R.drawable.ic_done);
-		else
-			item.setIcon(R.drawable.ic_trash);
-	}
+        setFragment(new FragmentWebview(bean.getName(), bean.getUrl()));
+    }
 
-	// ================================================================================
-	// Listener
-	// ================================================================================
-	@Override
-	public void onClick(View v) {
-		super.onClick(v);
+    @Override
+    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+        setFragment(new FragmentProductDetails(alWish.get(position)));
+    }
 
-		int position = (Integer) v.getTag();
-		BeanWish bean = alWish.get(position);
+    @Override
+    public void onRefresh() {
+        load();
+    }
 
-		setFragment(new FragmentWebview(bean.getName(), bean.getUrl()));
-	}
+    // ================================================================================
+    // Webservice
+    // ================================================================================
+    private void load() {
+        if (getProfile() != null)
+            new HTTPTbs(this, ld) {
+                @Override
+                public String url() {
+                    return Api.SEARCH_WISHLIST;
+                }
 
-	@Override
-	public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-		setFragment(new FragmentProductDetails(alWish.get(position)));
-	}
+                @Override
+                public void onSuccess(JSONObject j) {
+                    sr.setRefreshing(false);
+                    try {
+                        alWish.clear();
+                        alWish.addAll(Converter.toWishlist(j.getString(Keys.RESULTS)));
+                        adapter.notifyDataSetChanged();
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                }
 
-	@Override
-	public void onRefresh() {
-		load();
-	}
+                public void onFail(int code, String message) {
+                    sr.setRefreshing(false);
+                    if (code == Constants.CODE_BACKEND_FAIL) {
+                        ld.showError("", getString(R.string.no_wish));
+                    } else
+                        super.onFail(code, message);
+                }
 
-	// ================================================================================
-	// Webservice
-	// ================================================================================
-	private void load() {
-		if (getProfile() != null)
-			new HTTPTbs(this, ld) {
+                ;
+            }.setGetParams(Keys.USER_ID, getProfile().getId()).execute();
+        else
+            ld.showError("", getString(R.string.please_login));
+    }
 
-				@Override
-				public String url() {
-					return Api.SEARCH_WISHLIST;
-				}
+    private void delete(final int pos) {
+        new HTTPTbs(this, true) {
+            @Override
+            public String url() {
+                return Api.DELETE_WISHLIST;
+            }
 
-				@Override
-				public void onSuccess(JSONObject j) {
-					sr.setRefreshing(false);
-					try {
-						alWish.clear();
-						alWish.addAll(Converter.toWishlist(j.getString(Keys.RESULTS)));
-						adapter.notifyDataSetChanged();
-					}
-					catch (JSONException e) {
-						e.printStackTrace();
-					}
-				}
+            @Override
+            public void onSuccess(JSONObject j) {
+                alWish.remove(pos);
+                adapter.notifyDataSetChanged();
 
-				public void onFail(int code, String message) {
-					sr.setRefreshing(false);
-					if (code == Constants.CODE_BACKEND_FAIL) {
-						ld.showError("", getString(R.string.no_wish));
-					}
-					else
-						super.onFail(code, message);
-				};
-			}.setGetParams(Keys.USER_ID, getProfile().getId()).execute();
-		else
-			ld.showError("", getString(R.string.please_login));
-	}
+                Toast.makeText(getActivity(), getString(R.string.success_remove), Toast.LENGTH_SHORT).show();
 
-	private void delete(final int pos) {
-		new HTTPTbs(this, true) {
+                if (alWish.isEmpty())
+                    ld.showError("", getString(R.string.no_wish));
+            }
 
-			@Override
-			public String url() {
-				return Api.DELETE_WISHLIST;
-			}
-
-			@Override
-			public void onSuccess(JSONObject j) {
-				alWish.remove(pos);
-				adapter.notifyDataSetChanged();
-
-				Toast.makeText(getActivity(), getString(R.string.success_remove), Toast.LENGTH_SHORT).show();
-
-				if (alWish.isEmpty())
-					ld.showError("", getString(R.string.no_wish));
-			}
-
-		}.setGetParams(Keys.ID, alWish.get(pos).getWishId()).setPostParams("updates", 1).execute();
-	}
+        }.setGetParams(Keys.ID, alWish.get(pos).getWishId()).setPostParams("updates", 1).execute();
+    }
 
 }

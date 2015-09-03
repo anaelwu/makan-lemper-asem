@@ -1,7 +1,9 @@
 package com.imb.tbs.fragments;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -11,6 +13,7 @@ import com.iapps.libs.helpers.HTTPAsyncImb;
 import com.iapps.libs.views.ImageViewLoader;
 import com.imb.tbs.R;
 import com.imb.tbs.activities.ActivityHome;
+import com.imb.tbs.activities.ActivityVcard;
 import com.imb.tbs.adapters.AdapterHome;
 import com.imb.tbs.helpers.Api;
 import com.imb.tbs.helpers.BaseFragmentTbs;
@@ -65,13 +68,26 @@ public class FragmentHome
         if (loadProfile && getProfile() != null)
             loadProfile();
 
-        //		if (loadProfile)
         loadSettings();
     }
 
     @Override
     public int setMenuLayout() {
+        if (getProfile() != null)
+            return R.menu.qr;
         return 0;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == R.id.menu_qr) {
+            if (getProfile().getStatus().equalsIgnoreCase(Constants.STATUS_STAMP))
+                startActivity(new Intent(getActivity(), ActivityVcard.class));
+            else
+                setFragment(new FragmentVcardMember());
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     private void initList() {

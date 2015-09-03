@@ -123,6 +123,6 @@
         android:layout_height="50dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:src="@drawable/ic_card"/>
+        android:src="@drawable/ic_lyb"/>
 
 </RelativeLayout>

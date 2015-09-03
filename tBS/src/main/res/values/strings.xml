@@ -26,6 +26,7 @@
     <string name="open_in_browser">Open in Browser</string>
     <string name="refresh">Refresh</string>
     <string name="search">Search</string>
+    <string name="virtual_card">Virtual Card</string>
 
     <!-- Home -->
     <string name="profile_white">Profile</string>

@@ -1,9 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto" >
-
-    <item
-        android:id="@+id/menu_buy"
-        android:title="@string/buy_now"
-        app:showAsAction="always"/>
-
-</menu><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/menu/buy.xml -->

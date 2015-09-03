@@ -1,10 +1,5 @@
 package com.imb.tbs.fragments;
 
-import org.joda.time.DateTime;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import roboguice.inject.InjectView;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -12,8 +7,6 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 
 import com.doomonafireball.betterpickers.numberpicker.NumberPickerDialogFragment.PinPickerDialogHandler;
-import com.fourmob.datetimepicker.date.DatePickerDialog;
-import com.fourmob.datetimepicker.date.DatePickerDialog.OnDateSetListener;
 import com.imb.tbs.R;
 import com.imb.tbs.helpers.Api;
 import com.imb.tbs.helpers.BaseFragmentTbs;
@@ -26,9 +19,13 @@ import com.imb.tbs.helpers.Preference;
 import com.imb.tbs.objects.BeanProfile;
 import com.material.widget.FloatingEditText;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import roboguice.inject.InjectView;
+
 public class FragmentLinkLyb
-	extends BaseFragmentTbs implements PinPickerDialogHandler,
-		OnDateSetListener {
+	extends BaseFragmentTbs implements PinPickerDialogHandler {
 
 	@InjectView(R.id.edtCard)
 	private FloatingEditText	edtCard;
@@ -99,7 +96,7 @@ public class FragmentLinkLyb
 			break;
 
 		case TAG_DOB:
-			Helper.datePicker(this, getChildFragmentManager());
+			Helper.datePicker(edtDob);
 			break;
 
 		case TAG_SUBMIT:
@@ -107,12 +104,10 @@ public class FragmentLinkLyb
 					edtCard, edtDob
 			}))
 				loginLyb();
-			// checkLyb();
 			break;
 
 		case TAG_NO:
 			register();
-			// getLoginActivity().changeActivity(true);
 			break;
 
 		case TAG_CONTACT:
@@ -128,12 +123,6 @@ public class FragmentLinkLyb
 	// ================================================================================
 	// Listener
 	// ================================================================================
-	@Override
-	public void onDateSet(DatePickerDialog datePickerDialog, int year, int month, int day) {
-		DateTime dt = DateTime.now().withYear(year).withMonthOfYear(month + 1).withDayOfMonth(day);
-		edtDob.setText(dt.toString(Constants.DATE_MDY));
-	}
-
 	@Override
 	public void onDialogPinSet(int reference, String pin) {
 		switch (reference) {

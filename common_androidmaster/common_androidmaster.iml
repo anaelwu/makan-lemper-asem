@@ -72,10 +72,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dex-cache" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jacoco" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaResources" />
@@ -112,7 +108,6 @@
     <orderEntry type="module" module-name="materialWidget" exported="" />
     <orderEntry type="module" module-name="facebookSDK" exported="" />
     <orderEntry type="module" module-name="materialDesign" exported="" />
-    <orderEntry type="module" module-name="datetimepicker" exported="" />
     <orderEntry type="module" module-name="actionbar4guice" exported="" />
     <orderEntry type="module" module-name="betterPicker" exported="" />
     <orderEntry type="module" module-name="calligraphy" exported="" />

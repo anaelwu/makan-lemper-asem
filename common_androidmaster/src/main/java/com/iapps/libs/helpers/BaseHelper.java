@@ -1,34 +1,9 @@
 package com.iapps.libs.helpers;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-import java.text.DecimalFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Locale;
-import java.util.Map;
-
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang.WordUtils;
-import org.joda.time.DateTime;
-import org.joda.time.DateTimeComparator;
-import org.joda.time.format.DateTimeFormat;
-import org.joda.time.format.DateTimeFormatter;
-import org.joda.time.format.ISODateTimeFormat;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
+import android.app.DatePickerDialog;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -45,6 +20,7 @@ import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Environment;
 import android.provider.MediaStore;
+import android.support.v4.app.DialogFragment;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.telephony.TelephonyManager;
@@ -58,17 +34,43 @@ import android.text.style.StyleSpan;
 import android.util.Base64;
 import android.util.Log;
 import android.view.View;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.doomonafireball.betterpickers.numberpicker.NumberPickerBuilder;
-import com.fourmob.datetimepicker.date.DatePickerDialog;
-import com.fourmob.datetimepicker.date.DatePickerDialog.OnDateSetListener;
 import com.iapps.common_library.R;
+import com.iapps.fragments.DatePickerFragment;
 import com.iapps.libs.generics.GenericActivity;
 import com.iapps.libs.objects.Response;
 import com.iapps.libs.views.LoadingCompound;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang.WordUtils;
+import org.joda.time.DateTime;
+import org.joda.time.DateTimeComparator;
+import org.joda.time.format.DateTimeFormat;
+import org.joda.time.format.DateTimeFormatter;
+import org.joda.time.format.ISODateTimeFormat;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.text.DecimalFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Locale;
+import java.util.Map;
 
 public class BaseHelper {
 
@@ -90,7 +92,7 @@ public class BaseHelper {
 
 	/**
 	 * Check if a string is empty (length == 0)
-	 * 
+	 *
 	 * @param string , to be checked
 	 * @return true if empty
 	 */
@@ -103,7 +105,7 @@ public class BaseHelper {
 
 	/**
 	 * Change the state of a view to View.GONE
-	 * 
+	 *
 	 * @param v , view to be updated
 	 */
 	public static void goneView(View v) {
@@ -115,7 +117,7 @@ public class BaseHelper {
 
 	/**
 	 * Change the state of a view to View.VISIBLE
-	 * 
+	 *
 	 * @param v , view to be updated
 	 */
 	public static void visibleView(View v) {
@@ -126,7 +128,7 @@ public class BaseHelper {
 
 	/**
 	 * Change the state of a view to View.INVISIBLE
-	 * 
+	 *
 	 * @param v , view to be updated
 	 */
 	public static void invisibleView(View v) {
@@ -137,7 +139,7 @@ public class BaseHelper {
 
 	/**
 	 * Send email
-	 * 
+	 *
 	 * @param activity
 	 * @param emailAddresses
 	 * @param subject
@@ -169,7 +171,7 @@ public class BaseHelper {
 
 	/**
 	 * Open activity to send an SMS
-	 * 
+	 *
 	 * @param activity to start the sms activity from
 	 * @param smsBody
 	 */
@@ -179,7 +181,7 @@ public class BaseHelper {
 
 	/**
 	 * Open activity to send an SMS, specifying the phone number
-	 * 
+	 *
 	 * @param activity
 	 * @param smsBody
 	 * @param phoneNumber
@@ -207,7 +209,7 @@ public class BaseHelper {
 
 	/**
 	 * Show dialog alert
-	 * 
+	 *
 	 * @param context
 	 * @param title
 	 * @param message
@@ -292,7 +294,7 @@ public class BaseHelper {
 
 	/**
 	 * Handle response object and returns {@link JSONObject}
-	 * 
+	 *
 	 * @param response , response object to be handled
 	 * @param loading , loading compound to show the error message/ to hide
 	 * @return valid {@link JSONObject}
@@ -303,7 +305,7 @@ public class BaseHelper {
 
 	/**
 	 * Handle response object and returns {@link JSONObject}
-	 * 
+	 *
 	 * @param response , response object to be handled
 	 * @param shouldDisplayDialog , true if should display error dialog popup
 	 * @param context , context being used
@@ -377,7 +379,7 @@ public class BaseHelper {
 
 	/**
 	 * Show required popup message
-	 * 
+	 *
 	 * @param context
 	 * @param field
 	 */
@@ -416,7 +418,7 @@ public class BaseHelper {
 
 	/**
 	 * Whether the target equals 'Y'
-	 * 
+	 *
 	 * @param target
 	 * @return
 	 */
@@ -435,7 +437,7 @@ public class BaseHelper {
 
 	/**
 	 * Show confirm dialog popup
-	 * 
+	 *
 	 * @param context
 	 * @param title
 	 * @param message
@@ -478,7 +480,7 @@ public class BaseHelper {
 
 	/**
 	 * Show confirm dialog popup
-	 * 
+	 *
 	 * @param context
 	 * @param titleResId
 	 * @param messageResId
@@ -507,7 +509,7 @@ public class BaseHelper {
 
 	/**
 	 * Show confirm dialog
-	 * 
+	 *
 	 * @param context
 	 * @param messageResId
 	 * @param l
@@ -538,7 +540,7 @@ public class BaseHelper {
 
 	/**
 	 * Show a prompt dialog to the user
-	 * 
+	 *
 	 * @param context
 	 * @param titleResId
 	 * @param positiveButtonResId
@@ -554,7 +556,7 @@ public class BaseHelper {
 
 	/**
 	 * Show a prompt dialog to the user with custom input type
-	 * 
+	 *
 	 * @param context
 	 * @param titleResId
 	 * @param positiveButtonResId
@@ -695,7 +697,7 @@ public class BaseHelper {
 
 	/**
 	 * use calcTimeDiff(DateTime target, Context context)
-	 * 
+	 *
 	 * @param target
 	 * @return
 	 */
@@ -706,7 +708,7 @@ public class BaseHelper {
 
 	/**
 	 * Use calcTimeDiff(Date, Context)
-	 * 
+	 *
 	 * @param target
 	 * @return
 	 */
@@ -808,7 +810,7 @@ public class BaseHelper {
 
 	/**
 	 * Calculate absolute time difference
-	 * 
+	 *
 	 * @param target , date to be compared to now
 	 * @param context , the context
 	 * @return time difference, or date if it is more than 7 days
@@ -980,7 +982,7 @@ public class BaseHelper {
 
 	/**
 	 * Get the URL to the app detail page in the PlayStore
-	 * 
+	 *
 	 * @param context
 	 * @return URL to the PlayStore
 	 */
@@ -1022,7 +1024,7 @@ public class BaseHelper {
 	 * Select an image and allow user to crop the image using requestCode {@link BaseHelper}
 	 * .REQUEST_IMAGE_CODE Implement {@link BaseUIHelper} .processImage / processPreview
 	 * onActivityResult to process the image results and get the file
-	 * 
+	 *
 	 * @param activity , activity to handle the onActivityResult
 	 */
 	public static void pickImage(final Activity activity) {
@@ -1064,7 +1066,7 @@ public class BaseHelper {
 	 * Select an image and allow user to crop the image using requestCode {@link BaseHelper}
 	 * .REQUEST_IMAGE_CODE Implement {@link BaseUIHelper} .processImage / processPreview
 	 * onActivityResult to process the image results and get the file
-	 * 
+	 *
 	 * @param fragment , fragment to handle the onActivityResult
 	 */
 	public static void pickImage(final Fragment fragment) {
@@ -1107,7 +1109,7 @@ public class BaseHelper {
 
 	/**
 	 * Get the version name of this build
-	 * 
+	 *
 	 * @param context
 	 * @return
 	 */
@@ -1129,7 +1131,7 @@ public class BaseHelper {
 
 	/**
 	 * Get the version code of this build
-	 * 
+	 *
 	 * @param context
 	 * @return
 	 */
@@ -1175,7 +1177,7 @@ public class BaseHelper {
 
 	/**
 	 * Format distance to be displayed to the user
-	 * 
+	 *
 	 * @param d , distance in metres
 	 * @return formatted {@link String}
 	 */
@@ -1479,15 +1481,22 @@ public class BaseHelper {
 	// ================================================================================
 	// Picker
 	// ================================================================================
-	public static void datePicker(OnDateSetListener listener, FragmentManager manager) {
-		DateTime dt = DateTime.now();
-		DatePickerDialog picker = DatePickerDialog.newInstance(listener, dt.getYear(),
-				dt.getMonthOfYear() - 1,
-				dt.getDayOfMonth());
-		picker.setDateRange(dt.getYear() - 100, dt.getMonthOfYear(),
-				dt.getDayOfMonth(),
-				dt.getYear(), dt.getMonthOfYear() - 1, dt.getDayOfMonth());
-		picker.show(manager, BaseConstants.KEY_DATETIMEPICKER);
+	public static void datePicker(final EditText edt) {
+		Calendar newCalendar = Calendar.getInstance();
+		DatePickerDialog datePicker = new DatePickerDialog(edt.getContext(), new DatePickerDialog.OnDateSetListener() {
+			public void onDateSet(DatePicker view, int year, int monthOfYear, int dayOfMonth) {
+				Calendar newDate = Calendar.getInstance();
+				newDate.set(year, monthOfYear, dayOfMonth);
+				SimpleDateFormat dateFormatter = new SimpleDateFormat(BaseConstants.DATE_MDY, Locale.US);
+				edt.setText(dateFormatter.format(newDate.getTime()));
+			}
+
+		}, newCalendar.get(Calendar.YEAR), newCalendar.get(Calendar.MONTH),
+							 newCalendar.get(Calendar.DAY_OF_MONTH));
+
+		datePicker.getDatePicker().setSpinnersShown(true);
+		datePicker.getDatePicker().setCalendarViewShown(false);
+		datePicker.show();
 	}
 
 	public static NumberPickerBuilder betterPicker(Fragment frag) {

@@ -14,7 +14,7 @@ public class Api {
      * Code 39 (c39), Code 128a (c128a), Code 128b (c128b), Code 128c (c128c), 4 of 5 Interleaved
      * (i2of5)
      */
-    public static final String BAR_CODE              = "http://www.barcodes4.me/barcode/c128c/$1.png?IsTextDrawn=1";
+    public static final String BAR_CODE              = "http://www.barcodes4.me/barcode/c128c/$1.png?IsTextDrawn=0";
     // ================================================================================
     // Webservice
     // ================================================================================
@@ -39,9 +39,9 @@ public class Api {
             + "LLAccWeb/LL_Account?cmd=ws&mws=getPair";
     public static final String GET_CAROUSEL          =
             BASE_URL
-                    + "CarouselMobileWeb/CarouselMobile?cmd=ws&mws=getPair";
-    public static final String GET_CAMPAIGN          = BASE_URL + "LL_Web/LL_Program?cmd=ws&mws=getPair";
-    public static final String GET_NEWS              = BASE_URL + "LL_Web/LL_News?cmd=ws&mws=getPair";
+                    + "FeatureWeb/getNews?mode=carousel";
+    public static final String GET_CAMPAIGN          = BASE_URL + "FeatureWeb/getNews?mode=offer";
+    public static final String GET_NEWS              = BASE_URL + "FeatureWeb/getNews?mode=news";
     public static final String GET_REWARDS           = BASE_URL_LOCAL + "RewardWeb/findMy";
     public static final String GET_PRODUCTS          = BASE_URL + "LLProdWeb/getCategory";
     public static final String GET_PRODUCT_LIST      = BASE_URL + "LLProdWeb/getItemsUsing3rdTag";

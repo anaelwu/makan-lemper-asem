@@ -24,7 +24,6 @@ android {
 dependencies {
     compile project(':actionbar4guice')
     compile project(':betterPicker')
-    compile project(':datetimepicker')
     compile project(':calligraphy')
     compile project(':facebookSDK')
     compile project(':materialWidget')

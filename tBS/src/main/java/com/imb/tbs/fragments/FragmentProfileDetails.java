@@ -1,10 +1,5 @@
 package com.imb.tbs.fragments;
 
-import org.joda.time.DateTime;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import roboguice.inject.InjectView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -19,8 +14,6 @@ import android.widget.Toast;
 
 import com.doomonafireball.betterpickers.numberpicker.NumberPickerDialogFragment.PinPickerDialogHandler;
 import com.facebook.Response;
-import com.fourmob.datetimepicker.date.DatePickerDialog;
-import com.fourmob.datetimepicker.date.DatePickerDialog.OnDateSetListener;
 import com.iapps.libs.helpers.BaseUIHelper;
 import com.iapps.libs.helpers.FacebookImage;
 import com.iapps.libs.helpers.FacebookLogin;
@@ -34,9 +27,14 @@ import com.imb.tbs.helpers.Helper;
 import com.imb.tbs.helpers.Keys;
 import com.imb.tbs.helpers.Preference;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import roboguice.inject.InjectView;
+
 public class FragmentProfileDetails
 	extends BaseFragmentTbs implements OnClickListener,
-		PinPickerDialogHandler, OnDateSetListener {
+		PinPickerDialogHandler {
 
 	@InjectView(R.id.edtName)
 	private EditText		edtName;
@@ -182,7 +180,7 @@ public class FragmentProfileDetails
 			break;
 
 		case TAG_DOB:
-			Helper.datePicker(this, getChildFragmentManager());
+			Helper.datePicker(edtDob);
 			break;
 
 		case TAG_FB:
@@ -218,12 +216,6 @@ public class FragmentProfileDetails
 			edtPhone.setText(pin);
 			break;
 		}
-	}
-
-	@Override
-	public void onDateSet(DatePickerDialog datePickerDialog, int year, int month, int day) {
-		DateTime dt = DateTime.now().withYear(year).withMonthOfYear(month + 1).withDayOfMonth(day);
-		edtDob.setText(dt.toString(Constants.DATE_MDY));
 	}
 
 	@Override

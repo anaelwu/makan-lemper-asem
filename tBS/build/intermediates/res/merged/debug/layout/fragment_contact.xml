@@ -62,6 +62,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="left|center_vertical"
                         android:paddingLeft="@dimen/margin_small"
+                        android:textColor="@color/Blue"
                         android:text="@string/con_phone_1" />
 
                     <Button
@@ -70,6 +71,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="left|center_vertical"
+                        android:textColor="@color/Blue"
                         android:paddingLeft="@dimen/margin_small"
                         android:text="@string/con_phone_2" />
                 </LinearLayout>

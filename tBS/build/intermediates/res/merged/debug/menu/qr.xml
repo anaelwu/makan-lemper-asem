@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/menu_qr"
+        android:icon="@drawable/ic_vc"
+        android:title="@string/virtual_card"
+        app:showAsAction="always"/>
+
+</menu><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/menu/qr.xml -->

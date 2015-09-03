@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/bolts/bolts.iml" filepath="$PROJECT_DIR$/bolts/bolts.iml" />
       <module fileurl="file://$PROJECT_DIR$/calligraphy/calligraphy.iml" filepath="$PROJECT_DIR$/calligraphy/calligraphy.iml" />
       <module fileurl="file://$PROJECT_DIR$/common_androidmaster/common_androidmaster.iml" filepath="$PROJECT_DIR$/common_androidmaster/common_androidmaster.iml" />
-      <module fileurl="file://$PROJECT_DIR$/datetimepicker/datetimepicker.iml" filepath="$PROJECT_DIR$/datetimepicker/datetimepicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialDesign/materialDesign.iml" filepath="$PROJECT_DIR$/materialDesign/materialDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialWidget/materialWidget.iml" filepath="$PROJECT_DIR$/materialWidget/materialWidget.iml" />

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
-    android:animation="@anim/fadein"
-    android:animationOrder="random"
-    android:delay="0.5"
-    android:repeatCount="infinite" />
-<!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/animator/layout_random_fade.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/bundles/debug/res/animator/layout_random_fade.xml -->

@@ -39,8 +39,8 @@ public final class R {
 		public static final int common_signin_btn_light_text_disabled = 0x7f0e00df;
 		public static final int common_signin_btn_light_text_focused = 0x7f0e00e0;
 		public static final int common_signin_btn_light_text_pressed = 0x7f0e00e1;
-		public static final int common_signin_btn_text_dark = 0x7f0e0169;
-		public static final int common_signin_btn_text_light = 0x7f0e016a;
+		public static final int common_signin_btn_text_dark = 0x7f0e0167;
+		public static final int common_signin_btn_text_light = 0x7f0e0168;
 	}
 	public static final class drawable {
 		public static final int common_full_open_on_phone = 0x7f0200b4;
@@ -71,14 +71,14 @@ public final class R {
 		public static final int common_signin_btn_text_pressed_light = 0x7f0200cd;
 	}
 	public static final class id {
-		public static final int adjust_height = 0x7f0f002d;
-		public static final int adjust_width = 0x7f0f002e;
-		public static final int hybrid = 0x7f0f002f;
-		public static final int none = 0x7f0f001b;
-		public static final int normal = 0x7f0f0017;
-		public static final int satellite = 0x7f0f0030;
-		public static final int terrain = 0x7f0f0031;
-		public static final int wrap_content = 0x7f0f003a;
+		public static final int adjust_height = 0x7f0f0024;
+		public static final int adjust_width = 0x7f0f0025;
+		public static final int hybrid = 0x7f0f0026;
+		public static final int none = 0x7f0f0012;
+		public static final int normal = 0x7f0f000e;
+		public static final int satellite = 0x7f0f0027;
+		public static final int terrain = 0x7f0f0028;
+		public static final int wrap_content = 0x7f0f0031;
 	}
 	public static final class integer {
 		public static final int google_play_services_version = 0x7f0c0005;

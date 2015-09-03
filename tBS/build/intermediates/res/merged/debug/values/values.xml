@@ -511,11 +511,6 @@
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="darker_blue">#0099CC</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <color name="date_picker_text_disabled">#ffcccccc</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
     <color name="date_picker_text_normal">#FF999999</color>
     <color name="date_picker_view_animator">#f2f2f2</color>
     <color name="default_button_background_dark">#00000000</color>
@@ -595,9 +590,6 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <color name="numbers_disable_text_color">#e3e3e3</color>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="numbers_text_color">#8c8c8c</color>
@@ -1118,9 +1110,6 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <item name="animator" type="id">false</item>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="calligraphy_tag_id" type="id"/>
@@ -1128,21 +1117,9 @@
     <eat-comment/>
     <item name="date_keyboard" type="id"/>
     <item name="date_month_int" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <item name="date_picker_day" type="id">false</item>
-    <item name="date_picker_header" type="id">false</item>
-    <item name="date_picker_month" type="id">false</item>
-    <item name="date_picker_month_and_day" type="id">false</item>
-    <item name="date_picker_year" type="id">false</item>
-    <item name="day_picker_selected_date_layout" type="id">false</item>
-    <item name="done" type="id">false</item>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <item name="month_text_view" type="id">false</item>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="numbers_key" type="id"/>
@@ -1767,6 +1744,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="variants">Variants</string>
     <string name="view_profile">View Profile</string>
     <string name="view_rewards_catalog">View Rewards Catalog</string>
+    <string name="virtual_card">Virtual Card</string>
     <string name="weight">Weight</string>
     <string name="welcome_book">Welcome Book</string>
     <string name="were_on">We\'re on ..</string>
@@ -1795,15 +1773,6 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
-    </style>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="TransparentTheme"/>
@@ -3191,15 +3160,6 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="switchMinWidth">96dip</item>
         <item name="switchPadding">16dip</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <style name="ampm_label">
-        <item name="android:textSize">@dimen/ampm_label_size</item>
-        <item name="android:textColor">@color/ampm_text_color</item>
-        <item name="android:textStyle">bold</item>
-    </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
     <style name="aosp_ampm_label">
         <item name="android:textSize">@dimen/ampm_label_size</item>
         <item name="android:textAllCaps">true</item>
@@ -3263,9 +3223,6 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:textColor">#4B5164</item>
         <item name="android:gravity">center</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <style name="day_of_week_label_condensed"/>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="dialog_animation_fade">
@@ -3467,12 +3424,6 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     </style>
     <style name="textXLargeLight" parent="textXLarge">
         <item name="android:textColor">@color/White</item>
-    </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/res/values/values.xml -->
-    <eat-comment/>
-    <style name="time_label">
-        <item name="android:textSize">@dimen/time_label_size</item>
-        <item name="android:textColor">@color/numbers_text_color</item>
     </style>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>

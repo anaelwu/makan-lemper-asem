@@ -1,11 +1,5 @@
 package com.imb.tbs.fragments;
 
-import java.util.ArrayList;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import roboguice.inject.InjectView;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -30,6 +24,13 @@ import com.imb.tbs.helpers.Helper;
 import com.imb.tbs.helpers.Keys;
 import com.imb.tbs.objects.BeanDetails;
 import com.imb.tbs.objects.BeanProductDetails;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+
+import roboguice.inject.InjectView;
 
 public class FragmentProductItem
 	extends BaseFragmentTbs {

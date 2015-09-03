@@ -33,9 +33,6 @@ MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as
 MERGED from [TBS-as:betterPicker:unspecified] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
-MERGED from [TBS-as:datetimepicker:unspecified] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/datetimepicker/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
 MERGED from [TBS-as:facebookSDK:unspecified] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/AndroidManifest.xml:20:5-22:41
@@ -166,8 +163,6 @@ MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as
 MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [TBS-as:common_androidmaster:unspecified] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.0] /Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
