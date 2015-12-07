@@ -10,7 +10,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.iapps.external.FlowLayout.FlowLayout;
-import com.iapps.libs.helpers.HTTPAsyncImb;
 import com.iapps.libs.views.ImageViewLoader;
 import com.iapps.libs.views.LoadingCompound;
 import com.imb.tbs.R;
@@ -33,200 +32,197 @@ import java.util.ArrayList;
 import roboguice.inject.InjectView;
 
 public class FragmentProductItem
-	extends BaseFragmentTbs {
-	@InjectView(R.id.lv)
-	private ListView				lv;
-	@InjectView(R.id.ld)
-	private LoadingCompound			ld;
+        extends BaseFragmentTbs {
+    @InjectView(R.id.lv)
+    private ListView        lv;
+    @InjectView(R.id.ld)
+    private LoadingCompound ld;
+    private Button          btnWishlist;
+    private TextView        tvPrice;
+    private FlowLayout      llVariant;
+    private LinearLayout    llVariantParent;
+    private ArrayList<BeanDetails> alDetails = new ArrayList<BeanDetails>();
+    private AdapterProductDetails adapter;
+    private BeanProductDetails    bean;
+    public static final int TAG_WISHLIST = 1;
 
-	private Button					btnWishlist;
-	private TextView				tvPrice;
-	private FlowLayout				llVariant;
-	private LinearLayout			llVariantParent;
+    @Override
+    public int setLayout() {
+        return R.layout.fragment_product_details_item;
+    }
 
-	private ArrayList<BeanDetails>	alDetails		= new ArrayList<BeanDetails>();
-	private AdapterProductDetails	adapter;
-	private BeanProductDetails		bean;
+    @Override
+    public void setView(View view, Bundle savedInstanceState) {
+        bean = getArguments().getParcelable(Constants.OBJECT);
+        initList();
 
-	public static final int			TAG_WISHLIST	= 1;
+        adapter = new AdapterProductDetails(getActivity(), alDetails);
 
-	@Override
-	public int setLayout() {
-		return R.layout.fragment_product_details_item;
-	}
+        getVariants();
+        initHeader();
+        lv.setAdapter(adapter);
 
-	@Override
-	public void setView(View view, Bundle savedInstanceState) {
-		bean = getArguments().getParcelable(Constants.OBJECT);
-		initList();
+        if (getProfile() == null)
+            // btnWishlist.setEnabled(false);
+            btnWishlist.setVisibility(View.GONE);
 
-		adapter = new AdapterProductDetails(getActivity(), alDetails);
+        btnWishlist.setTag(TAG_WISHLIST);
+        btnWishlist.setOnClickListener(this);
 
-		getVariants();
-		initHeader();
-		lv.setAdapter(adapter);
+        checkWishlist();
+    }
 
-		if (getProfile() == null)
-			// btnWishlist.setEnabled(false);
-			btnWishlist.setVisibility(View.GONE);
+    @Override
+    public int setMenuLayout() {
+        return 0;
+    }
 
-		btnWishlist.setTag(TAG_WISHLIST);
-		btnWishlist.setOnClickListener(this);
+    public void initList() {
+        alDetails.clear();
 
-		checkWishlist();
-	}
+        if (!Helper.isEmpty(bean.getHowto()) && !Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.how_to_use), bean.getHowto()));
+        else if (!Helper.isEmpty(bean.getHowtoIn()) && Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.how_to_use), bean.getHowtoIn()));
 
-	@Override
-	public int setMenuLayout() {
-		return 0;
-	}
+        if (!Helper.isEmpty(bean.getArticle()) && !Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticle()));
+        else if (!Helper.isEmpty(bean.getArticleIn()) && Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticleIn()));
 
-	public void initList() {
-		alDetails.clear();
+        if (!Helper.isEmpty(bean.getIngre()) && !Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.ingredients), bean.getIngre()));
+        else if (!Helper.isEmpty(bean.getIngreIn()) && Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.ingredients), bean.getIngreIn()));
 
-		if (!Helper.isEmpty(bean.getArticle()))
-			if (!Helper.isLangIndo())
-				alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticle()));
-			else
-				alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticleIn()));
+        if (!Helper.isEmpty(bean.getTips()) && !Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.tips), bean.getTips()));
+        else if (!Helper.isEmpty(bean.getTipsIn()) && Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.tips), bean.getTipsIn()));
 
-		if (!Helper.isEmpty(bean.getIngre()))
-			if (!Helper.isLangIndo())
-				alDetails.add(new BeanDetails(getString(R.string.ingredients), bean.getIngre()));
-			else
-				alDetails.add(new BeanDetails(getString(R.string.ingredients), bean.getIngreIn()));
+        if (!Helper.isEmpty(bean.getWeight()))
+            alDetails.add(new BeanDetails(getString(R.string.weight), bean.getWeight()));
+    }
 
-		if (!Helper.isEmpty(bean.getHowto()))
-			if (!Helper.isLangIndo())
-				alDetails.add(new BeanDetails(getString(R.string.how_to_use), bean.getHowto()));
-			else
-				alDetails.add(new BeanDetails(getString(R.string.how_to_use), bean.getHowto()));
+    public void initHeader() {
+        View header = getHomeTbs().getLayoutInflater().inflate(R.layout.cell_product_details_header,
+                                                               null);
+        lv.addHeaderView(header);
 
-		if (!Helper.isEmpty(bean.getWeight()))
-			alDetails.add(new BeanDetails(getString(R.string.weight), bean.getWeight()));
-	}
+        btnWishlist = (Button) header.findViewById(R.id.btnWishlist);
+        tvPrice = (TextView) header.findViewById(R.id.tvPrice);
+        llVariant = (FlowLayout) header.findViewById(R.id.flVariant);
+        llVariantParent = (LinearLayout) header.findViewById(R.id.llVariantContainer);
 
-	public void initHeader() {
-		View header = getHomeTbs().getLayoutInflater().inflate(R.layout.cell_product_details_header,
-				null);
-		lv.addHeaderView(header);
+        tvPrice.setText(Helper.formatRupiah(bean.getPrice()));
+    }
 
-		btnWishlist = (Button) header.findViewById(R.id.btnWishlist);
-		tvPrice = (TextView) header.findViewById(R.id.tvPrice);
-		llVariant = (FlowLayout) header.findViewById(R.id.flVariant);
-		llVariantParent = (LinearLayout) header.findViewById(R.id.llVariantContainer);
+    @Override
+    public void onClick(View v) {
+        super.onClick(v);
+        addWishlist();
+    }
 
-		tvPrice.setText(Helper.formatRupiah(bean.getPrice()));
-	}
+    private void createVariants(ArrayList<BeanProductDetails> alVariants) {
+        if (alVariants.size() > 0)
+            llVariantParent.setVisibility(View.VISIBLE);
+        else {
+            llVariantParent.setVisibility(View.GONE);
+            return;
+        }
 
-	@Override
-	public void onClick(View v) {
-		super.onClick(v);
-		addWishlist();
-	}
+        for (BeanProductDetails beanProductDetails : alVariants) {
+            ImageViewLoader variant = new ImageViewLoader(getActivity());
+            RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
+                    getResources().getDimensionPixelSize(R.dimen.img_variant),
+                    getResources().getDimensionPixelSize(
+                            R.dimen.img_variant));
+            variant.setLayoutParams(params);
+            variant.loadImage(beanProductDetails.getImgVariant());
+            variant.setPopupOnClick(true);
+            llVariant.addView(variant);
+        }
+    }
 
-	private void createVariants(ArrayList<BeanProductDetails> alVariants) {
-		if (alVariants.size() > 0)
-			llVariantParent.setVisibility(View.VISIBLE);
-		else {
-			llVariantParent.setVisibility(View.GONE);
-			return;
-		}
+    // ================================================================================
+    // Webservice
+    // ================================================================================
+    private void checkWishlist() {
+        if (getProfile() != null)
+            new HTTPTbs(this, ld) {
+                @Override
+                public String url() {
+                    return Api.CHECK_WISHLIST;
+                }
 
-		for (BeanProductDetails beanProductDetails : alVariants) {
-			ImageViewLoader variant = new ImageViewLoader(getActivity());
-			RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
-					getResources().getDimensionPixelSize(R.dimen.img_variant),
-					getResources().getDimensionPixelSize(
-							R.dimen.img_variant));
-			variant.setLayoutParams(params);
-			variant.loadImage(beanProductDetails.getImgVariant());
-			variant.setPopupOnClick(true);
-			llVariant.addView(variant);
-		}
-	}
+                public String search() {
+                    return Helper.toSearchQuery(Keys.WISH_ARTICLE, bean.getVariantId())
+                            + Helper.toSearchQuery(Keys.WISH_ACC_ID, getProfile().getId());
+                }
 
-	// ================================================================================
-	// Webservice
-	// ================================================================================
-	private void checkWishlist() {
-		if (getProfile() != null)
-			new HTTPTbs(this, ld) {
+                @Override
+                public void onSuccess(JSONObject j) {
+                    btnWishlist.setVisibility(View.GONE);
+                }
 
-				@Override
-				public String url() {
-					return Api.CHECK_WISHLIST;
-				}
+                public void onFail(int code, String message) {
+                    if (code == Constants.CODE_BACKEND_FAIL) {
+                        ld.hide();
+                    }
+                }
+            }.execute();
+        else {
+            ld.hide();
+            btnWishlist.setVisibility(View.GONE);
+        }
+    }
 
-				public String search() {
-					return Helper.toSearchQuery(Keys.WISH_ARTICLE, bean.getVariantId())
-							+ Helper.toSearchQuery(Keys.WISH_ACC_ID, getProfile().getId());
-				};
+    private void getVariants() {
+        new HTTPTbs(this, false) {
+            @Override
+            public String url() {
+                // TODO Auto-generated method stub
+                return Api.PRODUCT_VARIANT;
+            }
 
-				@Override
-				public void onSuccess(JSONObject j) {
-					btnWishlist.setVisibility(View.GONE);
-				}
+            @Override
+            public String search() {
+                // TODO Auto-generated method stub
+                return Helper.toSearchQuery(Keys.PROD_TYPE, Constants.VARIANT)
+                        + Helper.toSearchQuery(Keys.PROD_ID, bean.getId());
+            }
 
-				public void onFail(int code, String message) {
-					if (code == Constants.CODE_BACKEND_FAIL) {
-						ld.hide();
-					}
-				};
-			}.execute();
-		else {
-			ld.hide();
-			btnWishlist.setVisibility(View.GONE);
-		}
-	}
+            @Override
+            public void onSuccess(JSONObject j) {
+                // Toast.makeText(getActivity(), j.toString(), Toast.LENGTH_SHORT).show();
+                try {
+                    createVariants(Converter.toProductList(j.getString(Keys.RESULTS)));
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
 
-	private void getVariants() {
-		new HTTPAsyncImb(this, false) {
+            public void onFail(int code, String message) {
+                // Do nothing
+            }
 
-			@Override
-			public String url() {
-				// TODO Auto-generated method stub
-				return Api.PRODUCT_VARIANT;
-			}
+            ;
+        }.execute();
+    }
 
-			@Override
-			public String search() {
-				// TODO Auto-generated method stub
-				return Helper.toSearchQuery(Keys.PROD_TYPE, Constants.VARIANT)
-						+ Helper.toSearchQuery(Keys.PROD_ID, bean.getId());
-			}
+    private void addWishlist() {
+        new HTTPTbs(this, true) {
+            @Override
+            public String url() {
+                return Api.ADD_WISHLIST;
+            }
 
-			@Override
-			public void onSuccess(JSONObject j) {
-				// Toast.makeText(getActivity(), j.toString(), Toast.LENGTH_SHORT).show();
-				try {
-					createVariants(Converter.toProductList(j.getString(Keys.RESULTS)));
-				}
-				catch (JSONException e) {
-					e.printStackTrace();
-				}
-			}
-
-			public void onFail(int code, String message) {
-				// Do nothing
-			};
-		}.execute();
-	}
-
-	private void addWishlist() {
-		new HTTPTbs(this, true) {
-
-			@Override
-			public String url() {
-				return Api.ADD_WISHLIST;
-			}
-
-			@Override
-			public void onSuccess(JSONObject j) {
-				btnWishlist.setVisibility(View.GONE);
-				Toast.makeText(getActivity(), getString(R.string.success_wish), Toast.LENGTH_SHORT).show();
-			}
-		}.setPostParams(Keys.WISH_ACC_ID, getProfile().getId()).setPostParams(Keys.WISH_ARTICLE, bean.getVariantId())
-				.execute();
-	}
+            @Override
+            public void onSuccess(JSONObject j) {
+                btnWishlist.setVisibility(View.GONE);
+                Toast.makeText(getActivity(), getString(R.string.success_wish), Toast.LENGTH_SHORT).show();
+            }
+        }.setPostParams(Keys.WISH_ACC_ID, getProfile().getId()).setPostParams(Keys.WISH_ARTICLE, bean.getVariantId())
+         .execute();
+    }
 }

@@ -1,7 +1,9 @@
 package com.iapps.libs.objects;
 
-import java.util.List;
-import java.util.Map;
+import android.util.Log;
+
+import com.iapps.libs.helpers.BaseConstants;
+import com.iapps.libs.helpers.BaseKeys;
 
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
@@ -10,10 +12,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
-import android.util.Log;
-
-import com.iapps.libs.helpers.BaseConstants;
-import com.iapps.libs.helpers.BaseKeys;
+import java.util.List;
+import java.util.Map;
 
 public class Response {
 
@@ -30,7 +30,7 @@ public class Response {
 		try {
 			this.content = new JSONObject(new JSONTokener(content));
 		} catch (JSONException e) {
-
+			Log.e("Response", content);
 			e.printStackTrace();
 
 			try {
@@ -41,7 +41,7 @@ public class Response {
 				this.content = new JSONObject();
 				ex.printStackTrace();
 
-				Log.e("Response", content);
+//				Log.e("Response", content);
 			}
 		}
 	}

@@ -1,12 +1,10 @@
 package com.imb.tbs.fragments;
 
-import android.app.DatePickerDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
-import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.ScrollView;
@@ -31,10 +29,6 @@ import com.imb.tbs.objects.BeanProfile;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Locale;
 
 import roboguice.inject.InjectView;
 

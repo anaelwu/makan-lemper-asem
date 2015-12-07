@@ -22,14 +22,13 @@ public abstract class NotificationGenerator {
         this.intent = intent;
     }
 
-    @SuppressWarnings("deprecation")
     public Notification build() {
         NotificationManager notificationManager = (NotificationManager) ctx
                 .getSystemService(Context.NOTIFICATION_SERVICE);
         int          currentapiVersion = android.os.Build.VERSION.SDK_INT;
         Notification notification      = null;
         PendingIntent contentIntent = PendingIntent.getActivity(ctx, 0,
-                                                                intent, 0);
+                                                                intent, PendingIntent.FLAG_UPDATE_CURRENT);
 
         if (currentapiVersion < android.os.Build.VERSION_CODES.HONEYCOMB) {
             // Not supporting this
@@ -39,6 +38,7 @@ public abstract class NotificationGenerator {
             builder = builder.setContentIntent(contentIntent)
                              .setSmallIcon(icon()).setTicker(title()).setWhen(when())
                              .setAutoCancel(true).setContentTitle(title())
+                             .setPriority(Notification.PRIORITY_HIGH)
                              .setContentText(content());
             if (currentapiVersion >= android.os.Build.VERSION_CODES.LOLLIPOP && color() > 0)
                 builder.setColor(ctx.getResources().getColor(color()));

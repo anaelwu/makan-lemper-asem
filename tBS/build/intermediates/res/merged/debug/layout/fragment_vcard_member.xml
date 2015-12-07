@@ -73,8 +73,8 @@
 
                     <com.iapps.libs.views.ImageViewLoader
                         android:id="@+id/imgQr"
-                        android:layout_width="@dimen/img_qr"
-                        android:layout_height="@dimen/img_qr"
+                        android:layout_width="@dimen/img_qr_vcard"
+                        android:layout_height="@dimen/img_qr_vcard"
                         android:padding="@dimen/margin_med" >
                     </com.iapps.libs.views.ImageViewLoader>
                 </RelativeLayout>

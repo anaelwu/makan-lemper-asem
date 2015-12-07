@@ -5,175 +5,192 @@ import com.imb.tbs.helpers.Api;
 import com.imb.tbs.helpers.Helper;
 
 public class BeanProductDetails
-	extends SimpleBean {
+        extends SimpleBean {
+    String nameIn, variant, variantIn, code, howto, howtoIn, article, articleIn, ingre, ingreIn, weight, img,
+            imgVariant, url, tips, tipsIn;
+    int  variantId;
+    long price;
+    // Debug
+    int  resImg;
 
-	String	nameIn, variant, variantIn, code, howto, howtoIn, article, articleIn, ingre, ingreIn, weight, img,
-			imgVariant, url;
-	int		variantId;
-	long	price;
+    public String getNameIn() {
+        return nameIn;
+    }
 
-	// Debug
-	int		resImg;
+    public BeanProductDetails setNameIn(String nameIn) {
+        this.nameIn = nameIn;
 
-	public String getNameIn() {
-		return nameIn;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setNameIn(String nameIn) {
-		this.nameIn = nameIn;
+    public String getCode() {
+        return code;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setCode(String code) {
+        this.code = code;
 
-	public String getCode() {
-		return code;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setCode(String code) {
-		this.code = code;
+    public String getHowto() {
+        return howto;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setHowto(String howto) {
+        this.howto = howto;
 
-	public String getHowto() {
-		return howto;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setHowto(String howto) {
-		this.howto = howto;
+    public String getHowtoIn() {
+        return howtoIn;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setHowtoIn(String howtoIn) {
+        this.howtoIn = howtoIn;
 
-	public String getHowtoIn() {
-		return howtoIn;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setHowtoIn(String howtoIn) {
-		this.howtoIn = howtoIn;
+    public String getArticle() {
+        return article;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setArticle(String article) {
+        this.article = article;
 
-	public String getArticle() {
-		return article;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setArticle(String article) {
-		this.article = article;
+    public String getArticleIn() {
+        return articleIn;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setArticleIn(String articleIn) {
+        this.articleIn = articleIn;
 
-	public String getArticleIn() {
-		return articleIn;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setArticleIn(String articleIn) {
-		this.articleIn = articleIn;
+    public String getIngre() {
+        return ingre;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setIngre(String ingre) {
+        this.ingre = ingre;
 
-	public String getIngre() {
-		return ingre;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setIngre(String ingre) {
-		this.ingre = ingre;
+    public String getIngreIn() {
+        return ingreIn;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setIngreIn(String ingreIn) {
+        this.ingreIn = ingreIn;
 
-	public String getIngreIn() {
-		return ingreIn;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setIngreIn(String ingreIn) {
-		this.ingreIn = ingreIn;
+    public String getWeight() {
+        return weight;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setWeight(String weight) {
+        this.weight = weight;
 
-	public String getWeight() {
-		return weight;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setWeight(String weight) {
-		this.weight = weight;
+    public long getPrice() {
+        return price;
+    }
 
-		return this;
-	}
+    public BeanProductDetails setPrice(long price) {
+        this.price = price;
 
-	public long getPrice() {
-		return price;
-	}
+        return this;
+    }
 
-	public BeanProductDetails setPrice(long price) {
-		this.price = price;
+    public int getVariantId() {
+        return variantId;
+    }
 
-		return this;
-	}
+    public void setVariantId(int variantId) {
+        this.variantId = variantId;
+    }
 
-	public int getVariantId() {
-		return variantId;
-	}
+    public String getVariant() {
+        return variant;
+    }
 
-	public void setVariantId(int variantId) {
-		this.variantId = variantId;
-	}
+    public String getVariantIn() {
+        return variantIn;
+    }
 
-	public String getVariant() {
-		return variant;
-	}
+    public void setVariant(String variant) {
+        this.variant = variant;
+    }
 
-	public String getVariantIn() {
-		return variantIn;
-	}
+    public void setVariantIn(String variantIn) {
+        this.variantIn = variantIn;
+    }
 
-	public void setVariant(String variant) {
-		this.variant = variant;
-	}
+    public String getImg() {
+        if (Helper.isEmpty(img))
+            return "";
 
-	public void setVariantIn(String variantIn) {
-		this.variantIn = variantIn;
-	}
+        return Api.PRODUCT_IMAGE_BY_NAME + img;
+    }
 
-	public String getImg() {
-		if (Helper.isEmpty(img))
-			return "";
+    public void setImg(String img) {
+        this.img = img;
+    }
 
-		return Api.PRODUCT_IMAGE_BY_NAME + img;
-	}
+    public String getUrl() {
+        return url;
+    }
 
-	public void setImg(String img) {
-		this.img = img;
-	}
+    public void setUrl(String url) {
+        this.url = url;
+    }
 
-	public String getUrl() {
-		return url;
-	}
+    public void setResImg(int resImg) {
+        this.resImg = resImg;
+    }
 
-	public void setUrl(String url) {
-		this.url = url;
-	}
+    public String getImgVariant() {
+        if (Helper.isEmpty(imgVariant))
+            return "";
 
-	public void setResImg(int resImg) {
-		this.resImg = resImg;
-	}
+        return Api.PRODUCT_IMAGE_BY_NAME + imgVariant;
+    }
 
-	public String getImgVariant() {
-		if (Helper.isEmpty(imgVariant))
-			return "";
-		
-		return Api.PRODUCT_IMAGE_BY_NAME + imgVariant;
-	}
+    public void setImgVariant(String imgVariant) {
+        this.imgVariant = imgVariant;
+    }
 
-	public void setImgVariant(String imgVariant) {
-		this.imgVariant = imgVariant;
-	}
+    public int getResImg() {
+        return resImg;
+    }
 
-	public int getResImg() {
-		return resImg;
-	}
+    public String getTipsIn() {
+        return tipsIn;
+    }
+
+    public BeanProductDetails setTipsIn(String tipsIn) {
+        this.tipsIn = tipsIn;
+        return this;
+    }
+
+    public String getTips() {
+
+        return tips;
+    }
+
+    public BeanProductDetails setTips(String tips) {
+        this.tips = tips;
+        return this;
+    }
 }

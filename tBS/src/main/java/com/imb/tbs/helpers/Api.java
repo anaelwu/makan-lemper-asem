@@ -23,20 +23,13 @@ public class Api {
     // public static final String BASE_URL_LOCAL = "http://172.16.121.47:8888/ll/";
     // public static final String BASE_URL = "http://ll.indomegabyte.com/";
     // public static final String BASE_URL = "http://172.16.121.47:8888/ll/";
-    public static final String BASE_URL_LOCAL        = "http://123.231.241.42:7574/";
-    public static final String BASE_URL              = "http://123.231.241.42:7574/";
-    // public static final String PRODUCT_IMAGE_BY_VAR = BASE_URL +
-    // "LLProdImage/getImage?type=1&id=";
+    //    public static final String BASE_URL_LOCAL        = "http://123.231.241.42:7574/";
+    //    public static final String BASE_URL              = "http://123.231.241.42:7574/";
+    public static final String BASE_URL_LOCAL        = "http://43.231.128.129/";
+    public static final String BASE_URL              = "http://43.231.128.129/";
     public static final String PRODUCT_IMAGE_BY_NAME = BASE_URL + "LLProdImage/getImageJPG/";
-    public static final String PRODUCT_IMAGE_BY_ART  = BASE_URL + "LLProdImage/getImageWithBaseArticleID?type=1&id=";
-    public static final String GET_USER_BY_DETAILS   = BASE_URL
-            + "LLAccWeb/LL_Account?cmd=ws&mws=getByPageWhere";
-    public static final String GET_USER_BY_ID        = BASE_URL
-            + "LLAccWeb/LL_Account?cmd=ws&mws=getbyid";
     public static final String SETTINGS              = BASE_URL
             + "SettingWeb/Efiwebsetting?cmd=ws&mws=getall";
-    public static final String SEARCH                = BASE_URL_LOCAL
-            + "LLAccWeb/LL_Account?cmd=ws&mws=getPair";
     public static final String GET_CAROUSEL          =
             BASE_URL
                     + "FeatureWeb/getNews?mode=carousel";
@@ -45,9 +38,6 @@ public class Api {
     public static final String GET_REWARDS           = BASE_URL_LOCAL + "RewardWeb/findMy";
     public static final String GET_PRODUCTS          = BASE_URL + "LLProdWeb/getCategory";
     public static final String GET_PRODUCT_LIST      = BASE_URL + "LLProdWeb/getItemsUsing3rdTag";
-    // new
-    public static final String GET_PRODUCT_BY_ID     = BASE_URL_LOCAL
-            + "LLProdWeb/LL_Article_WImage?cmd=ws&mws=getbyid";
     public static final String REGISTER_USER         = BASE_URL_LOCAL + "LL_AccWeb/signup";
     public static final String LOGIN_WITH_CARD       = BASE_URL_LOCAL + "LL_AccWeb/signInWCardnBday";
     public static final String LOGIN_WITH_FB         = BASE_URL_LOCAL + "LL_AccWeb/getByFB";
@@ -62,9 +52,6 @@ public class Api {
     public static final String SEARCH_WISHLIST       = BASE_URL_LOCAL + "WishlistWeb/get";
     public static final String DELETE_WISHLIST       = BASE_URL_LOCAL + "LL_Web/LL_Wishlist?cmd=ws&mws=dodelete";
     public static final String GET_STORE             = BASE_URL + "StoreCrawlerweb/langsung";
-    public static final String SEARCH_STORE          =
-            BASE_URL
-                    + "StorePortalWeb/StorePortal?cmd=ws&mws=getByPageWhere";
     public static final String SEARCH_SCAN           = BASE_URL + "LLProdScanner/scan";
     public static final String SEARCH_PRODUCT_BY_ID  =
             BASE_URL
@@ -76,4 +63,6 @@ public class Api {
     public static final String LIVECHAT              = BASE_URL + "livechat.html";
     public static final String STC_SETTING           = BASE_URL + "LLSettingWeb/getLLSetting";
     public static final String PUSH_NOTIF            = BASE_URL + "PushNotWeb/save";
+    public static final String UPDATE_CHECK          = BASE_URL + "SettingWeb/appVersion";
+    public static final String OPEN_RATE             = "http://push.indomegabyte.com/PushLoggerWeb/viewed";
 }

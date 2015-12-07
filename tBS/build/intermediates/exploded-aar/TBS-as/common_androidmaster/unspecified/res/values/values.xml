@@ -239,7 +239,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="iapps__minute">Minute</string>
     <string name="iapps__minutes">Minutes</string>
     <string name="iapps__more">More</string>
-    <string name="iapps__network_error">Connection error. Please try again later</string>
+    <string name="iapps__network_error">Connection timeout. Please try again later</string>
     <string name="iapps__no">No</string>
     <string name="iapps__no_internet">No Internet connection</string>
     <string name="iapps__no_more">No More Result</string>

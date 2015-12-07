@@ -27,6 +27,7 @@
     <string name="refresh">Refresh</string>
     <string name="search">Search</string>
     <string name="virtual_card">Virtual Card</string>
+    <string name="inbox">Inbox</string>
 
     <!-- Home -->
     <string name="profile_white">Profile</string>
@@ -36,7 +37,7 @@
     <string name="product">Products</string>
     <string name="location">Location</string>
     <string name="wishlist">Wishlist</string>
-    <string name="rewards">Rewards</string>
+    <string name="rewards">Rewards Info</string>
     <string name="scan_product">Scan Product</string>
     <string name="store_locators">Store Locators</string>
     <string name="news">News</string>
@@ -91,8 +92,8 @@
     <string name="transaction_remarks">*Displays 20 last transactions within 2 years</string>
 
     <!-- Rewards -->
-    <string name="member_upgrade_rewards">Member Upgrade Rewards</string>
-    <string name="welcome_book">Welcome Book</string>
+    <string name="member_upgrade_rewards">Member Upgrade Info</string>
+    <string name="welcome_book">Welcome LYB Club</string>
     <string name="birthday_gift">Birthday Gift</string>
     <string name="redeem_point">Redeem Points</string>
     <string name="view_rewards_catalog">View Rewards Catalog</string>
@@ -135,10 +136,11 @@
     <!-- Product Details -->
     <string name="add_to_wishlist">Add to Wishlist</string>
     <string name="added_to_wishlist">Added to Wishlist</string>
-    <string name="info">Info</string>
+    <string name="info">What\'s Inside?</string>
     <string name="weight">Weight</string>
     <string name="ingredients">Ingredients</string>
     <string name="how_to_use">How To Use</string>
+    <string name="tips">Tips</string>
     <string name="variants">Variants</string>
 
     <!-- Link -->
@@ -165,9 +167,12 @@
     <string name="alert_login_error">The credentials you entered is not valid. Please contact our customer service if you have any difficulties.</string>
     <string name="try_again">Try Again</string>
     <string name="ask_us">Ask Us</string>
+    <string name="no_inbox">No message</string>
+    <string name="update_title">New version is available</string>
+    <string name="update_content">Please update your application</string>
 
     <!-- Rewards Details -->
-    <string name="rewards_details_upgrade_title">Syarat dan Ketentuan Love Your Body&#8482; Fan</string>
+    <string name="rewards_details_upgrade_title">Member Upgrade Info</string>
     <string name="rewards_details_upgrade_desc">- Anda akan mendapatkan keanggotaan Love Your Body&#8482;  Fan jika Anda sudah menjadi anggota Love Your Body&#8482;  Club dan melakukan pembelanjaan minimal Rp 3.000.000 dalam jangka waktu 1 (satu) tahun.\n\n- Keanggotaan Love Your Body&#8482;  Fan  Anda akan mengalami penurunan kembali menjadi Love Your Body&#8482;  Club apabila pembelanjaan Anda dalam 1 (satu) tahun kurang dari Rp 3.000.000.\n\n- Poin akan secara otomatis hangus jika kartu habis masa berlakunya.  Pastikan Anda melakukan transaksi sekurang-kurangnya 1 (satu) kali dalam 1 (satu) tahun.\n\n- Keanggotaan Love Your Body&#8482;  Fan hanya bisa digunakan oleh satu orang yang namanya tercantum di kartu. \n\n- Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Poin berlaku 2 (dua) tahun terhitung sejak poin dikeluarkan. Pastikan Anda melakukan penukaran poin sebelum masa berlaku poin habis.\n\n- Jika kartu hilang, Anda bisa mendapatkan kartu keanggotaan kembali dengan biaya penggantian kartu sebesar Rp 50.000 atau dengan melakukan pembelian minimum Rp 250.000.\n\n- Untuk menikmati keistimewaan Love Your Body&#8482; Fan,  tunjukkan kartu setiap kali Anda melakukan transaksi. \n\n- Program ini berlaku di toko-toko The Body Shop® seluruh Indonesia.\n\n- The Body Shop® Indonesia berhak untuk mengubah syarat dan ketentuan program ini sewaktu-waktu tanpa pemberitahuan sebelumnya.</string>
     <string name="rewards_details_book_title">WELCOME TO LOVE YOUR BODY&#8482; CLUB</string>
     <string name="rewards_details_book_desc">Selamat datang di The Body Shop®. Kami percaya bahwa meluangkan sedikit waktu untuk memanjakan tubuh dan jiwa sangat penting untuk kehidupan Anda. Kami ingin membantu Anda mewujudkan filosofi unik ini melalui program Love Your Body&#8482;.\n\nREAL TREATS, REAL BENEFITS!\n\n- Point rewards untuk ditukarkan dengan produk favorit atau diskon pembayaran. \n* 1 Poin = Rp 25.000 untuk Love Your Body&#8482; Club\n* 1 Poin = Rp 17.000 untuk Love Your Body&#8482; Fan\n- Penawaran eksklusif khusus member sepanjang tahun.\n\n- Informasi terkini mengenai program The Body Shop®.\n\n- Undangan untuk menghadiri berbagai acara eksklusif khusus member.\n\n- Bring Back Our Bottles. Kembalikan kemasan kosong The Body Shop® Anda dan dapatkan bonus 1 poin per 1 kemasan.\n\n- Special Birthday Treat dengan menunjukkan SMS ulang tahun dari kami di bulan ulang tahun Anda, berlaku untuk satu kali penggunaan. \n\n- Beauty Class Program (jadwal dapat dikonfirmasikan ke gerai The Body Shop® terdekat).\n\nSyarat dan Ketentuan Love Your Body&#8482; Club\n\n- Keanggotaan Love Your Body&#8482; hanya bisa digunakan oleh satu orang yang namanya tercantum di kartu sesuai dengan tanda pengenal (KTP/SIM). \n\n- Anda akan mendapatkan 1 (satu) poin setiap melakukan pembelian senilai Rp 25.000 di toko The Body Shop Indonesia. Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Poin akan secara otomatis hangus jika kartu habis masa berlakunya. Pastikan Anda melakukan transaksi sekurang-kurangnya 1 (satu) kali dalam 12 (dua belas) bulan.\n\n- Poin berlaku 2 (dua) tahun terhitung sejak poin dikeluarkan. Pastikan Anda melakukan penukaran poin sebelum masa berlaku habis.\n\n- Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Jika kartu hilang, Anda bisa mendapatkan kartu keanggotaan kembali dengan membayar Rp 50.000 atau dengan melakukan pembelian minimum Rp 250.000.\n\n- Untuk menikmati keistimewaan anggota Love Your Body&#8482;, tunjukkan kartu setiap kali Anda melakukan transaksi.\n\n- Program ini berlaku di toko-toko The Body Shop® yang berada di seluruh Indonesia.\n\n- The Body Shop® Indonesia berhak untuk mengubah syarat dan ketentuan program ini sewaktu-waktu tanpa pemberitahuan</string>

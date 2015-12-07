@@ -1,10 +1,5 @@
 package com.imb.tbs.helpers;
 
-import java.text.DecimalFormat;
-import java.util.Locale;
-
-import org.apache.commons.lang.WordUtils;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -15,6 +10,11 @@ import android.view.Window;
 import com.iapps.libs.helpers.BaseHelper;
 import com.iapps.libs.helpers.BaseUIHelper;
 import com.imb.tbs.R;
+
+import org.apache.commons.lang.WordUtils;
+
+import java.text.DecimalFormat;
+import java.util.Locale;
 
 public class Helper
 	extends BaseHelper {
@@ -84,7 +84,7 @@ public class Helper
 	}
 
 	public static String capitalize(String text) {
-		return WordUtils.capitalize(text).replace("Tbs", "TBS");
+		return WordUtils.capitalize(text.toLowerCase()).replace("Tbs", "TBS");
 	}
 
 	public static String getLanguage() {

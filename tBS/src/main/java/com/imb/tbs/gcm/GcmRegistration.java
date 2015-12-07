@@ -27,6 +27,12 @@ public class GcmRegistration extends IntentService {
     }
 
     @Override
+    public void onDestroy() {
+        super.onDestroy();
+//        this.onHandleIntent(null);
+    }
+
+    @Override
     protected void onHandleIntent(Intent intent) {
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 

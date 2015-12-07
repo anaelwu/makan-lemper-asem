@@ -9,6 +9,7 @@ public class Preference
     private final       String PREF_NAME       = "tbsindonesia";
     public static final String USER_DETAILS    = "userdetails";
     public static final String SETTINGS        = "settings";
+    public static final String DEVICE_TOKEN    = "devicetoken";
     public static final String IS_LOGGED_IN    = "isloggedin";
     public static final String IS_ACCEPT_TNC   = "isaccepttnc";
     public static final String CAROUSEL        = "carousel";
@@ -16,6 +17,7 @@ public class Preference
     public static final String PRODUCT_DETAILS = "productdetails";
     public static final String PRODUCT_ORDER   = "productorder";
     public static final String STC_LIMIT       = "stclimit";
+    public static final String PUSH_NOTIF      = "pushnotif";
     private static Preference pref;
 
     public static Preference getInstance(Context context) {

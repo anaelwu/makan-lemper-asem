@@ -4,18 +4,15 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.GridView;
 
-import com.iapps.libs.helpers.HTTPAsyncTask;
-import com.iapps.libs.objects.Response;
 import com.imb.tbs.R;
-import com.imb.tbs.activities.ActivityHome;
+import com.imb.tbs.activities.ActivityLogin;
+import com.imb.tbs.activities.ActivityPush;
 import com.imb.tbs.adapters.AdapterSplash;
-import com.imb.tbs.gcm.GcmListener;
 import com.imb.tbs.helpers.Api;
 import com.imb.tbs.helpers.BaseFragmentTbs;
 import com.imb.tbs.helpers.Constants;
@@ -39,21 +36,24 @@ public class FragmentSplash
     private AdapterSplash adapter;
     private             ArrayList<BeanSplash> alSplash  = new ArrayList<BeanSplash>();
     public static final int                   TAG_LOGIN = 1, TAG_TNC = 2, TAG_CHANGE_ACTIVITY = 3;
+    private boolean doPush;
+
+    public FragmentSplash(boolean doPush) {
+        this.doPush = doPush;
+    }
 
     @Override
     public int setLayout() {
-        // TODO Auto-generated method stub
         return R.layout.fragment_splash;
     }
 
     @Override
     public void setView(View view, Bundle savedInstanceState) {
+        title = "Splash Screen";
         initSplash();
-        animate();
 
         if (getPref().getBoolean(Preference.IS_LOGGED_IN)) {
-            // startTimer(TAG_CHANGE_ACTIVITY);
-            loadHome();
+            startTimer(TAG_CHANGE_ACTIVITY);
         } else {
             if (Helper.isEmpty(getPref().getString(Preference.SETTINGS))) {
                 loadSettings();
@@ -76,50 +76,30 @@ public class FragmentSplash
                 switch (tag) {
                     case TAG_LOGIN:
                         clearFragment();
-//                        if (shouldOpenIntent())
-//                            openIntent();
-//                        else
-                            setFragment(new FragmentPrelogin());
+                        setFragment(new FragmentPrelogin());
                         break;
 
                     case TAG_TNC:
                         clearFragment();
-//                        if (shouldOpenIntent())
-//                            openIntent();
-//                        else
-                            setFragment(new FragmentTnc());
+                        setFragment(new FragmentTnc());
                         break;
 
                     case TAG_CHANGE_ACTIVITY:
-                        //                        getLoginActivity().changeActivity(true);
-                        changeActivity(true);
+                        getLoginActivity().changeActivity(true);
                         break;
+                }
+
+                if (doPush) {
+                    openPushNotif();
                 }
             }
         }.start();
     }
 
-    private void changeActivity(boolean saveLogin) {
-        if (saveLogin)
-            Preference.getInstance(getActivity()).setBoolean(Preference.IS_LOGGED_IN, true);
-
-        Intent intent = new Intent(getActivity(), ActivityHome.class);
-//        if (shouldOpenIntent()) {
-//            Log.d("HAHAHAH", "HAHAHA");
-//            intent.putExtras(getActivity().getIntent().getExtras());
-//        }
-        this.startActivity(intent);
-        getActivity().finish();
-    }
-
-    private boolean shouldOpenIntent() {
-        return getActivity().getIntent().getExtras() != null;
-    }
-
-    private void openIntent() {
-        Bundle bundle = getActivity().getIntent().getExtras().getBundle(GcmListener.INTENT_DATA);
-        setFragment(
-                new FragmentWebview(bundle.getString(Keys.PUSH_TITLE), bundle.getString(Keys.PUSH_CONTENT)));
+    public void openPushNotif(){
+        Intent pushIntent = new Intent(getActivity(), ActivityPush.class);
+        pushIntent.putExtras(getActivity().getIntent().getBundleExtra(ActivityLogin.PUSH_NOTIF));
+        startActivity(pushIntent);
     }
 
     @Override
@@ -177,91 +157,32 @@ public class FragmentSplash
         });
     }
 
-    public void animate() {
-        final Handler handler = new Handler();
-        handler.postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                // Animation animation = AnimationUtils.loadAnimation(getActivity(),
-                // R.animator.layout_random_fade);
-
-                // AnimationSet set = new AnimationSet(true);
-                // Animation animation = AnimationUtils.loadAnimation(getActivity(),
-                // R.anim.fadein);
-                // // animation.setDuration(50);
-                // set.addAnimation(animation);
-                // animation.setRepeatCount(-1);
-                // animation.setRepeatMode(-2);
-                // animation = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
-                // Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, -1.0f,
-                // Animation.RELATIVE_TO_SELF, 0.0f);
-                // // animation.setDuration(100);
-                // // set.addAnimation(animation);
-                // LayoutAnimationController controller = new LayoutAnimationController(set);
-                //
-                // gv.setLayoutAnimation(controller);
-                // while (true) {
-                // int index = new Random().nextInt((alSplash.size() - 1));
-                // if (index != curAnimIndex) {
-                // Animation anim = new AlphaAnimation(0.0f, 1.0f);
-                // anim.setDuration(50); // You can manage the time
-                // anim.setStartOffset(20);
-                // anim.setRepeatMode(Animation.REVERSE);
-                // // anim.setRepeatCount(Animation.INFINITE);
-                // gv.getChildAt(index).startAnimation(anim);
-                //
-                // curAnimIndex = index;
-                // }
-                // }
-            }
-        }, 500);
-    }
-
     // ================================================================================
     // Webservice
     // ================================================================================
     public void loadSettings() {
-        GetAsync get = new GetAsync();
-        get.setUrl(Api.SETTINGS);
-        get.execute();
-    }
-
-    public class GetAsync
-            extends HTTPAsyncTask {
-        @Override
-        protected void onPreExecute() {
-
-        }
-
-        @Override
-        protected void onPostExecute(Response response) {
-            if (!Helper.isValidResponse(response, FragmentSplash.this))
-                return;
-
-            JSONObject json = Helper.handleResponse(response, true, getActivity());
-            if (json != null) {
+        new HTTPTbs(this, false) {
+            @Override
+            public void onSuccess(JSONObject j) {
                 try {
-                    if (json.getInt(Keys.STATUS_CODE) == 1) {
-                        getPref().setString(Preference.SETTINGS, json.getString(Keys.RESULTS));
-                        setFragment(new FragmentTnc());
-                    } else
-                        Helper.showAlert(getActivity(), json.getString(Keys.STATUS_MESSAGE));
+                    getPref().setString(Preference.SETTINGS, j.getString(Keys.RESULTS));
+                    setFragment(new FragmentTnc());
                 } catch (JSONException e) {
-                    Helper.showAlert(getActivity(), e.getMessage());
                     e.printStackTrace();
                 }
-            } else {
-                // Failed to parse JSON
-                Helper.showUnknownResponseError(getActivity());
             }
-        }
+
+            @Override
+            public String url() {
+                return Api.SETTINGS;
+            }
+        }.execute();
     }
 
     public void loadHome() {
         new HTTPTbs(this, false) {
             @Override
             public String url() {
-                // TODO Auto-generated method stub
                 return Api.GET_CAROUSEL;
             }
 
@@ -270,18 +191,14 @@ public class FragmentSplash
                 try {
                     getPref().setString(Preference.CAROUSEL, j.getString(Keys.RESULTS));
                     getLoginActivity().changeActivity(true);
+
+                    if (doPush) {
+                        openPushNotif();
+                    }
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
             }
-
-            public String search() {
-                return Helper.toSearchQuery("carousel_active", 1);
-                //				return "carousel_active=1";
-                //				return "";
-            }
-
-            ;
         }.execute();
     }
 

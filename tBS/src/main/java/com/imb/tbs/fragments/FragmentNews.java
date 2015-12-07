@@ -102,11 +102,11 @@ public class FragmentNews
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         BeanCampaign bean = alCampaign.get(position);
-        if (Helper.isEmpty(bean.getUrl())) {
-            setFragment(new FragmentCampaignDetails(bean));
-        } else {
+//        if (Helper.isEmpty(bean.getUrl())) {
+//            setFragment(new FragmentCampaignDetails(bean));
+//        } else {
             setFragment(new FragmentWebview(bean.getName(), bean.getUrl()));
-        }
+//        }
     }
 
     // ================================================================================

@@ -5,7 +5,7 @@ import java.net.HttpURLConnection;
 public class BaseConstants {
 	public static final String	GET						= "get";
 	public static final String	POST					= "post";
-	public static final int		TIMEOUT					= 15000;
+	public static final int		TIMEOUT					= 5000;
 
 	public static final int		STATUS_SUCCESS			= 200;
 	public static final int		STATUS_BAD_REQUEST		= 400;

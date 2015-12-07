@@ -3,103 +3,134 @@ package com.imb.tbs.objects;
 import com.iapps.libs.objects.SimpleBean;
 
 public class BeanSetting
-	extends SimpleBean {
-	private String	address, email, facebook, twitter, youtube, pinterest, instagram, tnc, twitterId, phone1, phone2,
-					openingHour;
+        extends SimpleBean {
+    private String address;
+    private String email;
+    private String facebook;
+    private String twitter;
+    private String youtube;
+    private String pinterest;
+    private String instagram;
+    private String tnc;
+    private String twitterId;
+    private String phone1;
+    private String phone2;
+    private String openingHour;
+    private String barcode;
 
-	public String getAddress() {
-		return address;
-	}
+    public String getQrcode() {
+        return qrcode;
+    }
 
-	public String getEmail() {
-		return email;
-	}
+    public BeanSetting setQrcode(String qrcode) {
+        this.qrcode = qrcode;
+        return this;
+    }
 
-	public String getFacebook() {
-		return facebook;
-	}
+    public String getBarcode() {
+        return barcode;
+    }
 
-	public String getTwitter() {
-		return twitter;
-	}
+    public BeanSetting setBarcode(String barcode) {
+        this.barcode = barcode;
+        return this;
+    }
 
-	public String getYoutube() {
-		return youtube;
-	}
+    private String qrcode;
 
-	public String getPinterest() {
-		return pinterest;
-	}
+    public String getAddress() {
+        return address;
+    }
 
-	public String getInstagram() {
-		return instagram;
-	}
+    public String getEmail() {
+        return email;
+    }
 
-	public void setAddress(String address) {
-		this.address = address;
-	}
+    public String getFacebook() {
+        return facebook;
+    }
 
-	public void setEmail(String email) {
-		this.email = email;
-	}
+    public String getTwitter() {
+        return twitter;
+    }
 
-	public void setFacebook(String facebook) {
-		this.facebook = facebook;
-	}
+    public String getYoutube() {
+        return youtube;
+    }
 
-	public void setTwitter(String twitter) {
-		this.twitter = twitter;
-	}
+    public String getPinterest() {
+        return pinterest;
+    }
 
-	public void setYoutube(String youtube) {
-		this.youtube = youtube;
-	}
+    public String getInstagram() {
+        return instagram;
+    }
 
-	public void setPinterest(String pinterest) {
-		this.pinterest = pinterest;
-	}
+    public void setAddress(String address) {
+        this.address = address;
+    }
 
-	public void setInstagram(String instagram) {
-		this.instagram = instagram;
-	}
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
-	public String getTnc() {
-		return tnc;
-	}
+    public void setFacebook(String facebook) {
+        this.facebook = facebook;
+    }
 
-	public void setTnc(String tnc) {
-		this.tnc = tnc;
-	}
+    public void setTwitter(String twitter) {
+        this.twitter = twitter;
+    }
 
-	public String getTwitterId() {
-		return twitterId;
-	}
+    public void setYoutube(String youtube) {
+        this.youtube = youtube;
+    }
 
-	public void setTwitterId(String twitterId) {
-		this.twitterId = twitterId;
-	}
+    public void setPinterest(String pinterest) {
+        this.pinterest = pinterest;
+    }
 
-	public String getPhone1() {
-		return phone1;
-	}
+    public void setInstagram(String instagram) {
+        this.instagram = instagram;
+    }
 
-	public void setPhone1(String phone1) {
-		this.phone1 = phone1;
-	}
+    public String getTnc() {
+        return tnc;
+    }
 
-	public String getPhone2() {
-		return phone2;
-	}
+    public void setTnc(String tnc) {
+        this.tnc = tnc;
+    }
 
-	public void setPhone2(String phone2) {
-		this.phone2 = phone2;
-	}
+    public String getTwitterId() {
+        return twitterId;
+    }
 
-	public String getOpeningHour() {
-		return openingHour;
-	}
+    public void setTwitterId(String twitterId) {
+        this.twitterId = twitterId;
+    }
 
-	public void setOpeningHour(String openingHour) {
-		this.openingHour = openingHour;
-	}
+    public String getPhone1() {
+        return phone1;
+    }
+
+    public void setPhone1(String phone1) {
+        this.phone1 = phone1;
+    }
+
+    public String getPhone2() {
+        return phone2;
+    }
+
+    public void setPhone2(String phone2) {
+        this.phone2 = phone2;
+    }
+
+    public String getOpeningHour() {
+        return openingHour;
+    }
+
+    public void setOpeningHour(String openingHour) {
+        this.openingHour = openingHour;
+    }
 }

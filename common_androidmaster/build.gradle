@@ -29,7 +29,7 @@ dependencies {
     compile project(':materialWidget')
     compile project(':materialDesign')
 //    compile 'com.google.android.gms:play-services:+'
-    compile 'com.google.android.gms:play-services-maps:7.8.0'
+    compile 'com.google.android.gms:play-services-maps:8.3.0'
     compile 'joda-time:joda-time:2.2'
     compile 'com.android.support:appcompat-v7:23.0.0'
     compile files('libs/commons-io-2.4.jar')

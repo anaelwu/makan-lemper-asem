@@ -3,59 +3,76 @@ package com.imb.tbs.objects;
 import com.iapps.libs.objects.SimpleBean;
 
 public class BeanStore
-	extends SimpleBean {
+        extends SimpleBean {
+    public String getOpeningEng() {
+        return openingEng;
+    }
 
-	private double	latitude, longitude;
-	private String	address, phone, email;
+    public BeanStore setOpeningEng(String openingEng) {
+        this.openingEng = openingEng;
+        return this;
+    }
 
-	public BeanStore(int id, String name) {
-		super(id, name);
-	}
+    public String getOpeningIn() {
+        return openingIn;
+    }
 
-	public double getLatitude() {
-		return latitude;
-	}
+    public BeanStore setOpeningIn(String openingIn) {
+        this.openingIn = openingIn;
+        return this;
+    }
 
-	public double getLongitude() {
-		return longitude;
-	}
+    private double latitude, longitude;
+    private String address, phone, email, openingEng, openingIn;
 
-	public String getAddress() {
-		return address;
-	}
+    public BeanStore(int id, String name) {
+        super(id, name);
+    }
 
-	public BeanStore setLatitude(double latitude) {
-		this.latitude = latitude;
+    public double getLatitude() {
+        return latitude;
+    }
 
-		return this;
-	}
+    public double getLongitude() {
+        return longitude;
+    }
 
-	public BeanStore setLongitude(double longitude) {
-		this.longitude = longitude;
+    public String getAddress() {
+        return address;
+    }
 
-		return this;
-	}
+    public BeanStore setLatitude(double latitude) {
+        this.latitude = latitude;
 
-	public BeanStore setAddress(String address) {
-		this.address = address;
+        return this;
+    }
 
-		return this;
-	}
+    public BeanStore setLongitude(double longitude) {
+        this.longitude = longitude;
 
-	public String getPhone() {
-		return phone;
-	}
+        return this;
+    }
 
-	public void setPhone(String phone) {
-		this.phone = phone;
-	}
+    public BeanStore setAddress(String address) {
+        this.address = address;
 
-	public String getEmail() {
-		return email;
-	}
+        return this;
+    }
 
-	public void setEmail(String email) {
-		this.email = email;
-	}
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
 }

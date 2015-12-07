@@ -50,6 +50,8 @@ public class Keys
     public static final String STC_TEXT             = "STC_LIMIT_TEXT";
     public static final String STC_LIMIT            = "STC_LIMIT";
     public static final String SET_TNC              = "tnc";
+    public static final String SET_BARCODE          = "Url_Bar_Code";
+    public static final String SET_QRCODE           = "Url_Qr_Code";
     public static final String SET_PHONE_1          = "PhoneNumber1";
     public static final String SET_PHONE_2          = "PhoneNumber2";
     public static final String SET_OPENING_HOUR     = "OpeningHour";
@@ -99,6 +101,8 @@ public class Keys
     public static final String PROD_VARIANT_IMG     = "VariantImageFile";
     public static final String PROD_TYPE            = "ArticleType";
     public static final String PROD_GET_VARIANT     = "getvar";
+    public static final String PROD_TIPS            = "ProductTipsENG";
+    public static final String PROD_TIPS_IN         = "ProductTipsINA";
     public static final String TESTI_ID             = "testi_id";
     public static final String TESTI_TEXT           = "testi_text";
     public static final String TESTI_DATE           = "testi_date";
@@ -116,6 +120,8 @@ public class Keys
     public static final String STORE_ADDRESS        = "Address";
     public static final String STORE_EMAIL          = "Email";
     public static final String STORE_PHONE          = "PHONE";
+    public static final String STORE_OPENING_ENG    = "opening_hour_eng";
+    public static final String STORE_OPENING_IN     = "opening_hour_id";
     public static final String TNC_TITLE            = "tnc_title";
     public static final String TNC_ID               = "tnc_id";
     public static final String TNC_CONTENT          = "tnc_text";
@@ -124,5 +130,7 @@ public class Keys
     public static final String PUSH_TYPE            = "type";
     public static final String PUSH_ACC             = "acc_id";
     public static final String PUSH_TITLE           = "message";
-    public static final String PUSH_CONTENT         = "subtitle";
+    public static final String PUSH_URL             = "url";
+    public static final String PUSH_ID              = "camp_id";
+    public static final String PUSH_TIME            = "pushtime";
 }

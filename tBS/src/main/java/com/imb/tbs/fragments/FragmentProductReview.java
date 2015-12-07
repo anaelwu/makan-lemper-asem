@@ -1,11 +1,5 @@
 package com.imb.tbs.fragments;
 
-import java.util.ArrayList;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import roboguice.inject.InjectView;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -22,6 +16,13 @@ import com.imb.tbs.helpers.HTTPTbs;
 import com.imb.tbs.helpers.Keys;
 import com.imb.tbs.objects.BeanProductDetails;
 import com.imb.tbs.objects.BeanReview;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+
+import roboguice.inject.InjectView;
 
 public class FragmentProductReview
 	extends BaseFragmentTbs {
@@ -68,7 +69,7 @@ public class FragmentProductReview
 	@Override
 	public void onClick(View v) {
 		super.onClick(v);
-		getHomeActivity().addFragmentWithAnim(new FragmentReviewType(bean.getId()), R.anim.abc_slide_in_bottom,
+		getHomeActivity().addFragmentWithAnim(new FragmentReviewType(bean.getVariantId()), R.anim.abc_slide_in_bottom,
 				R.anim.abc_slide_out_bottom);
 	}
 
@@ -101,7 +102,7 @@ public class FragmentProductReview
 					ld.showError("", getString(R.string.no_reviews));
 				}
 			};
-		}.setGetParams("prod_id", bean.getId()).execute();
+		}.setGetParams("prod_id", bean.getVariantId()).execute();
 	}
 
 	@Override

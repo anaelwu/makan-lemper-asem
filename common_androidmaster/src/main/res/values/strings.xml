@@ -31,7 +31,7 @@
     <string name="alert_no_phone">No phone number detected</string>
     <string name="invalid_credentials">Invalid Credentials</string>
     <string name="iapps__retry">Retry</string>
-    <string name="iapps__network_error">Connection error. Please try again later</string>
+    <string name="iapps__network_error">Connection timeout. Please try again later</string>
     <string name="iapps__no_internet">No Internet connection</string>
     <string name="iapps__unknown_response">Unknown response from server. Please try again later</string>
     <string name="iapps__conn_timeout">We are experiencing high traffic. Sorry for the inconvenience, we should be back in few minutes</string>

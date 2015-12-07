@@ -26,6 +26,20 @@ public class ActivityLogin
     private Toolbar         toolbar;
     @InjectView(R.id.toolbarBg)
     public  View            toolbarBg;
+    public static String  PUSH_NOTIF = "pushNotif";
+    public static boolean isActive   = false;
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        isActive = true;
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        isActive = false;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,17 +55,23 @@ public class ActivityLogin
         imgBg.loadImage(R.drawable.background);
 
         setContainerId(R.id.fl);
-        if (getIntent().getExtras() != null && getIntent().getExtras().getBoolean(Preference.IS_LOGGED_IN)){
-                setFragment(new FragmentPrelogin());
-        } else
-            setFragment(new FragmentSplash());
+        if (getIntent().getExtras() != null && getIntent().getExtras().getBoolean(Preference.IS_LOGGED_IN)) {
+            setFragment(new FragmentPrelogin());
+        } else {
+            if (getIntent().getBundleExtra(PUSH_NOTIF) != null) {
+                if (ActivityLogin.isActive || ActivityHome.isActive) {
+                    Intent pushIntent = new Intent(this, ActivityPush.class);
+                    pushIntent.putExtras(this.getIntent().getBundleExtra(ActivityLogin.PUSH_NOTIF));
+                    startActivity(pushIntent);
+                    this.finish();
+                    return;
+                }
+            }
+
+            setFragment(new FragmentSplash(getIntent().getBundleExtra(PUSH_NOTIF) != null));
+        }
 
         Log.d(Constants.LOG, Helper.getHashKey(this));
-    }
-
-
-    public boolean isLoggedIn() {
-        return !Preference.getInstance(this).getBoolean(Preference.IS_LOGGED_IN);
     }
 
     public void changeActivity(boolean saveLogin) {
@@ -80,5 +100,4 @@ public class ActivityLogin
     // protected void attachBaseContext(Context newBase) {
     // super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
     // }
-
 }

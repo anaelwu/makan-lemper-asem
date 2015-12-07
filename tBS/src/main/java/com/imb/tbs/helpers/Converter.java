@@ -73,7 +73,7 @@ public class Converter {
                 JSONArray jArr = j.getJSONObject(Keys.USER_STATEMENT).getJSONArray(Keys.USER_TRANSACTIONS);
                 DateTime dtCheck = DateTime.now();
                 //				Collections.reverse(jArr);
-                for (int i = jArr.length()-1; i >= 0; i--) {
+                for (int i = jArr.length() - 1; i >= 0; i--) {
                     JSONObject jObj = jArr.getJSONObject(i);
                     if (jObj.getString(Keys.USER_TRANS_DESC).equalsIgnoreCase("Purchase")
                             && jObj.getString(Keys.USER_TRANS_CURRENCY).equalsIgnoreCase("IDR")
@@ -145,6 +145,8 @@ public class Converter {
             bean.setPhone1(j.getString(Keys.SET_PHONE_1));
             bean.setPhone2(j.getString(Keys.SET_PHONE_2));
             bean.setOpeningHour(j.getString(Keys.SET_OPENING_HOUR));
+            bean.setBarcode(j.getString(Keys.SET_BARCODE));
+            bean.setQrcode(j.getString(Keys.SET_QRCODE));
 
             return bean;
         } catch (JSONException e) {
@@ -345,6 +347,8 @@ public class Converter {
                 bean.setImgVariant(j.getString(Keys.PROD_VARIANT_IMG));
                 bean.setWeight(j.getString(Keys.PROD_WEIGHT) + " " + j.getString(Keys.PROD_WEIGHT_UNIT));
                 bean.setUrl(Api.ECOMM_DETAILS + Integer.toString(bean.getId()));
+                bean.setTips(j.getString(Keys.PROD_TIPS));
+                bean.setTipsIn(j.getString(Keys.PROD_TIPS_IN));
 
                 al.add(bean);
             }
@@ -392,6 +396,8 @@ public class Converter {
                 bean.setAddress(j.getString(Keys.STORE_ADDRESS));
                 bean.setEmail(j.getString(Keys.STORE_EMAIL));
                 bean.setPhone(j.getString(Keys.STORE_PHONE));
+                bean.setOpeningEng(j.getString(Keys.STORE_OPENING_ENG));
+                bean.setOpeningIn(j.getString(Keys.STORE_OPENING_IN));
 
                 al.add(bean);
             }

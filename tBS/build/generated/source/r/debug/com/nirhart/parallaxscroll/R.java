@@ -8,26 +8,26 @@ package com.nirhart.parallaxscroll;
 
 public final class R {
 	public static final class attr {
-		public static final int alpha_factor = 0x7f01009d;
-		public static final int circular_parallax = 0x7f0100a0;
-		public static final int inner_parallax_factor = 0x7f01009e;
-		public static final int parallax_factor = 0x7f01009c;
-		public static final int parallax_views_num = 0x7f01009f;
+		public static final int alpha_factor = 0x7f0100a1;
+		public static final int circular_parallax = 0x7f0100a4;
+		public static final int inner_parallax_factor = 0x7f0100a2;
+		public static final int parallax_factor = 0x7f0100a0;
+		public static final int parallax_views_num = 0x7f0100a3;
 	}
 	public static final class string {
-		public static final int define_parallaxscroll = 0x7f08009f;
-		public static final int library_parallaxscroll_author = 0x7f0800dc;
-		public static final int library_parallaxscroll_authorWebsite = 0x7f0800dd;
-		public static final int library_parallaxscroll_isOpenSource = 0x7f0800de;
-		public static final int library_parallaxscroll_libraryDescription = 0x7f0800df;
-		public static final int library_parallaxscroll_libraryName = 0x7f0800e0;
-		public static final int library_parallaxscroll_libraryVersion = 0x7f0800e1;
-		public static final int library_parallaxscroll_libraryWebsite = 0x7f0800e2;
-		public static final int library_parallaxscroll_licenseId = 0x7f0800e3;
-		public static final int library_parallaxscroll_repositoryLink = 0x7f0800e4;
+		public static final int define_parallaxscroll = 0x7f0800a3;
+		public static final int library_parallaxscroll_author = 0x7f0800e2;
+		public static final int library_parallaxscroll_authorWebsite = 0x7f0800e3;
+		public static final int library_parallaxscroll_isOpenSource = 0x7f0800e4;
+		public static final int library_parallaxscroll_libraryDescription = 0x7f0800e5;
+		public static final int library_parallaxscroll_libraryName = 0x7f0800e6;
+		public static final int library_parallaxscroll_libraryVersion = 0x7f0800e7;
+		public static final int library_parallaxscroll_libraryWebsite = 0x7f0800e8;
+		public static final int library_parallaxscroll_licenseId = 0x7f0800e9;
+		public static final int library_parallaxscroll_repositoryLink = 0x7f0800ea;
 	}
 	public static final class styleable {
-		public static final int[] ParallaxScroll = { 0x7f01009c, 0x7f01009d, 0x7f01009e, 0x7f01009f, 0x7f0100a0 };
+		public static final int[] ParallaxScroll = { 0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3, 0x7f0100a4 };
 		public static final int ParallaxScroll_alpha_factor = 1;
 		public static final int ParallaxScroll_circular_parallax = 4;
 		public static final int ParallaxScroll_inner_parallax_factor = 2;

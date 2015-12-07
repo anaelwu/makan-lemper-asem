@@ -3,13 +3,14 @@ package com.imb.tbs.fragments;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
-import com.iapps.libs.helpers.HTTPAsyncImb;
+import com.iapps.libs.helpers.BaseHelper;
 import com.iapps.libs.views.ImageViewLoader;
 import com.imb.tbs.R;
 import com.imb.tbs.activities.ActivityHome;
@@ -34,10 +35,12 @@ import java.util.ArrayList;
 import roboguice.inject.InjectView;
 
 public class FragmentHome
-        extends BaseFragmentTbs implements OnItemClickListener {
+        extends BaseFragmentTbs implements OnItemClickListener, SwipeRefreshLayout.OnRefreshListener {
     @InjectView(R.id.lv)
-    private ListView        lv;
-    private ImageViewLoader imgHeader;
+    private ListView           lv;
+    @InjectView(R.id.sr)
+    private SwipeRefreshLayout sr;
+    private ImageViewLoader    imgHeader;
     private ArrayList<BeanHome> alHome = new ArrayList<BeanHome>();
     private AdapterHome  adapter;
     private boolean      loadProfile;
@@ -58,9 +61,13 @@ public class FragmentHome
 
     @Override
     public void setView(View view, Bundle savedInstanceState) {
+        title = "Home";
         getHomeActivity().resetIndex();
         setTitle(R.string.app_name);
         setToolbarColor(R.drawable.tab_unselected_actionbar_bg);
+
+        Helper.setRefreshColor(sr);
+        sr.setOnRefreshListener(this);
 
         initList();
         initView();
@@ -69,6 +76,7 @@ public class FragmentHome
             loadProfile();
 
         loadSettings();
+        checkUpdate();
     }
 
     @Override
@@ -112,6 +120,8 @@ public class FragmentHome
                 R.drawable.home_8_xml).setImg(R.drawable.ic_home_connect));
         alHome.add(new BeanHome(ActivityHome.TAG_CONTACT, getString(R.string.contact_us)).setColor(
                 R.drawable.home_9_xml).setImg(R.drawable.ic_home_contact));
+        alHome.add(new BeanHome(ActivityHome.TAG_INBOX, getString(R.string.inbox)).setImg(R.drawable.ic_inbox)
+                                                                                  .setColor(R.drawable.home_10_xml));
     }
 
     private void initView() {
@@ -128,6 +138,7 @@ public class FragmentHome
         imgHeader.setBackgroundColor(Color.WHITE);
 
         getCarousel();
+        loadCarousel();
 
         return header;
     }
@@ -136,8 +147,6 @@ public class FragmentHome
         if (!Helper.isEmpty(getPref().getString(Preference.CAROUSEL))) {
             bean = Converter.toCarousel(getPref().getString(Preference.CAROUSEL));
             showCarousel();
-        } else {
-            loadCarousel();
         }
     }
 
@@ -175,9 +184,16 @@ public class FragmentHome
                 try {
                     getPref().setString(Preference.USER_DETAILS, j.getString(Keys.RESULTS));
                     getHomeActivity().updateUser();
+                    sr.setRefreshing(false);
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
+            }
+
+            @Override
+            public void onFail(int code, JSONObject j) {
+                super.onFail(code, j);
+                sr.setRefreshing(false);
             }
 
             @Override
@@ -222,13 +238,11 @@ public class FragmentHome
             public String search() {
                 return Helper.toSearchQuery("carousel_active", 1);
             }
-
-            ;
         }.execute();
     }
 
     public void loadSettings() {
-        new HTTPAsyncImb(this, false) {
+        new HTTPTbs(this, false) {
             @Override
             public String url() {
                 // TODO Auto-generated method stub
@@ -244,5 +258,49 @@ public class FragmentHome
                 }
             }
         }.execute();
+    }
+
+    public void checkUpdate() {
+        new HTTPTbs(this, false) {
+            @Override
+            public void onSuccess(final JSONObject j) {
+                try {
+                    if (j.getJSONObject(Keys.RESULTS).getInt("ada_update") == 1) {
+                        Helper.confirm(getActivity(), R.string.update_title, R.string.update_content,
+                                       new BaseHelper.ConfirmListener() {
+                                           @Override
+                                           public void onYes() {
+                                               try {
+                                                   Helper.intentPlaystore(getActivity(),
+                                                                          j.getJSONObject(Keys.RESULTS).getString(
+                                                                                  "url"));
+                                               } catch (JSONException e) {
+                                                   e.printStackTrace();
+                                               }
+                                           }
+                                       });
+                    }
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
+
+            @Override
+            public String url() {
+                return Api.UPDATE_CHECK;
+            }
+        }.setGetParams("version", Constants.VERSION_INT).setGetParams("os", "android").execute();
+    }
+
+    @Override
+    public void onRefresh() {
+        if (getProfile() != null)
+            loadProfile();
+        else
+            sr.setRefreshing(false);
+
+        loadSettings();
+        loadCarousel();
+        checkUpdate();
     }
 }

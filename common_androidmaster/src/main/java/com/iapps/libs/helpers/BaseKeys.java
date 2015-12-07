@@ -26,8 +26,8 @@ public class BaseKeys {
 	public static final String	DEVICE_TYPE				= "device_type";
 	public static final String	DEVICE_TOKEN			= "device_token";
 	public static final String	LOCATION_NAME			= "location_name";
-	public static final String	LATITUDE				= "latitude";
-	public static final String	LONGITUDE				= "longitude";
+	public static final String	LATITUDE				= "lat";
+	public static final String	LONGITUDE				= "long";
 	public static final String	PAGE					= "page";
 	public static final String	LIMIT					= "limit";
 	public static final String	STARTED_AT				= "started_at";

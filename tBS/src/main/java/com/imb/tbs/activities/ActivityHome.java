@@ -24,20 +24,18 @@ import com.imb.tbs.fragments.FragmentCampaign;
 import com.imb.tbs.fragments.FragmentConnect;
 import com.imb.tbs.fragments.FragmentContact;
 import com.imb.tbs.fragments.FragmentHome;
+import com.imb.tbs.fragments.FragmentInbox;
 import com.imb.tbs.fragments.FragmentNews;
 import com.imb.tbs.fragments.FragmentProductCategory;
 import com.imb.tbs.fragments.FragmentProductScan;
 import com.imb.tbs.fragments.FragmentProfile;
 import com.imb.tbs.fragments.FragmentRewards;
 import com.imb.tbs.fragments.FragmentStore;
-import com.imb.tbs.fragments.FragmentWebview;
 import com.imb.tbs.fragments.FragmentWishlist;
-import com.imb.tbs.gcm.GcmListener;
 import com.imb.tbs.helpers.BaseActivityTbs;
 import com.imb.tbs.helpers.Constants;
 import com.imb.tbs.helpers.Converter;
 import com.imb.tbs.helpers.Helper;
-import com.imb.tbs.helpers.Keys;
 import com.imb.tbs.helpers.Preference;
 import com.imb.tbs.objects.BeanDrawer;
 import com.imb.tbs.objects.BeanProfile;
@@ -67,18 +65,32 @@ public class ActivityHome
     private ArrayList<BeanDrawer> alDrawer = new ArrayList<BeanDrawer>();
     private BeanProfile     profile;
     private ImageViewLoader img;
-    public static final int TAG_CAMPAIGN = 1;
-    public static final int TAG_REWARDS  = 2;
-    public static final int TAG_PRODUCT  = 3;
-    public static final int TAG_WISHLIST = 4;
-    public static final int TAG_STORE    = 5;
-    public static final int TAG_SCAN     = 6;
-    public static final int TAG_CONTACT  = 7;
-    public static final int TAG_PROFILE  = 8;
-    public static final int TAG_CONNECT  = 9;
-    public static final int TAG_NEWS     = 10;
-    public static final int TAG_LOGOUT   = 99;
-    public static final int TAG_HOME     = 100;
+    public static final int     TAG_CAMPAIGN = 1;
+    public static final int     TAG_REWARDS  = 2;
+    public static final int     TAG_PRODUCT  = 3;
+    public static final int     TAG_WISHLIST = 4;
+    public static final int     TAG_STORE    = 5;
+    public static final int     TAG_SCAN     = 6;
+    public static final int     TAG_CONTACT  = 7;
+    public static final int     TAG_PROFILE  = 8;
+    public static final int     TAG_CONNECT  = 9;
+    public static final int     TAG_NEWS     = 10;
+    public static final int     TAG_INBOX    = 11;
+    public static final int     TAG_LOGOUT   = 99;
+    public static final int     TAG_HOME     = 100;
+    public static       boolean isActive     = false;
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        isActive = true;
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        isActive = false;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -94,19 +106,9 @@ public class ActivityHome
         initDrawer();
 
         setContainerId(R.id.flFragment);
-        if (getIntent().getExtras() != null) {
-            Bundle bundle = getIntent().getExtras();
-            if (bundle.getInt(GcmListener.INTENT_KEY) == GcmListener.INTENT_WEB) {
-                Bundle details = bundle.getBundle(GcmListener.INTENT_DATA);
-                setFragment(
-                        new FragmentWebview(details.getString(Keys.PUSH_TITLE), details.getString(Keys.PUSH_CONTENT)));
-            }
-        } else
-            setFragment(new FragmentHome(Preference.getInstance(this).getBoolean(Preference.IS_LOGGED_IN)));
+        setFragment(new FragmentHome(Preference.getInstance(this).getBoolean(Preference.IS_LOGGED_IN)));
 
         imgBg.loadImage(R.drawable.background);
-
-        Log.d(Constants.LOG, Helper.getHashKey(this));
     }
 
     // @Override
@@ -173,6 +175,7 @@ public class ActivityHome
                              .setFragment(new FragmentConnect()));
         alDrawer.add(new BeanDrawer(TAG_CONTACT, getString(R.string.contact_us))
                              .setFragment(new FragmentContact()));
+        alDrawer.add(new BeanDrawer(TAG_INBOX, getString(R.string.inbox)).setFragment(new FragmentInbox()));
         // alDrawer.add(new BeanDrawer(TAG_LOGOUT, getString(R.string.logout)).setFragment(null));
 
         adapter = new AdapterDrawer(this, alDrawer);

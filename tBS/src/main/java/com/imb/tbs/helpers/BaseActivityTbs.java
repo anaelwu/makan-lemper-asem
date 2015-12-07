@@ -5,17 +5,19 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
+import android.location.Location;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
+import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.gcm.GoogleCloudMessaging;
 import com.google.android.gms.iid.InstanceID;
+import com.google.android.gms.location.LocationServices;
 import com.iapps.libs.generics.GenericActivity;
 import com.iapps.libs.helpers.HTTPAsyncTask;
 import com.iapps.libs.objects.Response;
@@ -26,15 +28,21 @@ import com.imb.tbs.objects.BeanProfile;
 import java.io.IOException;
 
 public class BaseActivityTbs
-        extends GenericActivity {
+        extends GenericActivity implements
+                                GoogleApiClient.ConnectionCallbacks,
+                                GoogleApiClient.OnConnectionFailedListener {
     private BroadcastReceiver mRegistrationBroadcastReceiver;
     private static final int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
+    // Location
+    GoogleApiClient mGoogleApiClient;
+    Location        mLastLocation;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         registerGcm();
         getToken();
+        buildGoogleApiClient();
     }
 
     @Override
@@ -60,9 +68,9 @@ public class BaseActivityTbs
                 boolean sentToken = sharedPreferences
                         .getBoolean(GcmRegistration.SENT_TOKEN_TO_SERVER, false);
                 if (sentToken) {
-                    Toast.makeText(BaseActivityTbs.this, "sent", Toast.LENGTH_SHORT).show();
+                    Log.d("GCM Token : ", "Sent");
                 } else {
-                    Toast.makeText(BaseActivityTbs.this, "error", Toast.LENGTH_SHORT).show();
+                    Log.d("GCM Token : ", "Error");
                 }
             }
         };
@@ -96,6 +104,8 @@ public class BaseActivityTbs
                     InstanceID instanceID = InstanceID.getInstance(BaseActivityTbs.this);
                     String token = instanceID.getToken(getString(R.string.gcm_defaultSenderId),
                                                        GoogleCloudMessaging.INSTANCE_ID_SCOPE, null);
+                    Preference.getInstance(BaseActivityTbs.this).setString(Preference.DEVICE_TOKEN, token);
+
                     return token;
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -125,7 +135,8 @@ public class BaseActivityTbs
 
             @Override
             protected void onPostExecute(Response response) {
-                Log.d("Register Device id", response.toString());
+                if (response != null)
+                    Log.d("Register Device id", response.getContent().toString());
             }
         };
         register.setUrl(Api.PUSH_NOTIF);
@@ -135,5 +146,33 @@ public class BaseActivityTbs
         register.setPostParams(Keys.PUSH_TYPE, "android");
         register.setPostParams(Keys.PUSH_DEVICE, token);
         register.execute();
+    }
+
+    // ================================================================================
+    // Location
+    // ================================================================================
+    protected synchronized void buildGoogleApiClient() {
+        mGoogleApiClient = new GoogleApiClient.Builder(this)
+                .addConnectionCallbacks(this)
+                .addOnConnectionFailedListener(this)
+                .addApi(LocationServices.API)
+                .build();
+        mGoogleApiClient.connect();
+    }
+
+    @Override
+    public void onConnected(Bundle bundle) {
+        mLastLocation = LocationServices.FusedLocationApi.getLastLocation(
+                mGoogleApiClient);
+    }
+
+    @Override
+    public void onConnectionSuspended(int i) {
+
+    }
+
+    @Override
+    public void onConnectionFailed(ConnectionResult connectionResult) {
+
     }
 }
