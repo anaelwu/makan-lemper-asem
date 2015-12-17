@@ -6,12 +6,47 @@ import com.imb.tbs.helpers.Helper;
 
 public class BeanProductDetails
         extends SimpleBean {
-    String nameIn, variant, variantIn, code, howto, howtoIn, article, articleIn, ingre, ingreIn, weight, img,
-            imgVariant, url, tips, tipsIn;
-    int  variantId;
-    long price;
+    String nameIn;
+    String variant;
+    String variantIn;
+    String code;
+    String howto;
+    String howtoIn;
+    String article;
+    String articleIn;
+    String ingre;
+    String ingreIn;
+    String weight;
+    String img;
+    String imgVariant;
+    String url;
+    String tips;
+    String tipsIn;
+    String whatsInside;
+
+    public String getWhatsInsideIn() {
+        return whatsInsideIn;
+    }
+
+    public BeanProductDetails setWhatsInsideIn(String whatsInsideIn) {
+        this.whatsInsideIn = whatsInsideIn;
+        return this;
+    }
+
+    public String getWhatsInside() {
+        return whatsInside;
+    }
+
+    public BeanProductDetails setWhatsInside(String whatsInside) {
+        this.whatsInside = whatsInside;
+        return this;
+    }
+
+    String whatsInsideIn;
+    int    variantId;
+    long   price;
     // Debug
-    int  resImg;
+    int    resImg;
 
     public String getNameIn() {
         return nameIn;

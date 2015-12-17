@@ -80,15 +80,20 @@ public class FragmentProductItem
     public void initList() {
         alDetails.clear();
 
+        if (!Helper.isEmpty(bean.getArticle()) && !Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticle()));
+        else if (!Helper.isEmpty(bean.getArticleIn()) && Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticleIn()));
+
         if (!Helper.isEmpty(bean.getHowto()) && !Helper.isLangIndo())
             alDetails.add(new BeanDetails(getString(R.string.how_to_use), bean.getHowto()));
         else if (!Helper.isEmpty(bean.getHowtoIn()) && Helper.isLangIndo())
             alDetails.add(new BeanDetails(getString(R.string.how_to_use), bean.getHowtoIn()));
 
-        if (!Helper.isEmpty(bean.getArticle()) && !Helper.isLangIndo())
-            alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticle()));
-        else if (!Helper.isEmpty(bean.getArticleIn()) && Helper.isLangIndo())
-            alDetails.add(new BeanDetails(getString(R.string.info), bean.getArticleIn()));
+        if (!Helper.isEmpty(bean.getWhatsInside()) && !Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.whatsinside), bean.getWhatsInside()));
+        else if (!Helper.isEmpty(bean.getWhatsInsideIn()) && Helper.isLangIndo())
+            alDetails.add(new BeanDetails(getString(R.string.whatsinside), bean.getWhatsInsideIn()));
 
         if (!Helper.isEmpty(bean.getIngre()) && !Helper.isLangIndo())
             alDetails.add(new BeanDetails(getString(R.string.ingredients), bean.getIngre()));

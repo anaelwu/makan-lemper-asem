@@ -167,6 +167,8 @@ public class Converter {
                 bean.setImg(j.getString(Keys.CAR_IMAGE));
                 bean.setName(j.getString(Keys.CAR_TITLE));
                 bean.setUrl(j.getString(Keys.CAR_URL));
+
+                break;
             }
 
             return bean;
@@ -349,6 +351,8 @@ public class Converter {
                 bean.setUrl(Api.ECOMM_DETAILS + Integer.toString(bean.getId()));
                 bean.setTips(j.getString(Keys.PROD_TIPS));
                 bean.setTipsIn(j.getString(Keys.PROD_TIPS_IN));
+                bean.setWhatsInside(j.getString(Keys.PROD_WHATS_INSIDE));
+                bean.setWhatsInsideIn(j.getString(Keys.PROD_WHATS_INSIDE_IN));
 
                 al.add(bean);
             }

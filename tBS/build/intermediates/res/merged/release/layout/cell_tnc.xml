@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/holder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_med"
+    android:paddingLeft="@dimen/margin_med"
+    android:paddingRight="@dimen/margin_med"
+    android:paddingTop="@dimen/margin_med" >
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/textBoldLight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvContent"
+        style="@style/textSmallLight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_tnc.xml -->

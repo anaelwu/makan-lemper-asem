@@ -59,7 +59,7 @@ public class Api {
     public static final String PRODUCT_VARIANT       = BASE_URL + "LLProdWeb/LL_Article_WImage?cmd=ws&mws=getPair";
     public static final String TNC                   =
             BASE_URL
-                    + "LL_Web/LL_Tnc?cmd=ws&mws=getPair&page=1&limit=20&orderby=tnc_rank&search=tnc_aktif,1,exact";
+                    + "LL_Web/LL_Tnc?cmd=ws&mws=getPair&page=1&limit=20&orderby=tnc_rank%20desc&search=tnc_aktif,1,exact";
     public static final String LIVECHAT              = BASE_URL + "livechat.html";
     public static final String STC_SETTING           = BASE_URL + "LLSettingWeb/getLLSetting";
     public static final String PUSH_NOTIF            = BASE_URL + "PushNotWeb/save";

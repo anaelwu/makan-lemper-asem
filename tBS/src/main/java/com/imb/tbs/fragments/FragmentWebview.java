@@ -86,6 +86,12 @@ public class FragmentWebview
     }
 
     @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        wv.loadUrl("about:blank");
+    }
+
+    @Override
     public int setMenuLayout() {
         return R.menu.web;
     }

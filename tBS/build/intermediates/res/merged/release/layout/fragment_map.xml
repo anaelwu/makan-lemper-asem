@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.google.android.gms.maps.MapView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="?android:attr/actionBarSize" />
+
+    <ImageView
+        android:id="@+id/imgCurrentLocation"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_above="@+id/rlHolder"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:clickable="true"
+        android:src="@drawable/ic_current_location_xml" />
+
+    <RelativeLayout
+        android:id="@+id/rlHolder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/rlDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:background="@color/White"
+            android:paddingBottom="@dimen/margin_med"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/margin_med"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/tvName"
+                style="@style/textLargeGreen"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_toLeftOf="@+id/btnDetails"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/tvAddress"
+                style="@style/text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/tvName"
+                android:layout_alignRight="@+id/tvName"
+                android:layout_below="@+id/tvName"
+                android:lines="2" />
+
+            <Button
+                android:id="@+id/btnDetails"
+                style="@style/btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/bg_selectable"
+                android:text="@string/details"
+                android:textColor="@color/Blue" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <com.iapps.libs.views.LoadingCompound
+        android:id="@+id/ld"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?android:attr/actionBarSize"
+        android:background="@color/White"
+        android:visibility="visible" />
+
+</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/fragment_map.xml -->

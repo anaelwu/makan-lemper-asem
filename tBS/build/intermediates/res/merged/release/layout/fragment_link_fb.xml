@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="@dimen/margin_big"
+        android:layout_marginTop="@dimen/margin_big"
+        android:src="@drawable/ic_tbs_text" />
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/textLargeLightBold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_med"
+        android:text="@string/link_fb" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/textLight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_med"
+        android:background="@drawable/bg_overlay_rounded"
+        android:padding="@dimen/margin_med"
+        android:text="@string/link_fb_desc" />
+
+    <Button
+        android:id="@+id/btnLink"
+        style="@style/btn_blue_fb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_med"
+        android:text="@string/link_fb" />
+
+    <Button
+        android:id="@+id/btnSkip"
+        style="@style/btn_white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/maybe_next_time" />
+
+</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/fragment_link_fb.xml -->

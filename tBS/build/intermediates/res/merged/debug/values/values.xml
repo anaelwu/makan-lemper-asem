@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string-array name="backup_country_codes" translatable="false">
@@ -1520,7 +1520,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="inbox">Inbox</string>
-    <string name="info">What\'s Inside?</string>
+    <string name="info">Description</string>
     <string name="ingredients">Ingredients</string>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/values/values.xml -->
     <eat-comment/>
@@ -1681,7 +1681,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="review_submit">Thank you for sharing your experience! Your review will appear shortly after we do some approvals.</string>
     <string name="rewards">Rewards Info</string>
     <string name="rewards_catalog">Rewards Catalog</string>
-    <string name="rewards_details_bday_desc">Syarat dan Ketentuan:\n\n1.	Birthday discount untuk Love Your Body™ Club dan Love Your Body™ Fan hanya bisa digunakan 1X (satu kali) di bulan ulang tahun.\n\n2.	Bithday gift hanya diberikan kepada member Love Your Body™ Fan dan hanya bisa diberikan 1X (satu kali) di bulan ulang tahun.\n\n3.	Pengambilan birthday gift (khusus Love Your Body™ Fan) dan penggunaan birthday discount harus selalu menunjukkan tanda pengenal dan kartu member.\n\n4.	Syarat dan ketentuan dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu.</string>
+    <string name="rewards_details_bday_desc">Syarat dan Ketentuan:\n\n1.	Birthday discount untuk Love Your Body™ Club dan Love Your Body™ Fan hanya bisa digunakan 1X (satu kali) di bulan ulang tahun.\n\n2.	Birthday gift hanya diberikan kepada member Love Your Body™ Fan dan hanya bisa diberikan 1X (satu kali) di bulan ulang tahun.\n\n3.	Pengambilan birthday gift (khusus Love Your Body™ Fan) dan penggunaan birthday discount harus selalu menunjukkan tanda pengenal dan kartu member.\n\n4.	Syarat dan ketentuan dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu.</string>
     <string name="rewards_details_bday_title">Birthday Treat</string>
     <string name="rewards_details_book_desc">Selamat datang di The Body Shop®. Kami percaya bahwa meluangkan sedikit waktu untuk memanjakan tubuh dan jiwa sangat penting untuk kehidupan Anda. Kami ingin membantu Anda mewujudkan filosofi unik ini melalui program Love Your Body™.\n\nREAL TREATS, REAL BENEFITS!\n\n- Point rewards untuk ditukarkan dengan produk favorit atau diskon pembayaran. \n* 1 Poin = Rp 25.000 untuk Love Your Body™ Club\n* 1 Poin = Rp 17.000 untuk Love Your Body™ Fan\n- Penawaran eksklusif khusus member sepanjang tahun.\n\n- Informasi terkini mengenai program The Body Shop®.\n\n- Undangan untuk menghadiri berbagai acara eksklusif khusus member.\n\n- Bring Back Our Bottles. Kembalikan kemasan kosong The Body Shop® Anda dan dapatkan bonus 1 poin per 1 kemasan.\n\n- Special Birthday Treat dengan menunjukkan SMS ulang tahun dari kami di bulan ulang tahun Anda, berlaku untuk satu kali penggunaan. \n\n- Beauty Class Program (jadwal dapat dikonfirmasikan ke gerai The Body Shop® terdekat).\n\nSyarat dan Ketentuan Love Your Body™ Club\n\n- Keanggotaan Love Your Body™ hanya bisa digunakan oleh satu orang yang namanya tercantum di kartu sesuai dengan tanda pengenal (KTP/SIM). \n\n- Anda akan mendapatkan 1 (satu) poin setiap melakukan pembelian senilai Rp 25.000 di toko The Body Shop Indonesia. Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Poin akan secara otomatis hangus jika kartu habis masa berlakunya. Pastikan Anda melakukan transaksi sekurang-kurangnya 1 (satu) kali dalam 12 (dua belas) bulan.\n\n- Poin berlaku 2 (dua) tahun terhitung sejak poin dikeluarkan. Pastikan Anda melakukan penukaran poin sebelum masa berlaku habis.\n\n- Poin tidak dapat dibeli atau ditukarkan dengan uang.\n\n- Jika kartu hilang, Anda bisa mendapatkan kartu keanggotaan kembali dengan membayar Rp 50.000 atau dengan melakukan pembelian minimum Rp 250.000.\n\n- Untuk menikmati keistimewaan anggota Love Your Body™, tunjukkan kartu setiap kali Anda melakukan transaksi.\n\n- Program ini berlaku di toko-toko The Body Shop® yang berada di seluruh Indonesia.\n\n- The Body Shop® Indonesia berhak untuk mengubah syarat dan ketentuan program ini sewaktu-waktu tanpa pemberitahuan</string>
     <string name="rewards_details_book_title">WELCOME TO LOVE YOUR BODY™ CLUB</string>
@@ -1784,6 +1784,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="weight">Weight</string>
     <string name="welcome_book">Welcome LYB Club</string>
     <string name="were_on">We\'re on ..</string>
+    <string name="whatsinside">What\'s Inside?</string>
     <string name="wishlist">Wishlist</string>
     <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>

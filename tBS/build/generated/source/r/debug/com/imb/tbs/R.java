@@ -5129,11 +5129,12 @@ containing a value of this type.
         public static final int weight=0x7f080064;
         public static final int welcome_book=0x7f080173;
         public static final int were_on=0x7f080174;
-        public static final int wishlist=0x7f080175;
+        public static final int whatsinside=0x7f080175;
+        public static final int wishlist=0x7f080176;
         public static final int year_c=0x7f08007a;
         public static final int year_picker_description=0x7f08007b;
-        public static final int yearly_plain=0x7f080176;
-        public static final int your_card_number=0x7f080177;
+        public static final int yearly_plain=0x7f080177;
+        public static final int your_card_number=0x7f080178;
     }
     public static final class style {
         public static final int ActionBarStyle_Transparent=0x7f0a007b;

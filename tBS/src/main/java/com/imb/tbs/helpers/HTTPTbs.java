@@ -2,6 +2,7 @@ package com.imb.tbs.helpers;
 
 import android.location.Location;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 
 import com.iapps.libs.helpers.HTTPAsyncImb;
 import com.iapps.libs.helpers.HTTPAsyncTask;
@@ -33,7 +34,7 @@ public abstract class HTTPTbs
                 setGetParams(Keys.LONGITUDE, Double.toString(location.getLongitude()));
             }
         }
-
+        Log.d("tes", this.getUrl().toString());
         return super.execute();
     }
 

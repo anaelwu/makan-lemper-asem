@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_selectable"
+    android:padding="@dimen/margin_med" >
+
+    <TextView
+        android:id="@+id/tvDrawer"
+        style="@style/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:textColor="@color/White" />
+
+</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_drawer.xml -->

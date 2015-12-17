@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_selectable"
+    android:padding="@dimen/margin_med" >
+
+    <com.iapps.libs.views.ImageViewLoader
+        android:id="@+id/imgProfile"
+        android:layout_width="@dimen/img_profile"
+        android:layout_height="@dimen/img_profile"
+        android:clickable="false"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/margin_med"
+        android:layout_toRightOf="@+id/imgProfile"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvName"
+            style="@style/textLight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/tvStatus"
+            style="@style/textLight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btnView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/White"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_drawer_header.xml -->

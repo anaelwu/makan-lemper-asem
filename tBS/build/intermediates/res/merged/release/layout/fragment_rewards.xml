@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="?android:attr/actionBarSize"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/llBook"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/home_5_xml"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/margin_med"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/margin_med">
+
+            <ImageView
+                android:id="@+id/ImageView02"
+                android:layout_width="@dimen/img_rewards_list"
+                android:layout_height="@dimen/img_rewards_list"
+                android:src="@drawable/ic_rewards_book"/>
+
+            <TextView
+                android:id="@+id/TextView02"
+                style="@style/textLight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_med"
+                android:text="@string/welcome_book"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llRedeem"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/home_6_xml"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/margin_med"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/margin_med">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="@dimen/img_rewards_list"
+                android:layout_height="@dimen/img_rewards_list"
+                android:src="@drawable/ic_rewards_redeem"/>
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/textLight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_med"
+                android:text="@string/redeem_point"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llBday"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/home_7_xml"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/margin_med"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/margin_med">
+
+            <ImageView
+                android:id="@+id/ImageView01"
+                style="@style/textLight"
+                android:layout_width="@dimen/img_rewards_list"
+                android:layout_height="@dimen/img_rewards_list"
+                android:src="@drawable/ic_rewards_bday"/>
+
+            <TextView
+                android:id="@+id/TextView01"
+                style="@style/textLight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_med"
+                android:text="@string/birthday_gift"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llMember"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/home_8_xml"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/margin_med"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/margin_med">
+
+            <ImageView
+                android:id="@+id/ImageView03"
+                android:layout_width="@dimen/img_rewards_list"
+                android:layout_height="@dimen/img_rewards_list"
+                android:src="@drawable/ic_rewards_member"/>
+
+            <TextView
+                android:id="@+id/TextView03"
+                style="@style/textLight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_med"
+                android:text="@string/member_upgrade_rewards"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/fragment_rewards.xml -->

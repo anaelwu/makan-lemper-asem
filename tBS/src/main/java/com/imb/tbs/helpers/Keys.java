@@ -103,6 +103,8 @@ public class Keys
     public static final String PROD_GET_VARIANT     = "getvar";
     public static final String PROD_TIPS            = "ProductTipsENG";
     public static final String PROD_TIPS_IN         = "ProductTipsINA";
+    public static final String PROD_WHATS_INSIDE    = "WhatInsideENG";
+    public static final String PROD_WHATS_INSIDE_IN = "WhatInsideINA";
     public static final String TESTI_ID             = "testi_id";
     public static final String TESTI_TEXT           = "testi_text";
     public static final String TESTI_DATE           = "testi_date";
