@@ -8,4 +8,4 @@
     android:repeatCount="infinite"
     android:toDegrees="360" >
 
-</rotate><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/anim/rotate.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/rotate.xml -->
+</rotate><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/anim/rotate.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/rotate.xml -->

@@ -30,4 +30,4 @@
         android:textIsSelectable="false"
         android:visibility="gone" />
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/cell_single.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/layout/cell_single.xml -->
+</LinearLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/cell_single.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/layout/cell_single.xml -->

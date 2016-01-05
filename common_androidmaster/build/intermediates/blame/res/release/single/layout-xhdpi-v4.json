@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/layout-xhdpi-v4/activity_main_para.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/layout-xhdpi-v4/activity_main_para.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/layout-xhdpi-v4/view_kenburns.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/layout-xhdpi-v4/view_kenburns.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/layout-xhdpi-v4/fragment_list.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/layout-xhdpi-v4/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/layout-xhdpi-v4/view_header_placeholder.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/layout-xhdpi-v4/view_header_placeholder.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/layout-xhdpi-v4/list_item.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/layout-xhdpi-v4/list_item.xml"
+    }
+]

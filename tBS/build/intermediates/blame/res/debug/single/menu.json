@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/web.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/web.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/done_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/menu/done_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/profile_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/profile_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/edit.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/edit.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/refresh_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/menu/refresh_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/done.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/done.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/buy.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/buy.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/search.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/remove.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/remove.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/qr.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/qr.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/refresh_black.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/menu/refresh_black.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/menu/save.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/menu/save.xml"
+    }
+]

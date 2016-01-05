@@ -107,6 +107,7 @@ public class FragmentProductDetails
         }
 
         imgHeader.getImage().setScaleType(ScaleType.FIT_CENTER);
+        imgHeader.setImgFail(R.drawable.ic_prod_fail);
         imgHeader.loadImage(bean.getImg());
     }
 

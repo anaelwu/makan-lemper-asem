@@ -24,4 +24,4 @@
         android:layout_toRightOf="@+id/img"
         android:textColor="@color/tbs_gray" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_product_review_left.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/cell_product_review_left.xml -->

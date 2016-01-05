@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_grey_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_grey_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/pic0.jpg",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/pic0.jpg"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_button.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_button.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/key_background_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/key_background_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_logo.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/ic_check_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_check_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_checkbox_check.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_checkbox_check.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_list_selector_background_transition.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/ic_backspace_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_backspace_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_tab.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/ic_cross_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/ic_cross_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/ic_cross_dark.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/ic_cross_dark.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/key_background_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/key_background_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_blue_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_list_section_header_background.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/btn_white_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/btn_white_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/radio_black.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/radio_black.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_loginbutton_silver.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/btn_blue_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/btn_blue_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like_background.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_checkbox_uncheck.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/bg_overlay_rounded.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/bg_overlay_rounded.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_check.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_check.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_checkbox.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_checkbox.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_inverse_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/spinner_background_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/button_background_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/button_background_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_top_button.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_grey_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/button_background_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/button_background_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_list_divider.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like_background_selected.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_profile_default_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_switch_ball_uncheck.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_close.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/edit_text_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_place_default_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/ic_check_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_check_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_check_off.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_progress.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_progress.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/press_bg.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/press_bg.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_list_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_item_background.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_list_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_button_float.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_button_float.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_blue.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_list_selector.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/switch_thumb.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_list_longpressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_top_background.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_top_background.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_blue_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_check_on.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_top_button.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_top_button.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_button_rectangle.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_button_rectangle.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/item_background_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/bg_selectable.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/bg_selectable.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_button_like_selected.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_selected.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/background_transparent.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_transparent.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/shadow_down.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/shadow_down.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/ic_backspace_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_backspace_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/pic1.jpg",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/pic1.jpg"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/radio_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/radio_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/com_facebook_picker_list_selector_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/switch_track_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/switch_track_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/shadow_right.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/shadow_right.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/overlay_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/overlay_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_ratingbar_full_material.xml"
+    }
+]

@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/home_5_pressed" android:state_pressed="true"></item>
     <item android:drawable="@drawable/home_5"></item>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/home_5_xml.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_5_xml.xml -->

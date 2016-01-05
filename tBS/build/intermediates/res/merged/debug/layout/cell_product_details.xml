@@ -21,4 +21,4 @@
         android:layout_below="@+id/tvTitle"
         android:textColor="@color/tbs_gray" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_product_details.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/cell_product_details.xml -->

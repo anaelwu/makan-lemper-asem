@@ -29,4 +29,4 @@
         android:textSize="@dimen/done_label_size"
         android:textColor="@color/done_text_color" />
 </LinearLayout>
-<!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/calendar_date_picker_done_button.xml -->
+<!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/layout/calendar_date_picker_done_button.xml -->

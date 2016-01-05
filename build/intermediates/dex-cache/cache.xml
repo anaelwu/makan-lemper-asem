@@ -2,284 +2,284 @@
 <items version="2" >
 
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/roboguice-3.0-alpha-1.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="a91d09ee005c8673538be9c1be3ee0418869cd5e">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-871ad7e8a87fde9bf8f0d4d217d9294606afa141.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/universal-image-loader-1.9.4-with-sources.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-with-sources-389859b423916d3c07c12af6ce94120c6b2ac478.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/picasso-2.5.2.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/picasso-2.5.2-cffc87a647423e58b17b981bdf63f8aff6350a68.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="71eda10e33212e44245524b5087366ff8d805825">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-d424321ea4629a478d3f812d98bb0ddbb8725f2d.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-6c451f75a6294866a8250c145a1a070595da00f2.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="3d93a19ad5b18f6d79787b780a32a1c6a4e9068f">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-4b978357771bbb230fe89bf2538d21bbc39bc183.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-d0c6afa963bb05f641554805f21bbaa0c9ac4995.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxScroll/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="544c070d47fa7c0d2b796d725da9f031638e633b">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-52292db7d7e385a1c51a4ba43e1020406a8cacf9.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/bolts/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="81624014014eac3150552eca784fdc02c004fad9">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-f5719f16b015ad55fd3ccf656572b5178d5e43f0.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="87ff08ad47f3e519720999401970be4d23370bd7">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-956ac1a3c75a68d98318ed4b8246f214973e9da9.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/java-json.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/java-json-b13b872cf7706fb38a98345479395ed993864571.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="2767493f7f291828bd7d5450dc528074bdcd5e9b">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-716886c69778a559b38931359aab3677fe2e9112.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/zxing_scanner.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="5732911a5b9950d7d30002f4a082fd32ae0e93aa">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/zxing_scanner-78986e04c6973cd07054e778f09d439320870aef.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/roboguice-3.0-alpha-1.jar"
-        jumboMode="false"
-        revision="23.0.0"
+        revision="23.0.2"
         sha1="5492382342ab834b906679a2cf854984adf48d6c">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/roboguice-3.0-alpha-1-9022cb2bccec543d77dff69f81534a27e5eed25a.jar" />
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/roboguice-3.0-alpha-1-92a9301dff5f191b38dc4cf95a6bbd0755a9d427.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/org-apache-commons-lang.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/disklrucache-2.0.2.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="d128049072a01fa99f7ea3b826d14cf42a7e3245">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/org-apache-commons-lang-ae424af412378fbd4e3c571b6e1170329c20a6ba.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/zxing/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="39dec4cfea4a6e2f70c0298814a24cec192e7d05">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-619d91c094cd72aeffb8bd110cd9edd207e53c8c.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-9cfe8d5161d0c951cccc1589baf9df83ed499c2f.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-a832428ef3be048d67fe991f51ca4c92b94c9c7b.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/commons-io-2.4.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/commons-io-2.4-11670096e9ed7edf15ac70024f5addae29fd294e.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="875099482ec6b85c1530c7119f0c5751c2fa287d">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-d84d46e50ca80ae801f0d8215ee8db806c1e59e7.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8b74b0912947f079fa485fcd31cf2b1c69442ab7">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-21bf654b3cfaa77d9f5e73c5ebf2bef740622791.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-07a80f44c0e9b46d2da844861fd9277b4138dd04.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/roboguice-sherlock-1.4.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="04254a65664ba4472afcde863ecb2147f9752fcb">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/roboguice-sherlock-1.4-e74fa5e94558c3b7c7070db959da74e3a30a8795.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/jsr305-1.3.9.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/jsr305-1.3.9-546421baad4ed2439651c714aee39c31b82a2f72.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/kenburnsview-1.0.6.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6-ecb1382cfe3976faf1c36c8f312dc10b8931ee53.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/zxing/unspecified/jars/libs/zxing-core-2.3.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="0d5b5e268f032d2fa79036e9f4f8e42d9270ac42">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/zxing-core-2.3-c21f76070cb5dfbac39cbe4fc40079cc9cae6440.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-b4edcc23023dcea4628797778f63e8f6d0e11f9c.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/javax.inject-1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/javax.inject-1-dc92fe0018d278f7ac5de6d4af73dc77448dc0ef.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-1769750635ad00139fc0e82c65fe0e77bd3399cc.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/disklrucache-2.0.2.jar"
-        jumboMode="false"
-        revision="23.0.0"
+        revision="23.0.2"
         sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/disklrucache-2.0.2-58d2ac1a696d4ffbb86823d2965ac210c83fa817.jar" />
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/disklrucache-2.0.2-bea8c164162ec12e5f9b42a828b9aa79b245d0e3.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/kenburnsview-1.0.6.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="27775d59b16610ac76f1b83693fedd9520396332">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-c2a670e94afa755360d45217b5115461f23ccdee.jar" />
+        revision="23.0.2"
+        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6-fa6e3a37cea80eebb8745faa8d8a9f2bf9264970.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.0"
+        revision="23.0.2"
         sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-60c2dff22efd950c1cbe34999fb855a9bfb81f1f.jar" />
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-3b10800d12ab97fe51d020c75a3edf01c334d807.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxScroll/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="943f9c6f7dd9c3d495f321d8928d0f9248995769">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-0a323a9ec0ec34078a343f23bc14c30e9efce958.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01523322570bc6c723ecef0bfd98181c92c320c2">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-f9f27111ebecea2c637f237ac82206f927f3de76.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/org-apache-commons-lang.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d128049072a01fa99f7ea3b826d14cf42a7e3245">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/org-apache-commons-lang-59bf15880c3a161c68cc493afd310512c4e48223.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-707ff1f3a32921fc98bb80dc498041e976bb7cff.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-9a29a585622920a98bccd4d602d27abcd3507b10.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-845f8a66518323e2e574876742f4e9885dbc3f4a.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/java-json.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/java-json-dc19e0872d167e84459c141f1cdf122c5f999f21.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/zxing_scanner.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5732911a5b9950d7d30002f4a082fd32ae0e93aa">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/zxing_scanner-c2d1790e28626c84e09ee65c5fbb630e3e1c2825.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-624e841464d88e22a8274585e3c05be3e3a0d417.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/jsr305-1.3.9-e2e90d3401cdaaf825cb6a222f18c3fd28f8c716.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f29c8a2eb49c3fd1059b2a618fa9873045b89953">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-bb599401395f25e46b8df3ce9aefa848342e9abc.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd17734527a3b91d5f323fcabb5d89b20ad3d49a">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-843cd1433b4d58882e48f2055d7f057c41adb006.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-492992c4162ba099e0a6636c4e64914e913b642d.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/picasso-2.5.2-b150deda68ec9047fe75fe01f552d0cb54547503.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-ce5604e26c8c8eff7b45fb0ccba371710f4828b5.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-9782b8e045ae5c7dc3653398b42e5e62ceb5da06.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3dd692615632b6ba1224a32fc1eff5e6915e17a9">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-98703ad64b7a613bc87d2250d5c3104bb16111b9.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/commons-io-2.4-efff05d855915032d11549c999a81a6f91e7c76b.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/libs/universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-with-sources-0c30e4ad4c1628484cd3a55a5f031ecdeb4b70ef.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ca63a9d352ced8843c5c607ea3d381f6bec2619">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-127464edb090089ec8465bb5ec2a9e7afb32e41d.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c3b24ec73f749e507fec675b6fa0489198eb1fe1">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-2170927f872a14001eb812d6aa9456c39c398ea1.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/zxing/unspecified/jars/libs/zxing-core-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0d5b5e268f032d2fa79036e9f4f8e42d9270ac42">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/zxing-core-2.3-26dc6d93ae9e74fdaad2d5502ace4b0ffedcf1cd.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-fed9d5a9242f22c8d9e6be202980244a2668b308.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-13c81b401991c66eca78d9c9e52f81b448797c8a.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/roboguice-sherlock-1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04254a65664ba4472afcde863ecb2147f9752fcb">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/roboguice-sherlock-1.4-944db19756b47a7b7d9a57740c545dd9dcabe32b.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc50b27696555a85909d444799505bb0a6b632c0">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-ea62600ff30e13d8998660cfa98142eea8e197c1.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-8934eb4e4d314b4766a45e22bc6b3c85aa0ac941.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/bolts/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b97c7278ab5ef7468da7e030227c30084a8fd1a3">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-76a1c998973496aec50a1c45020704607ee56274.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f70fe43b7074b3855a00ac992351d3712aabcbd2">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-85044011576d969c588b99625218e2972404bd73.jar" />
+    </item>
+    <item
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-e1e706ab24798e788354c6e45933fea240d5387b.jar" />
     </item>
     <item
         jar="/Users/marcelsantoso/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.2/a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d/joda-time-2.2.jar"
         jumboMode="false"
-        revision="23.0.0"
+        revision="23.0.2"
         sha1="a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/joda-time-2.2-5b8506b610f33b3547cecc25e49eae537ae7cbf3.jar" />
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/joda-time-2.2-5b8506b610f33b3547cecc25e49eae537ae7cbf3.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jar="/Users/marcelsantoso/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-f95a53520b38f7cf6073ce905007284c2cd367b5.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/guice-3.0-no_aop.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="7ec98e8ddabcf9b010b13b815914da82c437e3a7">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-106027498c5dd004dfcdd926df2ab0f63020cfd7.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
+        revision="23.0.2"
         sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-a4d719ef9910db60e20ced839905c3cfbb44227a.jar" />
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-02bafbf96c40cc4f8ac4ba4aaf7f24509a5490ac.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/guice-3.0-no_aop.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="823c7095057b1084396e7dfa88198892ff060f64">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-df203cc9f44b907708dfe892bd4b9230c8775402.jar" />
+        revision="23.0.2"
+        sha1="7ec98e8ddabcf9b010b13b815914da82c437e3a7">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-296bc4ed67e2a6209c1ec8a8cbd9aaf9e18ed946.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="77f9593d979f4347344be233bd0d888315f79517">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-d195d942cf3303233cc74daf6e029ba86b16de91.jar" />
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-f0fa03573e8f5f429f5b08b1b0c270230e878d5d.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/actionbar4guice/unspecified/jars/libs/javax.inject-1.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="2e7c80209dd7b19a67ebe5fb65752cd8ef6f4849">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-42bd6db04180d95d7b92738da4d53a5deaaa6ad7.jar" />
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/javax.inject-1-fe7592c24cb98126c85a670474e1ca5b88f153c8.jar" />
     </item>
     <item
-        jar="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jar="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/zxing/unspecified/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Volumes/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-8860660f46a8e153f1de9b056531ed93694c8efa.jar" />
+        revision="23.0.2"
+        sha1="10221df3e864ec77d7ef514977073de1eed82c92">
+        <dex dex="/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/pre-dexed/debug/classes-95e3cc342c589f038c2967964ddb4077269c2339.jar" />
     </item>
 
 </items>

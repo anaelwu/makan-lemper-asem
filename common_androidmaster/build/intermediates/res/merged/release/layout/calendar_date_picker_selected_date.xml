@@ -67,4 +67,4 @@
         android:textColor="@color/date_picker_selector"
         android:textSize="@dimen/selected_date_year_size" />
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/calendar_date_picker_selected_date.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/layout/calendar_date_picker_selected_date.xml -->
+</LinearLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/layout/calendar_date_picker_selected_date.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/layout/calendar_date_picker_selected_date.xml -->

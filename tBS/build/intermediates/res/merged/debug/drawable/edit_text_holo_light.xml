@@ -22,4 +22,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/textfield_default_holo_light" />
     <item android:state_focused="true" android:drawable="@drawable/textfield_disabled_focused_holo_light" />
     <item android:drawable="@drawable/textfield_disabled_holo_light" />
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/drawable/edit_text_holo_light.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/edit_text_holo_light.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/drawable/edit_text_holo_light.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/edit_text_holo_light.xml -->

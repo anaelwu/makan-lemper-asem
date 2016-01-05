@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -13,10 +13,10 @@
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <bool name="circular_progress_indeterminate">true</bool>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -36,7 +36,7 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="checkbox_checked_color">#55b03d</color>
     <color name="checkbox_color">#6d6d6d</color>
@@ -44,18 +44,18 @@
     <color name="circle_button_color">#ff3f51b5</color>
     <color name="circle_button_shadow_color">#ff000000</color>
     <color name="circular_progress_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="floating_edit_text_color">#ffc8c8c8</color>
     <color name="floating_edit_text_error_color">#DB4437</color>
     <color name="floating_edit_text_highlighted_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
@@ -63,10 +63,10 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="linear_progress_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -80,12 +80,12 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="paper_button_color">#ffffffff</color>
     <color name="paper_button_shadow_color">#000000</color>
     <color name="paper_text_color">#60000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -95,11 +95,11 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="radio_checked_color">#55b03d</color>
     <color name="radio_color">#6d6d6d</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
@@ -107,20 +107,20 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="slider_color">#ffc8c8c8</color>
     <color name="slider_ripple_color">#ffd4d4d4</color>
     <color name="slider_tint_color">#ff3f51b5</color>
     <color name="switch_thumb_checked_color">#289d4d</color>
     <color name="switch_thumb_color">#929292</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <color name="switch_track_checked_color">#2d523e</color>
     <color name="switch_track_color">#4f4f4f</color>
@@ -168,7 +168,7 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -230,7 +230,7 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <dimen name="checkbox_border_width">2dp</dimen>
     <dimen name="checkbox_corner_radius">2dp</dimen>
@@ -248,7 +248,7 @@
     <dimen name="circular_progress_large_size">60dp</dimen>
     <dimen name="circular_progress_normal_size">48dp</dimen>
     <dimen name="circular_progress_small_size">36dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -256,24 +256,24 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <dimen name="floating_edit_text_underline_height">1dp</dimen>
     <dimen name="floating_edit_text_underline_highlighted_height">2dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <dimen name="linear_progress_line_width">4dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <dimen name="paper_button_corner_radius">2dp</dimen>
     <dimen name="paper_padding">7dp</dimen>
@@ -300,7 +300,7 @@
     <dimen name="track_slider_bar_height">2dp</dimen>
     <dimen name="track_slider_ripple_radius">20dp</dimen>
     <dimen name="track_slider_thumb_radius">10dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -316,17 +316,17 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <integer name="circular_progress_max">100</integer>
     <integer name="linear_progress_max">100</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/default.xml -->
     <eat-comment/>
     <integer name="tab_max_column">4</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -345,10 +345,10 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">library</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/materialWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

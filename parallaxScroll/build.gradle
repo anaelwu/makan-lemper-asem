@@ -7,8 +7,11 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 23
+//        multiDexEnabled true
     }
-
+//    dexOptions {
+//        preDexLibraries = false
+//    }
     buildTypes {
         release {
             minifyEnabled false

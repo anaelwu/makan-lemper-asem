@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values-it/strings.xml -->
-    <eat-comment/>
     <string name="day_c">GIORNO</string>
     <string name="day_of_week_label_typeface">sans-serif</string>
     <string name="day_picker_description">Griglia mensile dei giorni</string>

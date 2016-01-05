@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/arrays.xml -->
-    <eat-comment/>
     <string-array name="backup_country_codes" translatable="false">
         <item>"SX"</item>
         <item>"BQ"</item>
@@ -164,8 +162,6 @@
         <!-- Non DST version of Brasilia Standard Time -->
         <item>"Brasilia - Pará"</item>
     </string-array>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="ampm_text_color">#8c8c8c</color>
     <color name="blue">#33b5e5</color>
     <color name="calendar_header">#999999</color>
@@ -199,8 +195,6 @@
     <declare-styleable name="BetterPickersDialogFragment"><attr format="reference" name="bpTextColor"/><attr format="reference" name="bpTitleColor"/><attr format="reference" name="bpDeleteIcon"/><attr format="reference" name="bpCheckIcon"/><attr format="reference" name="bpKeyBackground"/><attr format="reference" name="bpButtonBackground"/><attr format="color" name="bpTitleDividerColor"/><attr format="color" name="bpDividerColor"/><attr format="color" name="bpKeyboardIndicatorColor"/><attr format="reference" name="bpDialogBackground"/></declare-styleable>
     <declare-styleable name="BetterPickersSwitchTheme"><attr format="reference" name="switchStyle_bp"/><attr format="reference" name="switchPreferenceStyle"/></declare-styleable>
     <declare-styleable name="Switch"><attr format="reference" name="thumb"/><attr format="reference" name="thumbTrack"/><attr format="reference" name="textOn"/><attr format="reference" name="textOff"/><attr format="dimension" name="thumbTextPadding_bp"/><attr format="reference" name="switchTextAppearance_bp"/><attr format="dimension" name="switchMinWidth_bp"/><attr format="dimension" name="switchPadding_bp"/></declare-styleable>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="ampm_label_size">16sp</dimen>
     <dimen name="ampm_left_padding">6dip</dimen>
     <dimen name="body_font_padding">4dp</dimen>
@@ -246,13 +240,9 @@
     <dimen name="timer_padding_left">16dip</dimen>
     <dimen name="year_label_height">64dp</dimen>
     <dimen name="year_label_text_size">22dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/ids.xml -->
-    <eat-comment/>
     <item name="date_keyboard" type="id"/>
     <item name="date_month_int" type="id"/>
     <item name="numbers_key" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <plurals name="daily">
         <item quantity="one">Daily</item>
         <item quantity="other">Every <ns1:g id="number">%d</ns1:g> days</item>
@@ -294,13 +284,9 @@
         <item quantity="other">Every <ns1:g id="number">%1$d</ns1:g> weeks on <ns1:g id="days_of_week">%2$s</ns1:g></item>
     </plurals>
     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="ampm_circle_radius_multiplier" type="string">0.19</item>
     <item format="float" name="circle_radius_multiplier" type="string">0.82</item>
     <item format="float" name="circle_radius_multiplier_24HourMode" type="string">0.85</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="day_c">DAY</string>
     <string name="day_of_week_label_typeface">sans-serif</string>
     <string name="day_picker_description">Month grid of days</string>
@@ -330,13 +316,9 @@
     <string name="number_picker_minus_label">—</string>
     <string name="number_picker_plus_minus">+/-</string>
     <string name="number_picker_seperator">.</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="numbers_radius_multiplier_inner" type="string">0.60</item>
     <item format="float" name="numbers_radius_multiplier_normal" type="string">0.81</item>
     <item format="float" name="numbers_radius_multiplier_outer" type="string">0.83</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="palestine_display_name">Palestine</string>
     <string name="picker_cancel">Cancel</string>
     <string name="picker_set">OK</string>
@@ -355,20 +337,12 @@
     <string name="select_hours">Select hours</string>
     <string name="select_minutes">Select minutes</string>
     <string name="select_year">Select year</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="selection_radius_multiplier" type="string">0.16</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="switch_off">OFF</string>
     <string name="switch_on">ON</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="text_size_multiplier_inner" type="string">0.14</item>
     <item format="float" name="text_size_multiplier_normal" type="string">0.17</item>
     <item format="float" name="text_size_multiplier_outer" type="string">0.11</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="time_picker_00_label">:00</string>
     <string name="time_picker_30_label">:30</string>
     <string name="time_picker_ampm_label">--</string>
@@ -379,8 +353,6 @@
     <string name="year_c">YEAR</string>
     <string name="year_picker_description">Year list</string>
     <string name="yearly_plain">Yearly</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/themes.xml -->
-    <eat-comment/>
     <style name="BetterPickersDialogFragment">
         <item name="bpDialogBackground">@drawable/dialog_full_holo_dark</item>
         <item name="bpTitleColor">@color/dialog_text_color_holo_dark</item>
@@ -405,8 +377,6 @@
         <item name="bpDividerColor">@color/default_divider_color_light</item>
         <item name="bpKeyboardIndicatorColor">@color/default_keyboard_indicator_color_light</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/styles.xml -->
-    <eat-comment/>
     <style name="RecurrenceDayOfWeekStyle">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>

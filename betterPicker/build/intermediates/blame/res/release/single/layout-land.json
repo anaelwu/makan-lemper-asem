@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/build/intermediates/res/merged/release/layout-land/radial_time_picker_dialog.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/layout-land/radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/build/intermediates/res/merged/release/layout-land/calendar_date_picker_dialog.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/layout-land/calendar_date_picker_dialog.xml"
+    }
+]

@@ -5,6 +5,9 @@ android {
     buildToolsVersion "21.0.0"
 
     defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 23
+//        multiDexEnabled true
     }
 
     buildTypes {
@@ -13,8 +16,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+//    dexOptions {
+//        preDexLibraries = false
+//    }
 }
 
 dependencies {
     compile 'com.android.support:appcompat-v7:23.0.0'
+
 }

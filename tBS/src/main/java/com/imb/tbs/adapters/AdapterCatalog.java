@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.iapps.libs.objects.SimpleBean;
@@ -75,13 +76,16 @@ public class AdapterCatalog
 
         holder.img.setSquareToWidth(true);
         holder.tvName.setText(bean.getName());
+        holder.img.setImgFail(R.drawable.ic_prod_fail);
         if (Helper.isEmpty(bean.getImg())) {
-            holder.img.loadImage(R.drawable.ic_cross_light);
+            holder.img.loadImage(R.drawable.ic_prod_fail);
+            holder.img.getImage().setScaleType(ImageView.ScaleType.FIT_XY);
         } else {
             holder.img.setVisibility(View.VISIBLE);
             holder.img.loadImage(bean.getImg());
             holder.img.setImageOverlay(0);
             holder.img.setPopupOnClick(false);
+
         }
     }
 }

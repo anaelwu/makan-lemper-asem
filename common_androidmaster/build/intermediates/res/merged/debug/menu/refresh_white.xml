@@ -7,4 +7,4 @@
         android:title="@string/iapps__refresh"
         app:showAsAction="always"/>
 
-</menu><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/refresh_white.xml -->
+</menu>

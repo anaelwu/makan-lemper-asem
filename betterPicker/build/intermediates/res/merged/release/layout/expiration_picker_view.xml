@@ -68,4 +68,4 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/date_viewpager_height"/>
 </LinearLayout>
-<!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/expiration_picker_view.xml -->
+<!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/layout/expiration_picker_view.xml -->

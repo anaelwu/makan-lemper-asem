@@ -117,7 +117,7 @@ public abstract class AdapterProductCat
         else if (bean.getCode().equalsIgnoreCase("T1008"))
             holder.img.setImageResource(R.drawable.ic_cat_range);
         else
-            holder.img.setVisibility(View.GONE);
+            holder.img.setImageResource(R.drawable.ic_generic_prod);
 
         switch (position % 9) {
             case 0:

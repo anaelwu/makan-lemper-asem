@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string-array name="backup_country_codes" translatable="false">
         <item>"SX"</item>
@@ -14,13 +14,13 @@
         <item>"Curaçao"</item>
         <item>"South Sudan"</item>
     </string-array>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="imageSource">
         <item>Gallery</item>
         <item>Camera</item>
     </string-array>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string-array name="recurrence_freq">
         <item>REPEAT DAILY</item>
@@ -172,13 +172,13 @@
         <!-- Non DST version of Brasilia Standard Time -->
         <item>"Brasilia - Pará"</item>
     </string-array>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="fontPath"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -190,10 +190,10 @@
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <bool name="circular_progress_indeterminate">true</bool>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="AliceBlue">#F0F8FF</color>
     <color name="AntiqueWhite">#FAEBD7</color>
@@ -335,7 +335,7 @@
     <color name="WhiteSmoke">#F5F5F5</color>
     <color name="Yellow">#FFFF00</color>
     <color name="YellowGreen">#9ACD32</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -343,23 +343,26 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="ampm_text_color">#8c8c8c</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="android_green">#FFA4C639</color>
     <color name="background">#FFEFEFEF</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="blue">#33b5e5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -369,24 +372,24 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="calendar_header">#999999</color>
     <color name="calendar_selected_date_text">#FFD1D2D4</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="checkbox_checked_color">#55b03d</color>
     <color name="checkbox_color">#6d6d6d</color>
     <color name="checkbox_mark_color">#eeeeee</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="circle_background">#f2f2f2</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="circle_button_color">#ff3f51b5</color>
     <color name="circle_button_shadow_color">#ff000000</color>
     <color name="circular_progress_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="com_facebook_blue">#3B5998</color>
     <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
@@ -399,7 +402,7 @@
     <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
     <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
     <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values/base_colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values/base_colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
@@ -418,10 +421,10 @@
     <color name="common_plus_signin_btn_text_light_disabled">#FFAAAAAA</color>
     <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
     <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="dark_transparent_grey">#99333333</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="darker_blue">#0099CC</color>
     <color name="date_picker_text_normal">#FF999999</color>
@@ -438,45 +441,48 @@
     <color name="default_text_color_holo_dark_disabled">#ff4c4c4c</color>
     <color name="default_text_color_holo_light">#ff000000</color>
     <color name="default_text_color_holo_light_disabled">#ffb2b2b2</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="done_text_color_disabled">#CCCCCC</color>
     <color name="done_text_color_normal">#333333</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="floating_edit_text_color">#ffc8c8c8</color>
     <color name="floating_edit_text_error_color">#DB4437</color>
     <color name="floating_edit_text_highlighted_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="green">#00FF00</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="holo_blue">#FF00DDFF</color>
     <color name="honeycombish_blue">#FF58BAED</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="indicator_color">#58910E</color>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="line_background">#cccccc</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="linear_progress_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -490,18 +496,18 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="numbers_text_color">#8c8c8c</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="paper_button_color">#ffffffff</color>
     <color name="paper_button_shadow_color">#000000</color>
     <color name="paper_text_color">#60000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="pressed_apptheme">#CC4C9EB6</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -511,15 +517,15 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="radio_checked_color">#55b03d</color>
     <color name="radio_color">#6d6d6d</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="recurrence_bubble_text_normal">#ff737373</color>
     <color name="recurrence_picker_background">#fff2f2f2</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
@@ -527,27 +533,27 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="slider_color">#ffc8c8c8</color>
     <color name="slider_ripple_color">#ffd4d4d4</color>
     <color name="slider_tint_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="soft_grey">#FFDDDDDD</color>
     <color name="soft_transparent_grey">#77DDDDDD</color>
     <color name="sparks_yellow">#FFD342</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_checked_color">#289d4d</color>
     <color name="switch_thumb_color">#929292</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_track_checked_color">#2d523e</color>
     <color name="switch_track_color">#4f4f4f</color>
@@ -558,19 +564,19 @@
     <color name="tab_underline_color">#283593</color>
     <color name="track_slider_color">#ffc8c8c8</color>
     <color name="track_slider_tint_color">#ff3f51b5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="transparent">#00000000</color>
     <color name="transparent_Aquamarine">#EE7FFFD4</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="transparent_black">#7F000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="transparent_grey">#77333333</color>
     <color name="transparent_lime_green">#7732CD32</color>
     <color name="transparent_map">#337FFFD4</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="white">#ffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -602,6 +608,7 @@
     <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
     <declare-styleable name="PaperButton"><attr format="string" name="paper_text"/><attr format="dimension" name="paper_text_size"/><attr format="color" name="paper_text_color"/><attr format="string" name="paper_font"/><attr format="color" name="paper_color"/><attr format="dimension" name="paper_corner_radius"/><attr format="float" name="paper_shadow_radius"/><attr format="float" name="paper_shadow_offset_x"/><attr format="float" name="paper_shadow_offset_y"/><attr format="color" name="paper_shadow_color"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
@@ -629,7 +636,7 @@
     <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
     <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
     <declare-styleable name="iapps"><attr format="color" name="loadingMessageColor"/><attr format="color" name="loadingErrorTitleColor"/><attr format="color" name="loadingErrorMessageColor"/><attr format="string" name="loadingMessage"/><attr format="string" name="loadingErrorNetworkTitle"/><attr format="string" name="loadingErrorNoInternetMessage"/><attr format="string" name="loadingErrorUnknownResponseMessage"/><attr format="string" name="loadingRetryButtonText"/></declare-styleable>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -691,19 +698,19 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="ampm_label_size">16sp</dimen>
     <dimen name="ampm_left_padding">6dip</dimen>
     <dimen name="body_font_padding">4dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="button_icon_size">30dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="checkbox_border_width">2dp</dimen>
     <dimen name="checkbox_corner_radius">2dp</dimen>
@@ -721,7 +728,7 @@
     <dimen name="circular_progress_large_size">60dp</dimen>
     <dimen name="circular_progress_normal_size">48dp</dimen>
     <dimen name="circular_progress_small_size">36dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
     <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
@@ -751,7 +758,7 @@
     <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
     <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
     <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="date_picker_component_width">270dp</dimen>
     <dimen name="date_picker_header_height">30dp</dimen>
@@ -761,39 +768,42 @@
     <dimen name="day_number_select_circle_radius">16dp</dimen>
     <dimen name="day_number_size">16sp</dimen>
     <dimen name="dialog_button_font_size">14sp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
     <item name="dialog_fixed_width_major" type="dimen">320dp</item>
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="dialpad_font_size">48sp</dimen>
     <dimen name="dialpad_font_size_ampm">24sp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="done_button_height">42dp</dimen>
     <dimen name="done_label_size">14sp</dimen>
     <dimen name="extra_time_label_margin">-30dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="floating_edit_text_underline_height">1dp</dimen>
     <dimen name="floating_edit_text_underline_highlighted_height">2dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="footer_height">48dip</dimen>
     <dimen name="header_height">96dip</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="header_logo_size">100dp</dimen>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="iapps__button_padding">20dp</dimen>
     <dimen name="iapps__horizontal_margin">20dp</dimen>
@@ -801,13 +811,13 @@
     <dimen name="iapps__small_margin">5dp</dimen>
     <dimen name="iapps__vertical_margin">7dp</dimen>
     <dimen name="iapps__vertical_margin_big">15dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="label_font_size">14sp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="linear_progress_line_width">4dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="list_padding">10dp</dimen>
     <dimen name="margin_big">15dp</dimen>
@@ -816,7 +826,7 @@
     <dimen name="margin_big_xxx">40dp</dimen>
     <dimen name="margin_med">10dp</dimen>
     <dimen name="margin_small">5dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="medium_date_font_size">48dp</dimen>
     <dimen name="medium_expiration_font_size">40dp</dimen>
@@ -824,11 +834,14 @@
     <dimen name="medium_font_size">60dp</dimen>
     <dimen name="medium_font_size_header">24sp</dimen>
     <dimen name="medium_font_size_hms">54dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="min_header_height">170dp</dimen>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="min_size">48dp</dimen>
     <dimen name="min_size_small">40dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="minimum_margin_sides">48dip</dimen>
     <dimen name="minimum_margin_top_bottom">24dip</dimen>
@@ -836,25 +849,25 @@
     <dimen name="month_label_size">16sp</dimen>
     <dimen name="month_list_item_header_height">50dp</dimen>
     <dimen name="month_select_circle_radius">45dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="paper_button_corner_radius">2dp</dimen>
     <dimen name="paper_padding">7dp</dimen>
     <dimen name="paper_text_size">15sp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="picker_dimen">270dip</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="progress_action_padding">8dp</dimen>
     <dimen name="progress_height">50dp</dimen>
     <dimen name="progress_width">50dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="radio_border_radius">10dp</dimen>
     <dimen name="radio_height">48dp</dimen>
@@ -862,7 +875,7 @@
     <dimen name="radio_stroke_width">2dp</dimen>
     <dimen name="radio_thumb_radius">6dp</dimen>
     <dimen name="radio_width">48dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="recurrence_picker_height">340dp</dimen>
     <dimen name="recurrence_picker_width">300dp</dimen>
@@ -871,19 +884,19 @@
     <dimen name="selected_date_month_size">30dp</dimen>
     <dimen name="selected_date_year_size">30dp</dimen>
     <dimen name="separator_padding">4dip</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="shadow_width">15dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="slider_bar_height">2dp</dimen>
     <dimen name="slider_thumb_border_width">2dp</dimen>
     <dimen name="slider_thumb_radius">10dp</dimen>
     <dimen name="slider_thumb_ripple_radius">30dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="slidingmenu_offset">60dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="switch_height">48dp</dimen>
     <dimen name="switch_ripple_max_radius">24dp</dimen>
@@ -891,53 +904,53 @@
     <dimen name="switch_thumb_radius">10dp</dimen>
     <dimen name="switch_track_width">2dp</dimen>
     <dimen name="switch_width">86dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="tab_host_default_height">48dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="tab_nav_button_width">36dp</dimen>
     <dimen name="tab_text_size">15sp</dimen>
     <dimen name="tab_underline_height">5dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="tablet_dialpad_font_size">60sp</dimen>
     <dimen name="tablet_dialpad_font_size_ampm">30sp</dimen>
     <dimen name="time_label_size">60sp</dimen>
     <dimen name="timer_padding_left">16dip</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="track_slider_bar_height">2dp</dimen>
     <dimen name="track_slider_ripple_radius">20dp</dimen>
     <dimen name="track_slider_thumb_radius">10dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="year_label_height">64dp</dimen>
     <dimen name="year_label_text_size">22dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/calligraphy/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="calligraphy_tag_id" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="date_keyboard" type="id"/>
     <item name="date_month_int" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="numbers_key" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -947,41 +960,41 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="circular_progress_max">100</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/version.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">8298000</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="linear_progress_max">100</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/materialWidget/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="tab_max_column">4</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <plurals name="daily">
         <item quantity="one">Daily</item>
         <item quantity="other">Every <ns1:g id="number">%d</ns1:g> days</item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/plurals.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/plurals.xml -->
     <eat-comment/>
     <plurals name="days">
         <item quantity="zero">@string/iapps__days</item>
         <item quantity="one">@string/iapps__day</item>
         <item quantity="other">@string/iapps__days</item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <plurals name="endByCount">
         <item quantity="one">; for one time</item>
         <item quantity="other">; for <ns1:g id="number">%d</ns1:g> times</item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/plurals.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/plurals.xml -->
     <eat-comment/>
     <plurals name="hours">
         <item quantity="zero">@string/iapps__hours</item>
@@ -993,7 +1006,7 @@
         <item quantity="one">@string/iapps__minute</item>
         <item quantity="other"> @string/iapps__minutes</item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <plurals name="recurrence_end_count">
         <item quantity="one">For <ns1:g id="event_count">%d</ns1:g> event</item>
@@ -1027,7 +1040,7 @@
         <item quantity="one">Weekly on <ns1:g id="days_of_week">%2$s</ns1:g></item>
         <item quantity="other">Every <ns1:g id="number">%1$d</ns1:g> weeks on <ns1:g id="days_of_week">%2$s</ns1:g></item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -1046,27 +1059,30 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="actionbar_title">ParallaxHeaderViewPager</string>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="alert_no_phone">No phone number detected</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="ampm_circle_radius_multiplier" type="string">0.19</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">iapps_libs</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/auth_strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/auth_strings.xml -->
     <eat-comment/>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="circle_radius_multiplier" type="string">0.82</item>
     <item format="float" name="circle_radius_multiplier_24HourMode" type="string">0.85</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_choose_friends">Choose Friends</string>
     <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
@@ -1096,7 +1112,7 @@
     <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
     <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
     <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/common_strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
@@ -1128,26 +1144,26 @@
     <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
     <string name="common_google_play_services_updating_title">Google Play services are updating</string>
     <string name="common_open_on_phone">Open on phone</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values/base_strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values/base_strings.xml -->
     <eat-comment/>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="day_c">DAY</string>
     <string name="day_of_week_label_typeface">sans-serif</string>
     <string name="day_picker_description">Month grid of days</string>
     <string name="deleted_key">%1$s deleted</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="done">Done</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="done_label">Done</string>
     <string name="endByDate">; until <ns1:g id="date">%s</ns1:g></string>
     <string name="every_weekday">"Every weekday (Mon\u2013Fri)"</string>
     <string name="expiration_picker_seperator">/</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="female">Female</string>
     <string name="font_bold">RobotoCondensed-Bold.ttf</string>
@@ -1161,7 +1177,7 @@ Pellentesque mollis vestibulum commodo. Mauris eget placerat tortor. Donec eget 
 Quisque blandit, ante volutpat ullamcorper efficitur, tellus mi lacinia nisi, et sollicitudin nibh lectus a nisi. Integer et mollis orci, at maximus ipsum. Maecenas condimentum arcu non vestibulum convallis. Nullam ac arcu eros. Aliquam imperdiet nisi eget leo eleifend tincidunt. Etiam ut ultricies quam. Curabitur a nulla eros. Cras tincidunt, risus ut semper bibendum, nibh libero semper neque, sit amet tincidunt lectus mi sit amet ex.
 
 Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci non pellentesque. Quisque nec imperdiet erat. Aenean dolor lectus, iaculis non hendrerit quis, ultrices ac libero. Ut sodales mollis metus a malesuada. Mauris id sem sodales, finibus lectus eget, tempus magna. Vivamus vehicula ut lorem ac sollicitudin. In eu erat pellentesque, consequat ipsum imperdiet, porta mauris. Donec in elit euismod, sollicitudin metus a, dignissim purus. Mauris non magna suscipit, suscipit ante quis, posuere mi.</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="hint_time_zone_search">Type country name</string>
     <string name="hms_picker_hours_label">H</string>
@@ -1170,7 +1186,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="hour_picker_description">Hours circular slider</string>
     <string name="hours_label">h</string>
     <string name="hours_label_description">hours</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="iapps__cancel">Cancel</string>
     <string name="iapps__conn_fail">Failed to connect to server</string>
@@ -1196,14 +1212,14 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="iapps__unknown_response">Unknown response from server. Please try again later</string>
     <string name="iapps__yes">Yes</string>
     <string name="invalid_credentials">Invalid Credentials</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="item_is_selected">%1$s selected</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="loader_reload">Reload</string>
     <string name="male">Male</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="max_error">Please input a number less than or equal to %1$d</string>
     <string name="min_error">Please input a number greater than or equal to %1$d</string>
@@ -1224,10 +1240,10 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="palestine_display_name">Palestine</string>
     <string name="picker_cancel">Cancel</string>
     <string name="picker_set">OK</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="profile_white">Profile</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="recurrence_end_continously">Forever</string>
@@ -1245,13 +1261,13 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="select_minutes">Select minutes</string>
     <string name="select_year">Select year</string>
     <item format="float" name="selection_radius_multiplier" type="string">0.16</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="share">Share</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="switch_off">OFF</string>
     <string name="switch_on">ON</string>
@@ -1265,20 +1281,35 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
     <string name="timer_delete">Delete</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="update_success">Update success</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="year_c">YEAR</string>
     <string name="year_picker_description">Year list</string>
     <string name="yearly_plain">Yearly</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="ActionBarStyle.Transparent" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@null</item>
+        <item name="android:titleTextStyle">@style/ActionBarStyle.Transparent.TitleTextStyle</item>
+        <item name="titleTextStyle">@style/ActionBarStyle.Transparent.TitleTextStyle</item>
+    </style>
+    <style name="ActionBarStyle.Transparent.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="TransparentTheme"/>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>
@@ -2192,7 +2223,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="BetterPickersDialogFragment">
         <item name="bpDialogBackground">@drawable/dialog_full_holo_dark</item>
@@ -2218,7 +2249,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="bpDividerColor">@color/default_divider_color_light</item>
         <item name="bpKeyboardIndicatorColor">@color/default_keyboard_indicator_color_light</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -2318,7 +2349,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Spinner"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="RecurrenceDayOfWeekStyle">
         <item name="android:layout_width">wrap_content</item>
@@ -2339,7 +2370,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:paddingTop">4dp</item>
         <item name="android:paddingBottom">4dp</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
@@ -2439,7 +2470,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     </style>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.EditEvent_Spinner" parent="@android:style/Widget.Holo.Light.Spinner">
         <item name="android:textSize">18sp</item>
@@ -2459,7 +2490,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:textSize">15sp</item>
         <item name="android:textColor">@color/dialog_text_color_holo_light</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
@@ -2499,6 +2530,17 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="TransparentTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Transparent</item>
+        <item name="actionBarStyle">@style/ActionBarStyle.Transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
@@ -2590,7 +2632,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.Holo.Light.CompoundButton.Switch" parent="android:Widget.CompoundButton">
         <item name="track">@drawable/switch_track_holo_light</item>
@@ -2613,7 +2655,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:textSize">@dimen/time_label_size</item>
         <item name="android:textColor">@color/numbers_text_color</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="btn" parent="android:Widget.Holo.Light.Button">
         <item name="android:minHeight">@dimen/min_size_small</item>
@@ -2633,7 +2675,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:background">@drawable/btn_white_xml</item>
         <item name="android:textColor">@color/Black</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
         <item name="android:layout_width">wrap_content</item>
@@ -2654,13 +2696,13 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:textColor">#4B5164</item>
         <item name="android:gravity">center</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="dialog_animation_fade">
         <item name="android:windowEnterAnimation">@anim/fadein</item>
         <item name="android:windowExitAnimation">@anim/fadeout</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="dialog_button">
         <item name="android:textSize">@dimen/dialog_button_font_size</item>
@@ -2675,7 +2717,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <style name="dialpad_text" parent="dialpad">
         <item name="android:textSize">@dimen/dialpad_font_size_ampm</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="edt_light">
         <item name="floating_edit_text_color">@color/Gray</item>
@@ -2691,7 +2733,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:layout_width">@dimen/min_size</item>
         <item name="android:layout_height">@dimen/min_size</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="label">
         <item name="android:textSize">@dimen/label_font_size</item>
@@ -2699,13 +2741,13 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:textAllCaps">true</item>
         <item name="android:fontFamily">sans-serif-condensed</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="lv">
         <item name="android:clipToPadding">false</item>
         <item name="android:listSelector">@drawable/bg_selectable</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="medium_bold">
         <item name="android:textSize">@dimen/medium_date_font_size</item>
@@ -2735,12 +2777,12 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <style name="medium_light_hms" parent="medium_light">
         <item name="android:textSize">@dimen/medium_font_size_hms</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="radio_white" parent="android:Theme.Holo.Light">
         <item name="android:listChoiceIndicatorSingle">@drawable/radio_white</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="tablet_dialpad">
         <item name="android:textSize">@dimen/tablet_dialpad_font_size</item>
@@ -2752,7 +2794,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
         <item name="android:textAllCaps">true</item>
         <item name="android:fontFamily">sans-serif-condensed</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="tooltip_bubble_text">
 	    <item name="android:textColor">@android:color/white</item>

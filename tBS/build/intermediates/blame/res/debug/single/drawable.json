@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cross_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable/ic_cross_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_fb.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_fb.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_twitter_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_twitter_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_selector_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_mens.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_mens.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_bath.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_bath.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_8_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_8_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_inbox.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_inbox.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_help.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_help.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_tbs_text.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_tbs_text.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_selector_background_transition.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_gift.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_gift.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_scan.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_scan.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/overlay_med_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/overlay_med_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/dum_bday_header.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/dum_bday_header.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_news.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_news.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_6.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_6.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_7_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_7_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_tbs_white.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_tbs_white.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_checkbox_check.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_checkbox_check.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/button_background_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/button_background_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_button_rectangle.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_button_rectangle.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_barcode.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_barcode.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_card_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_card_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_top_button.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_top_button.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_3_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_3_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_store.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_store.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_4.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_4.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_store_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_store_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/pic0.jpg",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/pic0.jpg"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_fb_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_fb_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/edt_green.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/edt_green.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_inverse_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_vcard_member.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_vcard_member.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_fb_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_fb_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rewards_redeem_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_redeem_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background_selected.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_checkbox_uncheck.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/selectable_background_tbs.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/selectable_background_tbs.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_skincare.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_skincare.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/btn_gray_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_gray_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_button.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_button.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_grey_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_youtube_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_youtube_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_close.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_connect.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_connect.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_check_on.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_selectable.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_selectable.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/btn_blue_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_blue_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_blue.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_tbs_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tab_indicator_ab_tbs_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_2.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_2.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/shadow_down.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/shadow_down.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_5.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_5.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_wishlist.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_wishlist.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_10_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_10_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/radio_black.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable/radio_black.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_contact.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_contact.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_makeup.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_makeup.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/recurrence_bubble_fill.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/progress_horizontal_tbs.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/progress_horizontal_tbs.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_transparent.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_transparent.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_place_default_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_selector.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/overlay_rounded.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/overlay_rounded.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rounded_gray.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rounded_gray.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_progress.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_progress.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_pinterest_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_pinterest_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_8.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_8.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_loginbutton_silver.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/top_rounded.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/top_rounded.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_email.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_email.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_wish.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_wish.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_twitter_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_twitter_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/key_background_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/key_background_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/dum_book_header.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/dum_book_header.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_top_background.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_top_background.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rewards_bday_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_bday_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_check.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_check.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_blue_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_store.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_store.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_3.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_3.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/button_background_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/button_background_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_instagram.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_instagram.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_store_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_store_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rewards.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_instagram_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_instagram_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_list_section_header_background.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_call.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_call.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_backspace_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_backspace_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_range.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_range.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_logo.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_store.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_store.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/tbs_tab_indicator_holo.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tbs_tab_indicator_holo.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cross_dark.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable/ic_cross_dark.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_4_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_4_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/pic1.jpg",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/pic1.jpg"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_1.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_1.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_products.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_products.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/overlay.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/overlay.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rounded_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rounded_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_programs.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_programs.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/btn_cab_done_tbs.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_cab_done_tbs.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_1_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_1_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_9_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_9_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_rewards.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_rewards.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_news.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_news.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_contact.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_contact.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_backspace_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_backspace_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_help_img.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_help_img.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_selected.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_selected.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_check_off.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_blue_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_location_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_location_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_profile_default_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_card_pressed.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_card_pressed.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/edit_text_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_qr.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_qr.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/gray_btn_default_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/gray_btn_default_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_2_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_2_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_rewards_bday.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_rewards_bday.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_check_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_check_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_location_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_location_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/key_background_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/key_background_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_current_location_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_current_location_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/switch_track_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/switch_track_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_twitter.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_twitter.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cards.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cards.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/stamp_card_s.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/stamp_card_s.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/switch_thumb.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cur.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cur.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/item_background_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_scan.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_scan.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_grey_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/img_7.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/img_7.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/tbs.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tbs.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_location.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_location.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_card.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_tbs.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tab_indicator_ab_tbs.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_landscape.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/background_landscape.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_youtube.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_youtube.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_selectable_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_selectable_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_lyb.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_lyb.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_current_location.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_current_location.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rewards_book_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_book_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_instagram_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_instagram_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/line.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/line.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_list_divider.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rounded_white_transparent.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rounded_white_transparent.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_vc.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_vc.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_grey_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_check_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/ic_check_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_current_location_pressed.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_current_location_pressed.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_programs.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_programs.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_home_product.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_home_product.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_rewards_member.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_rewards_member.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_youtube_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_youtube_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_pinterest_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_pinterest_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/line_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/line_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/btn_green_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_green_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_tbsgreen.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tab_indicator_ab_tbsgreen.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/press_bg.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable/press_bg.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/dum_redeem_header.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/dum_redeem_header.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/radio_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable/radio_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_pinterest.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_pinterest.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_circle.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/dum_lyb_header.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/dum_lyb_header.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/shadow_right.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/shadow_right.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_fragrance.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_fragrance.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_cat_handcare.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_cat_handcare.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_connect.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_connect.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_border_green.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_border_green.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ab_background_textured_tbs.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ab_background_textured_tbs.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_button_float.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_button_float.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_switch_ball_uncheck.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_6_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_6_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/home_5_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_5_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_rewards_member_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_member_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_rewards_book.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_rewards_book.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/ic_rewards_redeem.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_rewards_redeem.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/btn_white_xml.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_white_xml.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/background_checkbox.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable/background_checkbox.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/overlay_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/overlay_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_item_background.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/bg_overlay_rounded.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_overlay_rounded.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/spinner_background_holo_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_tbs_gray.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tab_indicator_ab_tbs_gray.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_top_button.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable/com_facebook_picker_list_longpressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable/com_facebook_picker_list_longpressed.9.png"
+    }
+]

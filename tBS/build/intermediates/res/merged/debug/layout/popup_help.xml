@@ -35,4 +35,4 @@
         android:layout_marginTop="@dimen/margin_med"
         android:src="@drawable/ic_help_img" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/popup_help.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/popup_help.xml -->

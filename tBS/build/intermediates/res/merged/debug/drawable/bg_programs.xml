@@ -23,4 +23,4 @@
     <item android:drawable="@color/bg_programs_pressed" android:state_pressed="true"/>
     <item android:drawable="@color/bg_programs"></item>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_programs.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_programs.xml -->

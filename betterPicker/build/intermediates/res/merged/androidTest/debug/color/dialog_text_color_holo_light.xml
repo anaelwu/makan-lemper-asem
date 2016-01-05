@@ -8,4 +8,4 @@
 
     <item
             android:color="@color/default_text_color_holo_light"/>
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/color/dialog_text_color_holo_light.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/bundles/debug/res/color/dialog_text_color_holo_light.xml -->
+</selector>

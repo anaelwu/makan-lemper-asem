@@ -106,4 +106,4 @@
         android:layout_alignRight="@+id/pb"
         android:layout_below="@+id/pb" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/fragment_vcard_stamp.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/fragment_vcard_stamp.xml -->

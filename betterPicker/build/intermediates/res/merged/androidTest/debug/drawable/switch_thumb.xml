@@ -22,4 +22,4 @@
     <item android:drawable="@drawable/switch_thumb_activated_holo_light" android:state_checked="true"/>
     <item android:drawable="@drawable/switch_thumb_holo_light_v2"/>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/drawable/switch_thumb.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/bundles/debug/res/drawable/switch_thumb.xml -->
+</selector>

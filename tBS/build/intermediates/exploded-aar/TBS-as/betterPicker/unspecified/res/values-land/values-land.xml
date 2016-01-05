@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values-land/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/values-land/dimens.xml -->
     <eat-comment/>
     <dimen name="date_viewpager_height">189dip</dimen>
     <dimen name="dialog_height">200dip</dimen>

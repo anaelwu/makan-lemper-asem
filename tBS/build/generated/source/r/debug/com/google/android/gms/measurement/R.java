@@ -101,8 +101,8 @@ public final class R {
 		public static final int common_plus_signin_btn_text_light_focused = 0x7f0200db;
 		public static final int common_plus_signin_btn_text_light_normal = 0x7f0200dc;
 		public static final int common_plus_signin_btn_text_light_pressed = 0x7f0200dd;
-		public static final int powered_by_google_dark = 0x7f0201a8;
-		public static final int powered_by_google_light = 0x7f0201a9;
+		public static final int powered_by_google_dark = 0x7f0201aa;
+		public static final int powered_by_google_light = 0x7f0201ab;
 	}
 	public static final class id {
 		public static final int adjust_height = 0x7f0f0024;

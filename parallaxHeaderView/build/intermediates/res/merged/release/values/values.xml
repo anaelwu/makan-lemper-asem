@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -23,10 +23,10 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="background_tab_pressed">#6633B5E5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -46,10 +46,10 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="indicator_color">#58910E</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -169,11 +169,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -181,19 +181,19 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="header_height">238dp</dimen>
     <dimen name="header_logo_size">100dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="min_header_height">170dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -230,14 +230,14 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="actionbar_title">ParallaxHeaderViewPager</string>
     <string name="app_name">ParallaxHeaderViewPager</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBarStyle.Transparent" parent="@style/Widget.AppCompat.ActionBar">
         <item name="android:background">@null</item>
@@ -247,16 +247,16 @@
     <style name="ActionBarStyle.Transparent.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textColor">@android:color/white</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="TransparentTheme"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1405,7 +1405,7 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="TransparentTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
         <item name="android:actionBarStyle">@style/ActionBarStyle.Transparent</item>
@@ -1414,7 +1414,7 @@
         <item name="android:windowActionBarOverlay">true</item>
         <item name="windowActionBarOverlay">true</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>

@@ -35,4 +35,4 @@
     <item android:drawable="@drawable/gf_btn_radio_off_disabled_holo_light" android:state_checked="false"/>
     <item android:drawable="@drawable/gf_btn_radio_on_disabled_holo_light" android:state_checked="true"/>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/radio_black.xml -->
+</selector>

@@ -66,4 +66,4 @@
         android:background="#FFECECEC"
         android:choiceMode="singleChoice" >
     </ListView>
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/timezonepickerview.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/bundles/debug/res/layout/timezonepickerview.xml -->
+</LinearLayout>

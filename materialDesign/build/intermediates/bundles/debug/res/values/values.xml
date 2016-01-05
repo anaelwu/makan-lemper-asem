@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#00FF00</color>
+    <declare-styleable name="CustomAttributes"><attr format="boolean" name="showNumberIndicator"/><attr format="integer" name="max"/><attr format="integer" name="min"/><attr format="integer" name="value"/><attr format="integer" name="progress"/><attr format="boolean" name="check"/><attr format="integer" name="iconFloat"/><attr format="boolean" name="animate"/></declare-styleable>
+    <string name="app_name">MaterialDesign</string>
+</resources>

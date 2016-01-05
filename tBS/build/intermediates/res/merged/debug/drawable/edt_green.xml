@@ -20,4 +20,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/line" />
     <item android:state_focused="true" android:drawable="@drawable/line_focused" />
     <item android:drawable="@drawable/line" />
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/edt_green.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/edt_green.xml -->

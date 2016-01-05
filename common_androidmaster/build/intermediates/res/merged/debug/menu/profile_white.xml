@@ -7,4 +7,4 @@
         android:title="@string/profile_white"
         app:showAsAction="always"/>
 
-</menu><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/profile_white.xml -->
+</menu>

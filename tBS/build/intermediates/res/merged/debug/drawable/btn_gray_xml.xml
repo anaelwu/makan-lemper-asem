@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/bg_btn_gray_pressed" android:state_pressed="true"></item>
     <item android:drawable="@drawable/bg_btn_gray"></item>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_gray_xml.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/btn_gray_xml.xml -->

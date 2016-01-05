@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Volumes/Data/Android/TBS-as/bolts/src/main/res"/><source path="/Volumes/Data/Android/TBS-as/bolts/build/generated/res/rs/debug"/><source path="/Volumes/Data/Android/TBS-as/bolts/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug"><source path="/Volumes/Data/Android/TBS-as/bolts/src/debug/res"/></dataSet><mergedItems/></merger>

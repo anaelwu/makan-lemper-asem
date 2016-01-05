@@ -6,4 +6,4 @@
     	android:interpolator="@android:anim/accelerate_interpolator" 
 		android:duration="@android:integer/config_mediumAnimTime"
 		android:repeatCount="0" />
-</set><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/anim/fadein.xml -->
+</set>

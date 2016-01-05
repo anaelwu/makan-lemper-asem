@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/arrays.xml -->
-    <eat-comment/>
     <string-array name="backup_country_codes" translatable="false">
         <item>"SX"</item>
         <item>"BQ"</item>
@@ -164,8 +162,6 @@
         <!-- Non DST version of Brasilia Standard Time -->
         <item>"Brasilia - Pará"</item>
     </string-array>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -183,20 +179,13 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="ampm_text_color">#8c8c8c</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
     <color name="blue">#33b5e5</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -205,8 +194,6 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="calendar_header">#999999</color>
     <color name="calendar_selected_date_text">#FFD1D2D4</color>
     <color name="circle_background">#f2f2f2</color>
@@ -225,29 +212,20 @@
     <color name="default_text_color_holo_dark_disabled">#ff4c4c4c</color>
     <color name="default_text_color_holo_light">#ff000000</color>
     <color name="default_text_color_holo_light_disabled">#ffb2b2b2</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="done_text_color_disabled">#CCCCCC</color>
     <color name="done_text_color_normal">#333333</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
+    <color name="indicator_color">#58910E</color>
     <color name="line_background">#cccccc</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -260,11 +238,7 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="numbers_text_color">#8c8c8c</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
@@ -273,12 +247,8 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="recurrence_bubble_text_normal">#ff737373</color>
     <color name="recurrence_picker_background">#fff2f2f2</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -289,8 +259,6 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="transparent">#00000000</color>
     <color name="transparent_black">#7F000000</color>
     <color name="white">#ffffff</color>
@@ -313,6 +281,7 @@
     <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
@@ -325,8 +294,6 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_end_material">0dp</dimen>
@@ -387,8 +354,8 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="ampm_label_size">16sp</dimen>
     <dimen name="ampm_left_padding">6dip</dimen>
     <dimen name="body_font_padding">4dp</dimen>
@@ -400,34 +367,23 @@
     <dimen name="day_number_select_circle_radius">16dp</dimen>
     <dimen name="day_number_size">16sp</dimen>
     <dimen name="dialog_button_font_size">14sp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
     <item name="dialog_fixed_width_major" type="dimen">320dp</item>
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="dialpad_font_size">48sp</dimen>
     <dimen name="dialpad_font_size_ampm">24sp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="done_button_height">42dp</dimen>
     <dimen name="done_label_size">14sp</dimen>
     <dimen name="extra_time_label_margin">-30dp</dimen>
     <dimen name="footer_height">48dip</dimen>
     <dimen name="header_height">96dip</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
+    <dimen name="header_logo_size">100dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="label_font_size">14sp</dimen>
     <dimen name="medium_date_font_size">48dp</dimen>
     <dimen name="medium_expiration_font_size">40dp</dimen>
@@ -435,19 +391,16 @@
     <dimen name="medium_font_size">60dp</dimen>
     <dimen name="medium_font_size_header">24sp</dimen>
     <dimen name="medium_font_size_hms">54dp</dimen>
+    <dimen name="min_header_height">170dp</dimen>
     <dimen name="minimum_margin_sides">48dip</dimen>
     <dimen name="minimum_margin_top_bottom">24dip</dimen>
     <dimen name="month_day_label_text_size">10sp</dimen>
     <dimen name="month_label_size">16sp</dimen>
     <dimen name="month_list_item_header_height">50dp</dimen>
     <dimen name="month_select_circle_radius">45dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="picker_dimen">270dip</dimen>
     <dimen name="recurrence_picker_height">340dp</dimen>
     <dimen name="recurrence_picker_width">300dp</dimen>
@@ -462,25 +415,15 @@
     <dimen name="timer_padding_left">16dip</dimen>
     <dimen name="year_label_height">64dp</dimen>
     <dimen name="year_label_text_size">22dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/ids.xml -->
-    <eat-comment/>
     <item name="date_keyboard" type="id"/>
     <item name="date_month_int" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <item name="home" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/ids.xml -->
-    <eat-comment/>
     <item name="numbers_key" type="id"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>
@@ -490,8 +433,6 @@
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <plurals name="daily">
         <item quantity="one">Daily</item>
         <item quantity="other">Every <ns1:g id="number">%d</ns1:g> days</item>
@@ -532,8 +473,6 @@
         <item quantity="one">Weekly on <ns1:g id="days_of_week">%2$s</ns1:g></item>
         <item quantity="other">Every <ns1:g id="number">%1$d</ns1:g> weeks on <ns1:g id="days_of_week">%2$s</ns1:g></item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -551,16 +490,12 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
+    <string name="actionbar_title">ParallaxHeaderViewPager</string>
     <item format="float" name="ampm_circle_radius_multiplier" type="string">0.19</item>
+    <string name="app_name">ParallaxHeaderViewPager</string>
     <item format="float" name="circle_radius_multiplier" type="string">0.82</item>
     <item format="float" name="circle_radius_multiplier_24HourMode" type="string">0.85</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="day_c">DAY</string>
     <string name="day_of_week_label_typeface">sans-serif</string>
     <string name="day_picker_description">Month grid of days</string>
@@ -590,13 +525,9 @@
     <string name="number_picker_minus_label">—</string>
     <string name="number_picker_plus_minus">+/-</string>
     <string name="number_picker_seperator">.</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="numbers_radius_multiplier_inner" type="string">0.60</item>
     <item format="float" name="numbers_radius_multiplier_normal" type="string">0.81</item>
     <item format="float" name="numbers_radius_multiplier_outer" type="string">0.83</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="palestine_display_name">Palestine</string>
     <string name="picker_cancel">Cancel</string>
     <string name="picker_set">OK</string>
@@ -615,23 +546,13 @@
     <string name="select_hours">Select hours</string>
     <string name="select_minutes">Select minutes</string>
     <string name="select_year">Select year</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="selection_radius_multiplier" type="string">0.16</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="switch_off">OFF</string>
     <string name="switch_on">ON</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <item format="float" name="text_size_multiplier_inner" type="string">0.14</item>
     <item format="float" name="text_size_multiplier_normal" type="string">0.17</item>
     <item format="float" name="text_size_multiplier_outer" type="string">0.11</item>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="time_picker_00_label">:00</string>
     <string name="time_picker_30_label">:30</string>
     <string name="time_picker_ampm_label">--</string>
@@ -642,12 +563,19 @@
     <string name="year_c">YEAR</string>
     <string name="year_picker_description">Year list</string>
     <string name="yearly_plain">Yearly</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
+    <style name="ActionBarStyle.Transparent" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@null</item>
+        <item name="android:titleTextStyle">@style/ActionBarStyle.Transparent.TitleTextStyle</item>
+        <item name="titleTextStyle">@style/ActionBarStyle.Transparent.TitleTextStyle</item>
+    </style>
+    <style name="ActionBarStyle.Transparent.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+    <style name="AppTheme" parent="TransparentTheme"/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>
@@ -1561,8 +1489,6 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/themes.xml -->
-    <eat-comment/>
     <style name="BetterPickersDialogFragment">
         <item name="bpDialogBackground">@drawable/dialog_full_holo_dark</item>
         <item name="bpTitleColor">@color/dialog_text_color_holo_dark</item>
@@ -1587,8 +1513,6 @@
         <item name="bpDividerColor">@color/default_divider_color_light</item>
         <item name="bpKeyboardIndicatorColor">@color/default_keyboard_indicator_color_light</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -1687,8 +1611,6 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Spinner"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/styles.xml -->
-    <eat-comment/>
     <style name="RecurrenceDayOfWeekStyle">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
@@ -1708,8 +1630,6 @@
         <item name="android:paddingTop">4dp</item>
         <item name="android:paddingBottom">4dp</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
@@ -1808,8 +1728,6 @@
     </style>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/styles.xml -->
-    <eat-comment/>
     <style name="TextAppearance.EditEvent_Spinner" parent="@android:style/Widget.Holo.Light.Spinner">
         <item name="android:textSize">18sp</item>
         <item name="android:textColor">#FF333333</item>
@@ -1828,8 +1746,6 @@
         <item name="android:textSize">15sp</item>
         <item name="android:textColor">@color/dialog_text_color_holo_light</item>
     </style>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
-    <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Line2" parent=""/>
@@ -1868,6 +1784,13 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="TransparentTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Transparent</item>
+        <item name="actionBarStyle">@style/ActionBarStyle.Transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
@@ -1959,8 +1882,6 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values/styles.xml -->
-    <eat-comment/>
     <style name="Widget.Holo.Light.CompoundButton.Switch" parent="android:Widget.CompoundButton">
         <item name="track">@drawable/switch_track_holo_light</item>
         <item name="thumb">@drawable/switch_thumb</item>

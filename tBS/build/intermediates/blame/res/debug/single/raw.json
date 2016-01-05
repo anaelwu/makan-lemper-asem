@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/zxing/unspecified/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/res/raw/gtm_analytics"
+    }
+]

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="imageSource">
         <item>Gallery</item>
         <item>Camera</item>
     </string-array>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="AliceBlue">#F0F8FF</color>
     <color name="AntiqueWhite">#FAEBD7</color>
@@ -167,7 +167,7 @@
     <declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/><attr name="riv_tile_mode"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_x"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_y"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr></declare-styleable>
     <declare-styleable name="buttonIcon"><attr format="integer" name="iconLeftSrc"/><attr format="integer" name="iconRightSrc"/><attr format="string" name="text"/><attr format="color" name="textColor"/></declare-styleable>
     <declare-styleable name="iapps"><attr format="color" name="loadingMessageColor"/><attr format="color" name="loadingErrorTitleColor"/><attr format="color" name="loadingErrorMessageColor"/><attr format="string" name="loadingMessage"/><attr format="string" name="loadingErrorNetworkTitle"/><attr format="string" name="loadingErrorNoInternetMessage"/><attr format="string" name="loadingErrorUnknownResponseMessage"/><attr format="string" name="loadingRetryButtonText"/></declare-styleable>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
@@ -193,7 +193,7 @@
     <dimen name="shadow_width">15dp</dimen>
     <dimen name="slidingmenu_offset">60dp</dimen>
     <dimen name="tab_host_default_height">48dp</dimen>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/plurals.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/plurals.xml -->
     <eat-comment/>
     <plurals name="days">
         <item quantity="zero">@string/iapps__days</item>
@@ -210,7 +210,7 @@
         <item quantity="one">@string/iapps__minute</item>
         <item quantity="other"> @string/iapps__minutes</item>
     </plurals>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="alert_no_phone">No phone number detected</string>
     <string name="app_name">iapps_libs</string>
@@ -256,7 +256,7 @@ Suspendisse vitae dui eget nisi sodales semper. Pellentesque fringilla a orci no
     <string name="profile_white">Profile</string>
     <string name="share">Share</string>
     <string name="update_success">Update success</string>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="btn" parent="android:Widget.Holo.Light.Button">
         <item name="android:minHeight">@dimen/min_size_small</item>

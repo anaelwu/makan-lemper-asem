@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/home_10_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/home_10"/>
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/home_10_xml.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/home_10_xml.xml -->

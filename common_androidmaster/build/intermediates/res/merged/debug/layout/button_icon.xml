@@ -31,4 +31,4 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/button_icon.xml -->
+</RelativeLayout>

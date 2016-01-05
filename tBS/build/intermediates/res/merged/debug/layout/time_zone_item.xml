@@ -50,4 +50,4 @@
         android:singleLine="true"
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/time_zone_item.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/layout/time_zone_item.xml -->
+</LinearLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/betterPicker/src/main/res/layout/time_zone_item.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/layout/time_zone_item.xml -->

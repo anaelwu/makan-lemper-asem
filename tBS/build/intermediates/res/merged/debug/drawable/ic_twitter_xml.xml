@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/ic_twitter_pressed" android:state_pressed="true"></item>
     <item android:drawable="@drawable/ic_twitter"></item>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_twitter_xml.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/ic_twitter_xml.xml -->

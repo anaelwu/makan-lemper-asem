@@ -30,4 +30,4 @@
     <item android:drawable="@drawable/switch_bg_focused_holo_light" android:state_focused="true"/>
     <item android:drawable="@drawable/switch_bg_holo_light"/>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/drawable/switch_track_holo_light.xml -->
+</selector>

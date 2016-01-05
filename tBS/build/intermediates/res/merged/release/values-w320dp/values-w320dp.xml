@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/values-w320dp/dimens.xml -->
-    <eat-comment/>
-    <dimen name="img_qr_small">120dp</dimen>
-    <dimen name="img_qr_vcard">150dp</dimen>
-</resources>

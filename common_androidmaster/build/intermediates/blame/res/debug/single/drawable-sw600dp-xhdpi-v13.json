@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png"
+    }
+]

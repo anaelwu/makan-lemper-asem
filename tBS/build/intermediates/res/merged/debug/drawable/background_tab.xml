@@ -5,4 +5,4 @@
     <item android:state_focused="true" android:drawable="@color/background_tab_pressed"/>
     <item android:drawable="@android:color/transparent"/>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/parallaxHeaderView/src/main/res/drawable/background_tab.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/background_tab.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/parallaxHeaderView/src/main/res/drawable/background_tab.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/parallaxHeaderView/unspecified/res/drawable/background_tab.xml -->

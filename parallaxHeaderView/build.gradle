@@ -7,6 +7,7 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 21
+//        multiDexEnabled true
     }
 
     buildTypes {
@@ -15,9 +16,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+//    dexOptions {
+//        preDexLibraries = false
+//    }
 }
 
 dependencies {
     compile 'com.android.support:appcompat-v7:23.0.0'
     compile files('libs/nineoldandroids-2.4.0.jar')
+//    compile 'com.nineoldandroids:library:2.4.0+'
 }

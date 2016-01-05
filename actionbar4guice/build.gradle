@@ -2,11 +2,12 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.0"
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 23
+//        multiDexEnabled true
     }
 
     buildTypes {
@@ -15,6 +16,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+//    dexOptions {
+//        preDexLibraries = false
+//    }
 }
 
 dependencies {

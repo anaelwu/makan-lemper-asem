@@ -4,4 +4,4 @@
     <item android:drawable="@color/transparent_grey" android:state_pressed="true"></item>
     <item android:drawable="@color/transparent"></item>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/press_bg.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/drawable/press_bg.xml -->

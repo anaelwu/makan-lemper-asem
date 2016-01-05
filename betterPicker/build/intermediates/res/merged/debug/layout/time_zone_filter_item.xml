@@ -32,4 +32,4 @@
         android:maxLines="2"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/time_zone_filter_item.xml -->
+</LinearLayout>

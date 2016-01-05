@@ -576,8 +576,8 @@ public final class R {
 		public static final int abc_textfield_search_material = 0x7f020043;
 		public static final int ic_backward = 0x7f02012c;
 		public static final int ic_forward = 0x7f02014e;
-		public static final int ic_launcher = 0x7f02015f;
-		public static final int notification_template_icon_bg = 0x7f0201ef;
+		public static final int ic_launcher = 0x7f020160;
+		public static final int notification_template_icon_bg = 0x7f0201f1;
 	}
 	public static final class id {
 		public static final int Large = 0x7f0f0017;

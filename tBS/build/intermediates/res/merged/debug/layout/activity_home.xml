@@ -57,4 +57,4 @@
         android:id="@+id/toolbar"
         layout="@layout/actionbar" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/activity_home.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/activity_home.xml -->

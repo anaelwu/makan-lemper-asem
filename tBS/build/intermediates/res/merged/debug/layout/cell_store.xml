@@ -24,4 +24,4 @@
         android:layout_below="@+id/tvTitle"
         android:maxLines="2" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_store.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/cell_store.xml -->

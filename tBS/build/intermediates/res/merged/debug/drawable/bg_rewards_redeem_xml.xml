@@ -4,4 +4,4 @@
     <item android:drawable="@color/bg_rewards_redeem_pressed" android:state_pressed="true"></item>
     <item android:drawable="@color/bg_rewards_redeem"></item>
 
-</selector><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_redeem_xml.xml -->
+</selector><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/bg_rewards_redeem_xml.xml -->

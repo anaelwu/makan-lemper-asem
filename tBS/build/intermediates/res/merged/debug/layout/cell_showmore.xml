@@ -19,4 +19,4 @@
         android:text="@string/iapps__show_more"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/cell_showmore.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/layout/cell_showmore.xml -->
+</LinearLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/cell_showmore.xml --><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/layout/cell_showmore.xml -->

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/slide_in.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/snackbar_hide_animation.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/anim/snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/snackbar_show_animation.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/anim/snackbar_show_animation.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/progress_indeterminate_animation.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/anim/progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/fadein.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/flip.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/flip.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/down_from_top.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/down_from_top.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/anim/up_from_bottom.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/anim/up_from_bottom.xml"
+    }
+]

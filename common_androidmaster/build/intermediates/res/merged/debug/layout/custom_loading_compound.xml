@@ -69,4 +69,4 @@
             android:text="@string/iapps__retry" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/custom_loading_compound.xml -->
+</LinearLayout>

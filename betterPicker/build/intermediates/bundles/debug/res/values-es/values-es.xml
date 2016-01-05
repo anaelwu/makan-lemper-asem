@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/values-es/strings.xml -->
-    <eat-comment/>
     <string name="hms_picker_hours_label">H</string>
     <string name="hms_picker_minutes_label">M</string>
     <string name="hms_picker_seconds_label">S</string>

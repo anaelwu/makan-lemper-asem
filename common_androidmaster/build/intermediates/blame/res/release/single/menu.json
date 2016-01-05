@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/menu/refresh_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/refresh_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/menu/done_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/done_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/menu/profile_white.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/profile_white.xml"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/build/intermediates/res/merged/release/menu/refresh_black.xml",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/common_androidmaster/src/main/res/menu/refresh_black.xml"
+    }
+]

@@ -14,4 +14,4 @@
         android:paddingTop="10dp"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
-</LinearLayout><!-- From: file:/Volumes/Data/Android/TBS-as/common_androidmaster/src/main/res/layout/group_item.xml -->
+</LinearLayout>

@@ -35,4 +35,4 @@
     <item android:state_focused="true" android:state_selected="false" android:state_pressed="true" android:drawable="@drawable/tab_unselected_pressed_tbs" />
     <item android:state_focused="true" android:state_selected="true"  android:state_pressed="true" android:drawable="@drawable/tab_selected_pressed_tbs" />
 </selector>
-<!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/drawable/tab_indicator_ab_tbs.xml -->
+<!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable/tab_indicator_ab_tbs.xml -->

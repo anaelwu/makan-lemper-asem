@@ -24,4 +24,3 @@
     android:textColor="@color/white"
     android:textSize="@dimen/date_picker_header_text_size"
     android:importantForAccessibility="no" />
-<!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/src/main/res/layout/calendar_date_picker_header_view.xml --><!-- From: file:/Volumes/Data/Android/TBS-as/betterPicker/build/intermediates/bundles/debug/res/layout/calendar_date_picker_header_view.xml -->

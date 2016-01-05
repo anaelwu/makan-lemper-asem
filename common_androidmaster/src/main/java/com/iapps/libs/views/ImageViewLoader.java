@@ -47,6 +47,7 @@ public class ImageViewLoader
             isSquareToHeight = false, popup = false;
     private long         delay;
     private int          placeholder;
+    private int          imgFail;
     private ListenerLoad listenerLoad;
 
     public ImageViewLoader(Context context) {
@@ -79,9 +80,11 @@ public class ImageViewLoader
     }
 
     public void showFail() {
-        if (placeholder == 0) {
+        if (imgFail == 0) {
             image.setScaleType(ScaleType.CENTER);
             image.setImageResource(R.drawable.ic_cross_light);
+        }else{
+            image.setImageResource(imgFail);
         }
         this.image.setVisibility(View.VISIBLE);
     }
@@ -234,6 +237,11 @@ public class ImageViewLoader
 
     public void setListenerLoad(ListenerLoad listenerLoad) {
         this.listenerLoad = listenerLoad;
+    }
+
+    public ImageViewLoader setImgFail(int imgFail) {
+        this.imgFail = imgFail;
+        return this;
     }
 
     // ================================================================================

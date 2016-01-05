@@ -1,0 +1,966 @@
+[
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/actionbar_bg.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/actionbar_bg.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_pressed_tbs_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_pressed_tbs_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_7.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_7.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_send.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_pressed_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_active.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_active.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/textfield_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_pressed_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gray_btn_default_normal_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/gray_btn_default_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_blue_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_edit.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_disabled_focused_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_trash.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_trash.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_progress_dark.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_progress_dark.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_progress_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_progress_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_green_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_green_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_inverse_icon.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_refresh_black.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_refresh_black.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_active_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_active_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_focused_tbs_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_focused_tbs_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_disabled_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/textfield_activated_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_thumb_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher_white.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_launcher_white.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_inactive_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_inactive_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_done_white.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_done_white.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_lock_green.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_lock_green.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_backspace_disabled_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_thumb_pressed_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_card.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_card.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_focused_tbs_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_focused_tbs_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_location.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_cab_done_focused_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_cab_done_focused_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_refresh_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_refresh_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/dialog_full_holo_dark.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/dialog_full_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_5.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_5.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_disabled_focused_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_10_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_10_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_backspace_disabled_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_backspace_disabled_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/edt_light_textfield_default_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/edt_light_textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_tbs_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_tbs_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_search.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_3_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_3_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ab_stacked_solid_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ab_stacked_solid_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/drawable-mdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_2_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_2_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/res/drawable-mdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_4_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_4_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_recurrence_bubble_disabled.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_lock.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/edt_light_textfield_disabled_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/edt_light_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/sprite_check.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/materialDesign/unspecified/res/drawable-mdpi-v4/sprite_check.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_backspace_normal_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/edt_light_textfield_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/edt_light_textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_focused_tbs_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_focused_tbs_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_picker_magnifier.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/edt_light_textfield_activated_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/edt_light_textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_pressed_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_gray_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_gray_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_3.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_3.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_bg_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/progress_bg_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_pressed_tbs_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_pressed_tbs_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_person.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_primary_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/progress_primary_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_refresh_white.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_refresh_white.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_focused_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_1.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_1.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_delete.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu_dropdown_panel_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/menu_dropdown_panel_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_recurrence_bubble_fill.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_bg_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_bg_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_secondary_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/progress_secondary_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_focused_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_focused_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_5_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_5_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_white_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_white_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_focused_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/res/drawable-mdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_7_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_7_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ab_bottom_solid_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ab_bottom_solid_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ab_solid_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ab_solid_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_backspace_normal_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_9.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_9.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_pressed_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_profile_white.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/ic_profile_white.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_8.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_8.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_disabled_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_focused_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_focused_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/dialog_full_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gray_btn_default_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/gray_btn_default_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_actionbar_bg.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_actionbar_bg.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_2.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_2.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_bg_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_tbs_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_tbs_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_cab_done_pressed_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_cab_done_pressed_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gray_btn_default_pressed_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/gray_btn_default_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_disabled_focused_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/list_focused_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/list_focused_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_thumb_holo_light_v2.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_thumb_holo_light_v2.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_scan.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_scan.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_focused_tbs_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_focused_tbs_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_10.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_10.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gray_btn_default_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/gray_btn_default_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/textfield_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_inactive.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_inactive.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_green.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_green.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_disabled_focused_holo_dark.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/textfield_disabled_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_recurrence_bubble_outline_disabled.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/list_pressed_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/list_pressed_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_pressed_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_pressed_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_6.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_6.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_bg_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_bg_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_search_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_search_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_4.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_4.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_tbs_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_tbs_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_tbs_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_tbs_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_8_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_8_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_default_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/spinner_pressed_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_1_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_1_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/edt_light_textfield_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/edt_light_textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_white_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_white_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ab_transparent_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ab_transparent_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_focused_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_focused_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_unselected_pressed_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_unselected_pressed_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/cab_background_bottom_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/cab_background_bottom_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_clear_search_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_clear_search_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_6_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_6_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/switch_thumb_activated_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_pressed_tbs_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_pressed_tbs_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_green_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_green_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_toolbar.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_toolbar.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/cab_background_top_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/cab_background_top_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/tab_selected_pressed_tbs_gray.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/tab_selected_pressed_tbs_gray.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_white.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_white.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/textfield_default_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_done.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ic_done.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_cab_done_default_tbs.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_cab_done_default_tbs.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/home_9_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/home_9_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_green.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_green.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_blue_fb_pressed.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_blue_fb_pressed.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_on_disabled_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gray_btn_default_disabled_focused_holo_light.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/gray_btn_default_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_blue.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/bg_btn_blue.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ab_texture_tile_tbs.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/ab_texture_tile_tbs.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/gf_btn_radio_off_disabled_holo_light.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/common_androidmaster/unspecified/res/drawable-mdpi-v4/gf_btn_radio_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_blue_fb.9.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/drawable-mdpi/btn_blue_fb.9.png"
+    },
+    {
+        "merged": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_recurrence_bubble_outline.png",
+        "source": "/Users/marcelsantoso/Data/Android/TBS-as/tBS/build/intermediates/exploded-aar/TBS-as/betterPicker/unspecified/res/drawable-mdpi-v4/ic_recurrence_bubble_outline.png"
+    }
+]

@@ -29,4 +29,4 @@
         android:layout_toRightOf="@+id/img"
         android:gravity="center_vertical" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/Android/TBS-as/tBS/src/main/res/layout/cell_home.xml -->
+</RelativeLayout><!-- From: file:/Users/marcelsantoso/Data/Android/TBS-as/tBS/src/main/res/layout/cell_home.xml -->
